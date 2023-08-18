@@ -1,0 +1,2742 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.4.7)  20 APR 2021 13:16
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**/home/natalia/Documentos/DATA/TesisI/Data_function/Function/Fit_dust.vs.solub
+ility_All.py
+
+(/home/natalia/Documentos/DATA/TesisI/Data_function/Function/Fit_dust.vs.solubi
+lity_All.py
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14>
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 i
+     mport numpy as np
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no i in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.4 from sklearn.linear_
+                        model import LinearRegression
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 4.
+! Missing $ inserted.
+<inserted text> 
+                $
+l.5 
+    
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 1--5
+[]
+ []
+
+
+Overfull \hbox (137.54407pt too wide) in paragraph at lines 1--5
+[]\OML/cmm/m/it/10 odelimportLinearRegression$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 p
+     rint('name from forcing')
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no p in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no O in font nullfont!
+Missing character: There is no K in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no + in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no + in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no ) in font nullfont!
+! You can't use `macro parameter character #' in horizontal mode.
+l.8 print('OK ' + name + ' so :)' ) #
+                                      También pudo ser print('OK %s so :)' ...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+Missing character: There is no T in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no i in font nullfont!
+LaTeX Font Info:    Trying to load font information for +cmr on input line 8.
+LaTeX Font Info:    No file cmr.fd. on input line 8.
+
+LaTeX Font Warning: Font shape `/cmr/m/n' undefined
+(Font)              using `/cmr/m/n' instead on input line 8.
+
+! Corrupted NFSS tables.
+wrong@fontshape ...message {Corrupted NFSS tables}
+                                                  error@fontshape else let f...
+l.8 print('OK ' + name + ' so :)' ) # Tambié
+                                             n pudo ser print('OK %s so :)' ...
+This error message was generated by an \errmessage
+command, so I can't give any explicit help.
+Pretend that you're Hercule Poirot: Examine all clues,
+and deduce the truth by order and method.
+
+
+LaTeX Font Warning: Font shape `/cmr/m/n' undefined
+(Font)              using `OT1/cmr/m/n' instead on input line 8.
+
+Missing character: There is no n in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no O in font nullfont!
+Missing character: There is no K in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 6--9
+[]
+ []
+
+
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 6--9
+\/cmr/m/n/10 ^^Se
+ []
+
+! You can't use `macro parameter character #' in vertical mode.
+l.10 #
+      name='Albani'
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 #n
+       ame='Albani'
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no H in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no j in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no F in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no + in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no + in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no H in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.11 ...nie/genie-forcings/worjh2.Fe' + name + 'H_
+                                                  Dust_SPIN/biogem_force_flu...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `macro parameter character #' in math mode.
+l.11 ...SPIN/biogem_force_flux_sed_det_SUR.dat') #
+                                                   this line defines the fil...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.13 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 10--13
+[]
+ []
+
+
+Overfull \hbox (488.3296pt too wide) in paragraph at lines 10--13
+[]\OML/cmm/m/it/10 ust[]PIN=biogem[]orce[]lux[]ed[]et[]UR:dat[]\/cmr/m/n/10 )\O
+ML/cmm/m/it/10 thislinedefinesthefilepathofthefilewearetryingtoreadDustH \/cmr/
+m/n/10 =
+ []
+
+
+Overfull \hbox (108.79553pt too wide) in paragraph at lines 10--13
+\OML/cmm/m/it/10 DustH:reshape\/cmr/m/n/10 ((1296\OML/cmm/m/it/10 ; \/cmr/m/n/1
+0 ))$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 S
+      ol_feH=np.genfromtxt('/home/natalia/Documentos/DATA/TesisI/cgenie/cgen...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no S in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.14 Sol_
+         feH=np.genfromtxt('/home/natalia/Documentos/DATA/TesisI/cgenie/cgen...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `macro parameter character #' in math mode.
+l.14 ...ity/worjh2.det_Fe_sol.' + name + '.dat') #
+                                                   this line defines the fil...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.16 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (49.52083pt too wide) in paragraph at lines 14--16
+[]$[]\OML/cmm/m/it/10 eH \/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (505.49399pt too wide) in paragraph at lines 14--16
+\OML/cmm/m/it/10 np:genfromtxt\/cmr/m/n/10 ([]\OML/cmm/m/it/10 =home=natalia=Do
+cumentos=DATA=TesisI=cgenie=cgenie[]utput=Solubility=worjh\/cmr/m/n/10 2\OML/cm
+m/m/it/10 :det[]e[]ol:[] \/cmr/m/n/10 +
+ []
+
+
+Overfull \hbox (35.308pt too wide) in paragraph at lines 14--16
+\OML/cmm/m/it/10 name \/cmr/m/n/10 +[]
+ []
+
+
+Overfull \hbox (313.57304pt too wide) in paragraph at lines 14--16
+\OML/cmm/m/it/10 :dat[]\/cmr/m/n/10 )\OML/cmm/m/it/10 thislinedefinesthefilepat
+hofthefilewearetryingtoreadSol[]eH \/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (110.59508pt too wide) in paragraph at lines 14--16
+\OML/cmm/m/it/10 Sol[]eH:reshape\/cmr/m/n/10 ((1296\OML/cmm/m/it/10 ; \/cmr/m/n
+/10 ))$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 r
+      esult1=[float('nan') if  e==0 else 1 for e in Sol_feH ]
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no [ in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.17 ...float('nan') if  e==0 else 1 for e in Sol_
+                                                  feH ]
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.19 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 17--19
+[]
+ []
+
+
+Overfull \hbox (63.94803pt too wide) in paragraph at lines 17--19
+[]\OML/cmm/m/it/10 eH\/cmr/m/n/10 ]\OML/cmm/m/it/10 result\/cmr/m/n/10 2 =
+ []
+
+
+Overfull \hbox (40.18477pt too wide) in paragraph at lines 17--19
+\/cmr/m/n/10 [0\OML/cmm/m/it/10 ife \/cmr/m/n/10 ==
+ []
+
+
+Overfull \hbox (93.17567pt too wide) in paragraph at lines 17--19
+\/cmr/m/n/10 0\OML/cmm/m/it/10 else\/cmr/m/n/10 1\OML/cmm/m/it/10 foreinSol[]eH
+\/cmr/m/n/10 ]$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 r
+      esult1=np.array(result1)
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no H in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no * in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no H in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 20--22
+[]
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.23 p
+      rint(DustH.shape)
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no p in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no H in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no ) in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 23--24
+[] 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.25 D
+      ustH=[ e for e in DustH if not  np.isnan(e) ]
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no D in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no H in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no [ in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no H in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no ] in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.26 Sol_
+         feH=Sol_feH*result1
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.28 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 25--28
+[]
+ []
+
+
+Overfull \hbox (29.52083pt too wide) in paragraph at lines 25--28
+[]\OML/cmm/m/it/10 eH \/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (38.50467pt too wide) in paragraph at lines 25--28
+\OML/cmm/m/it/10 Sol[]eH \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (75.70958pt too wide) in paragraph at lines 25--28
+\OML/cmm/m/it/10 result\/cmr/m/n/10 1\OML/cmm/m/it/10 Sol[]eH \/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (148.97585pt too wide) in paragraph at lines 25--28
+\/cmr/m/n/10 [\OML/cmm/m/it/10 eforeinSol[]eHifnotnp:isnan\/cmr/m/n/10 (\OML/cm
+m/m/it/10 e\/cmr/m/n/10 )]$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.29 l
+      og_DustH=np.matrix(np.log10(DustH)).T
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no g in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.29 log_
+         DustH=np.matrix(np.log10(DustH)).T
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.31 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (60.95744pt too wide) in paragraph at lines 29--31
+[]$[]\OML/cmm/m/it/10 ustH \/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (195.61954pt too wide) in paragraph at lines 29--31
+\OML/cmm/m/it/10 np:matrix\/cmr/m/n/10 (\OML/cmm/m/it/10 np:log\/cmr/m/n/10 10(
+\OML/cmm/m/it/10 DustH\/cmr/m/n/10 ))\OML/cmm/m/it/10 :Tlog[]ol[]eH \/cmr/m/n/1
+0 =
+ []
+
+
+Overfull \hbox (141.47667pt too wide) in paragraph at lines 29--31
+\OML/cmm/m/it/10 np:matrix\/cmr/m/n/10 (\OML/cmm/m/it/10 np:log\/cmr/m/n/10 10(
+\OML/cmm/m/it/10 Sol[]eH\/cmr/m/n/10 ))\OML/cmm/m/it/10 :T$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.32 r
+      eg = LinearRegression().fit(log_DustH,log_Sol_feH)
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no L in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no R in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no g in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.32 reg = LinearRegression().fit(log_
+                                      DustH,log_Sol_feH)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `macro parameter character #' in math mode.
+l.34 #
+      print(reg.coef_)
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.35 #
+      print(reg.intercept_)
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.40 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 32--40
+[]
+ []
+
+
+Overfull \hbox (106.79227pt too wide) in paragraph at lines 32--40
+[]\OML/cmm/m/it/10 ustH; log[]ol[]eH\/cmr/m/n/10 )\OML/cmm/m/it/10 R\/cmr/m/n/1
+0 2 =
+ []
+
+
+Overfull \hbox (368.94614pt too wide) in paragraph at lines 32--40
+\OML/cmm/m/it/10 reg:score\/cmr/m/n/10 (\OML/cmm/m/it/10 log[]ustH; log[]ol[]eH
+\/cmr/m/n/10 )\OML/cmm/m/it/10 print\/cmr/m/n/10 (\OML/cmm/m/it/10 reg:coef[]pr
+int\/cmr/m/n/10 (\OML/cmm/m/it/10 reg:intercept[]print\/cmr/m/n/10 (\OML/cmm/m/
+it/10 R\/cmr/m/n/10 2)\OML/cmm/m/it/10 coef \/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (107.86201pt too wide) in paragraph at lines 32--40
+\OML/cmm/m/it/10 reg:coef[]\/cmr/m/n/10 0][0]\OML/cmm/m/it/10 intercept \/cmr/m
+/n/10 =
+ []
+
+
+Overfull \hbox (102.14407pt too wide) in paragraph at lines 32--40
+\OML/cmm/m/it/10 reg:intercept[]\/cmr/m/n/10 0]\OML/cmm/m/it/10 coef[] \/cmr/m/
+n/10 =
+ []
+
+
+Overfull \hbox (15.00005pt too wide) in paragraph at lines 32--40
+\/cmr/m/n/10 10 \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (45.13043pt too wide) in paragraph at lines 32--40
+\OMS/cmsy/m/n/10 ^^C\OML/cmm/m/it/10 intercept$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41 p
+      rint(coef,intercept)
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no p in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ) in font nullfont!
+! You can't use `macro parameter character #' in horizontal mode.
+l.42 #
+      print(DustH.shape,Sol_feH.shape)
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+Missing character: There is no p in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no H in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.42 #print(DustH.shape,Sol_
+                            feH.shape)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.44 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 41--44
+[]
+ []
+
+
+Overfull \hbox (66.76971pt too wide) in paragraph at lines 41--44
+[]\OML/cmm/m/it/10 eH:shape\/cmr/m/n/10 )\OML/cmm/m/it/10 x \/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (148.06096pt too wide) in paragraph at lines 41--44
+\OML/cmm/m/it/10 np:linspace\/cmr/m/n/10 (\OML/cmm/m/it/10 np:min\/cmr/m/n/10 (
+\OML/cmm/m/it/10 DustH\/cmr/m/n/10 )\OML/cmm/m/it/10 ; \/cmr/m/n/10 1\OML/cmm/m
+/it/10 :\/cmr/m/n/10 5 \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (15.00005pt too wide) in paragraph at lines 41--44
+\/cmr/m/n/10 10 \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (50.50703pt too wide) in paragraph at lines 41--44
+\OMS/cmsy/m/n/10 ^^C\/cmr/m/n/10 12\OML/cmm/m/it/10 ; num \/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (18.88895pt too wide) in paragraph at lines 41--44
+\/cmr/m/n/10 500)$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.45 p
+      lt.figure(num=1, figsize=(7, 4.5), dpi=100, facecolor='w', edgecolor='k')
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no 7 in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no ) in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 45--46
+[]
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.47 p
+      lt.plot(log_DustH,log_Sol_feH,'*')
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no g in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.47 plt.plot(log_
+                  DustH,log_Sol_feH,'*')
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Undefined control sequence.
+<recently read> \n 
+                   
+l.52 textstr = '\n
+                  '.join((
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Double superscript.
+<recently read> ^
+                 
+l.52 textstr = '\n'
+                   .join((
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+! You can't use `macro parameter character #' in math mode.
+l.53     #
+          r'S=10$^a$xDust$^b$',
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.53     #r'S=10$^
+                  a$xDust$^b$',
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+Missing character: There is no x in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no R in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no = in font nullfont!
+! You can't use `macro parameter character #' in horizontal mode.
+l.58         #
+               r'$\mu=%.2f$' % (mu, ),
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+Missing character: There is no r in font nullfont!
+Missing character: There is no ' in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.63 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (502.2019pt too wide) in paragraph at lines 47--63
+[]$[]\OML/cmm/m/it/10 ustH; log[]ol[]eH;[] \OMS/cmsy/m/n/10 ^^C[]\/cmr/m/n/10 )
+\OML/cmm/m/it/10 plt:xlabel\/cmr/m/n/10 ([]\OML/cmm/m/it/10 log\/cmr/m/n/10 10(
+\OML/cmm/m/it/10 Dust\/cmr/m/n/10 )[])\OML/cmm/m/it/10 plt:ylabel\/cmr/m/n/10 (
+[]\OML/cmm/m/it/10 Log\/cmr/m/n/10 10(\OML/cmm/m/it/10 Solubility\/cmr/m/n/10 )
+[])\OML/cmm/m/it/10 plt:title\/cmr/m/n/10 ([]\OML/cmm/m/it/10 DustvsSolubility[
+]\/cmr/m/n/10 )\OML/cmm/m/it/10 ax \/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (81.16325pt too wide) in paragraph at lines 47--63
+\OML/cmm/m/it/10 plt:gca\/cmr/m/n/10 ()\OML/cmm/m/it/10 textstr \/cmr/m/n/10 =[
+]
+ []
+
+
+Overfull \hbox (57.2051pt too wide) in paragraph at lines 47--63
+[]\OML/cmm/m/it/10 :join\/cmr/m/n/10 ((\OML/cmm/m/it/10 r[]S \/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (18.85434pt too wide) in paragraph at lines 47--63
+\/cmr/m/n/10 10$$[]$$[]$
+ []
+
+
+Overfull \hbox (4.48613pt too wide) in paragraph at lines 47--63
+[]$
+ []
+
+
+Overfull \hbox (16.581pt too wide) in paragraph at lines 47--63
+\OML/cmm/m/it/10 ^^V \/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (42.71991pt too wide) in paragraph at lines 47--63
+\/cmr/m/n/10 ))\OML/cmm/m/it/10 props \/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (70.08984pt too wide) in paragraph at lines 47--63
+\OML/cmm/m/it/10 dict\/cmr/m/n/10 (\OML/cmm/m/it/10 boxstyle \/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (89.41336pt too wide) in paragraph at lines 47--63
+\OML/cmm/m/it/10 round[]; facecolor \/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (69.09377pt too wide) in paragraph at lines 47--63
+\OML/cmm/m/it/10 wheat[]; alpha \/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (186.0859pt too wide) in paragraph at lines 47--63
+\/cmr/m/n/10 0\OML/cmm/m/it/10 :\/cmr/m/n/10 5)\OML/cmm/m/it/10 plt:text\/cmr/m
+/n/10 (0\OML/cmm/m/it/10 :\/cmr/m/n/10 7\OML/cmm/m/it/10 ; \/cmr/m/n/10 0\OML/c
+mm/m/it/10 :\/cmr/m/n/10 93\OML/cmm/m/it/10 ; textstr; transform \/cmr/m/n/10 =
+
+ []
+
+
+Overfull \hbox (114.02629pt too wide) in paragraph at lines 47--63
+\OML/cmm/m/it/10 ax:transAxes; fontsize \/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (120.75854pt too wide) in paragraph at lines 47--63
+\/cmr/m/n/10 14\OML/cmm/m/it/10 ; horizontalalignment \/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (118.62543pt too wide) in paragraph at lines 47--63
+\OML/cmm/m/it/10 left[]; verticalalignment \/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (50.44089pt too wide) in paragraph at lines 47--63
+\OML/cmm/m/it/10 top[]; bbox \/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (28.2755pt too wide) in paragraph at lines 47--63
+\OML/cmm/m/it/10 props\/cmr/m/n/10 )$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.64 p
+      lt.figure(num=2, figsize=(7, 4.5), dpi=100, facecolor='w', edgecolor='k')
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no 7 in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no H in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.65 plt.plot(DustH,Sol_
+                        feH,'*')
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.66 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 64--66
+[]
+ []
+
+
+Overfull \hbox (37.3542pt too wide) in paragraph at lines 64--66
+[]\OML/cmm/m/it/10 eH;[] \OMS/cmsy/m/n/10 ^^C[]\/cmr/m/n/10 )$ 
+ []
+
+! You can't use `macro parameter character #' in vertical mode.
+l.67 #
+      plt.savefig('/home/natalia/Documentos//Documentos/TesisI/Data_function...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.67 #p
+       lt.savefig('/home/natalia/Documentos//Documentos/TesisI/Data_function...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.67 ...atalia/Documentos//Documentos/TesisI/Data_
+                                                  function/Regresion_DustvsS...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing { inserted.
+<to be read again> 
+                   ^
+l.67 ...TesisI/Data_function/Regresion_DustvsSol_'
+                                                   + name + '.png')
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.68 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.68 
+     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (215.51875pt too wide) in paragraph at lines 67--68
+[]$[]\OML/cmm/m/it/10 unction=Regresion[]ustvsSol[]$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.69 p
+      lt.plot(x,coef_a*(x**coef))
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.69 plt.plot(x,coef_
+                     a*(x**coef))
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.72 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (29.83766pt too wide) in paragraph at lines 69--72
+[]$[] \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (14.60419pt too wide) in paragraph at lines 69--72
+\/cmr/m/n/10 (\OML/cmm/m/it/10 x \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (75.80174pt too wide) in paragraph at lines 69--72
+\OMS/cmsy/m/n/10 ^^C\OML/cmm/m/it/10 coef\/cmr/m/n/10 ))\OML/cmm/m/it/10 print\
+/cmr/m/n/10 ([]\OML/cmm/m/it/10 a \/cmr/m/n/10 :[]
+ []
+
+
+Overfull \hbox (74.12425pt too wide) in paragraph at lines 69--72
+\OML/cmm/m/it/10 ; coef[]\/cmr/m/n/10 )\OML/cmm/m/it/10 print\/cmr/m/n/10 ([]\O
+ML/cmm/m/it/10 b \/cmr/m/n/10 :[]
+ []
+
+
+Overfull \hbox (28.13663pt too wide) in paragraph at lines 69--72
+\OML/cmm/m/it/10 ; coef\/cmr/m/n/10 )$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.73 p
+      lt.legend(['Data','Fit'],prop={'size': 14},facecolor='wheat',edgecolor...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no [ in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no F in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no ] in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no ) in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 73--77
+[]
+ []
+
+! You can't use `macro parameter character #' in vertical mode.
+l.78 #
+      plt.savefig('/home/natalia/Documentos//Documentos/TesisI/Data_function...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.78 #p
+       lt.savefig('/home/natalia/Documentos//Documentos/TesisI/Data_function...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.78 ...atalia/Documentos//Documentos/TesisI/Data_
+                                                  function/Regresion_Fit_Dus...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing { inserted.
+<to be read again> 
+                   ^
+l.78 ...sI/Data_function/Regresion_Fit_DustvsSoL_'
+                                                   + name + '.png')
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.79 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.79 
+     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (233.04472pt too wide) in paragraph at lines 78--79
+[]$[]\OML/cmm/m/it/10 unction=Regresion[]it[]ustvsSoL[]$ 
+ []
+
+! You can't use `macro parameter character #' in vertical mode.
+l.81 #
+      plt.figure(num=3, figsize=(7, 4.5), dpi=100, facecolor='w', edgecolor=...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.81 #p
+       lt.figure(num=3, figsize=(7, 4.5), dpi=100, facecolor='w', edgecolor=...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no 7 in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no ) in font nullfont!
+! You can't use `macro parameter character #' in horizontal mode.
+l.82 #
+      lt.plot(log_DustH,(log_Sol_feH-((10**intercept)*(log_DustH**coef))),'*')
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+Missing character: There is no l in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no g in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.82 #lt.plot(log_
+                  DustH,(log_Sol_feH-((10**intercept)*(log_DustH**coef))),'*')
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `macro parameter character #' in math mode.
+l.83 #
+      plt.xlabel('Dust')
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.84 #
+      plt.ylabel('Residual')
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.85 #
+      lt.title('')
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.86 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 81--86
+[]
+ []
+
+
+Overfull \hbox (91.34439pt too wide) in paragraph at lines 81--86
+[]\OML/cmm/m/it/10 ustH; \/cmr/m/n/10 (\OML/cmm/m/it/10 log[]ol[]eH \OMS/cmsy/m
+/n/10 ^^@
+ []
+
+
+Overfull \hbox (22.77785pt too wide) in paragraph at lines 81--86
+\/cmr/m/n/10 ((10 \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (54.01935pt too wide) in paragraph at lines 81--86
+\OMS/cmsy/m/n/10 ^^C\OML/cmm/m/it/10 intercept\/cmr/m/n/10 ) \OMS/cmsy/m/n/10 ^
+^C
+ []
+
+
+Overfull \hbox (52.08833pt too wide) in paragraph at lines 81--86
+\/cmr/m/n/10 (\OML/cmm/m/it/10 log[]ustH \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (266.9582pt too wide) in paragraph at lines 81--86
+\OMS/cmsy/m/n/10 ^^C\OML/cmm/m/it/10 coef\/cmr/m/n/10 )))\OML/cmm/m/it/10 ;[] \
+OMS/cmsy/m/n/10 ^^C[]\/cmr/m/n/10 )\OML/cmm/m/it/10 plt:xlabel\/cmr/m/n/10 ([]\
+OML/cmm/m/it/10 Dust[]\/cmr/m/n/10 )\OML/cmm/m/it/10 plt:ylabel\/cmr/m/n/10 ([]
+\OML/cmm/m/it/10 Residual[]\/cmr/m/n/10 )\OML/cmm/m/it/10 lt:title\/cmr/m/n/10 
+([])$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.88 p
+      lt.show()
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no ) in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 88--89
+[] 
+ []
+
+! You can't use `macro parameter character #' in vertical mode.
+l.90 #
+      #############################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in vertical mode.
+l.90 ##
+       ############################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in vertical mode.
+l.90 ###
+        ###########################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in vertical mode.
+l.90 ####
+         ##########################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in vertical mode.
+l.90 #####
+          #########################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in vertical mode.
+l.90 ######
+           ########################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in vertical mode.
+l.90 #######
+            #######################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in vertical mode.
+l.90 ########
+             ######################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in vertical mode.
+l.90 #########
+              #####################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in vertical mode.
+l.90 ##########
+               ####################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in vertical mode.
+l.90 ###########
+                ###################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in vertical mode.
+l.90 ############
+                 ##################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in vertical mode.
+l.90 #############
+                  #################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in vertical mode.
+l.90 ##############
+                   ################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in vertical mode.
+l.90 ###############
+                    ###############################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in vertical mode.
+l.90 ################
+                     ##############################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in vertical mode.
+l.90 #################
+                      #############################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in vertical mode.
+l.90 ##################
+                       ############################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in vertical mode.
+l.90 ###################
+                        ###########################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in vertical mode.
+l.90 ####################
+                         ##########################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in vertical mode.
+l.90 #####################
+                          #########################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in vertical mode.
+l.90 ######################
+                           ########################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in vertical mode.
+l.90 #######################
+                            #######################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in vertical mode.
+l.90 ########################
+                             ######################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in vertical mode.
+l.90 #########################
+                              #####################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in vertical mode.
+l.90 ##########################
+                               ####################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in vertical mode.
+l.90 ###########################
+                                ###################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in vertical mode.
+l.90 ############################
+                                 ##################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in vertical mode.
+l.90 #############################
+                                  #################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in vertical mode.
+l.90 ##############################
+                                   ################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in vertical mode.
+l.90 ###############################
+                                    ###############
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in vertical mode.
+l.90 ################################
+                                     ##############
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in vertical mode.
+l.90 #################################
+                                      #############
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in vertical mode.
+l.90 ##################################
+                                       ############
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in vertical mode.
+l.90 ###################################
+                                        ###########
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in vertical mode.
+l.90 ####################################
+                                         ##########
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in vertical mode.
+l.90 #####################################
+                                          #########
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in vertical mode.
+l.90 ######################################
+                                           ########
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in vertical mode.
+l.90 #######################################
+                                            #######
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in vertical mode.
+l.90 ########################################
+                                             ######
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in vertical mode.
+l.90 #########################################
+                                              #####
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in vertical mode.
+l.90 ##########################################
+                                               ####
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in vertical mode.
+l.90 ###########################################
+                                                ###
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in vertical mode.
+l.90 ############################################
+                                                 ##
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in vertical mode.
+l.90 #############################################
+                                                  #
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in vertical mode.
+l.90 ...##########################################
+                                                  
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.91 D
+      ustLGM=np.genfromtxt('/home/natalia/Documentos/Tesis/Flujos_de_polvo/G...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no D in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no L in font nullfont!
+Missing character: There is no G in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no F in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no j in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no s in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.91 ...xt('/home/natalia/Documentos/Tesis/Flujos_
+                                                  de_polvo/Globales_Moles/' ...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.98 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (136.84605pt too wide) in paragraph at lines 91--98
+[]$[]\OML/cmm/m/it/10 e[]olvo=Globales[]oles=[] \/cmr/m/n/10 +
+ []
+
+
+Overfull \hbox (35.308pt too wide) in paragraph at lines 91--98
+\OML/cmm/m/it/10 name \/cmr/m/n/10 +[]
+ []
+
+
+Overfull \hbox (15.58337pt too wide) in paragraph at lines 91--98
+\OML/cmm/m/it/10 =[] \/cmr/m/n/10 +
+ []
+
+
+Overfull \hbox (35.308pt too wide) in paragraph at lines 91--98
+\OML/cmm/m/it/10 name \/cmr/m/n/10 +[]
+ []
+
+
+Overfull \hbox (247.56071pt too wide) in paragraph at lines 91--98
+\OML/cmm/m/it/10 :nc[]nnualflux[]olperyr:\/cmr/m/n/10 36\OML/cmm/m/it/10 x\/cmr
+/m/n/10 36[]\OML/cmm/m/it/10 evel\/cmr/m/n/10 10\OML/cmm/m/it/10 :dat[]\/cmr/m/
+n/10 )\OML/cmm/m/it/10 Sol[]eLGM \/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (125.0736pt too wide) in paragraph at lines 91--98
+\OML/cmm/m/it/10 np:power\/cmr/m/n/10 (\OML/cmm/m/it/10 DustLGM; coef\/cmr/m/n/
+10 ) \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (18.88895pt too wide) in paragraph at lines 91--98
+\/cmr/m/n/10 (10 \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (109.41425pt too wide) in paragraph at lines 91--98
+\OMS/cmsy/m/n/10 ^^C\OML/cmm/m/it/10 intercept\/cmr/m/n/10 )\OML/cmm/m/it/10 So
+l[]eLGM \/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (187.32474pt too wide) in paragraph at lines 91--98
+\OML/cmm/m/it/10 Sol[]eLGM:reshape\/cmr/m/n/10 ((1296\OML/cmm/m/it/10 ; \/cmr/m
+/n/10 ))\OML/cmm/m/it/10 Sol[]eLGM \/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (36.64943pt too wide) in paragraph at lines 91--98
+\OML/cmm/m/it/10 result\/cmr/m/n/10 2 \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (110.23431pt too wide) in paragraph at lines 91--98
+\OML/cmm/m/it/10 Sol[]eLGMSol[]eLGM \/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (582.518pt too wide) in paragraph at lines 91--98
+\OML/cmm/m/it/10 Sol[]eLGM:reshape\/cmr/m/n/10 ((36\OML/cmm/m/it/10 ; \/cmr/m/n
+/10 36))\OML/cmm/m/it/10 print\/cmr/m/n/10 (\OML/cmm/m/it/10 Sol[]eLGM\/cmr/m/n
+/10 )\OML/cmm/m/it/10 np:savetxt\/cmr/m/n/10 ([]\OML/cmm/m/it/10 =home=natalia=
+Documentos=DATA=TesisI=cgenie=worjh\/cmr/m/n/10 2\OML/cmm/m/it/10 :det[]e[]ol:[
+] \/cmr/m/n/10 +
+ []
+
+
+Overfull \hbox (38.48859pt too wide) in paragraph at lines 91--98
+\OML/cmm/m/it/10 name \/cmr/m/n/10 +[]
+ []
+
+
+Overfull \hbox (127.68105pt too wide) in paragraph at lines 91--98
+\OML/cmm/m/it/10 GM:dat[]; Sol[]eLGM; fmt \/cmr/m/n/10 =[]$ 
+ []
+
+)
+! Emergency stop.
+<*> ...tion/Function/Fit_dust.vs.solubility_All.py
+                                                  
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 31 strings out of 481239
+ 826 string characters out of 5920378
+ 242563 words of memory out of 5000000
+ 15395 multiletter control sequences out of 15000+600000
+ 532338 words of font info for 24 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 18i,3n,16p,308b,88s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!

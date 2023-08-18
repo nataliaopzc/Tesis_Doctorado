@@ -1,0 +1,1213 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.6.12)  15 JUL 2020 04:47
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**/media/natalia/DATA/Documentos/TesisI/SPIN/netcdf_naty.py
+(/media/natalia/DATA/Documentos/TesisI/SPIN/netcdf_naty.py
+LaTeX2e <2018-12-01>
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 f
+     rom netCDF4 import Dataset as nc #this line imports the package we just...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no f in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no F in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no c in font nullfont!
+! You can't use `macro parameter character #' in horizontal mode.
+l.1 from netCDF4 import Dataset as nc #
+                                       this line imports the package we just...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no j in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 1--2
+[]
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 f
+     ile=nc('/media/natalia/DATA/Documentos/TesisI/SPIN/cgenie_output/worjh2...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no N in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no e in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.3 ...natalia/DATA/Documentos/TesisI/SPIN/cgenie_
+                                                  output/worjh2.PO4Fe_Mahowa...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 3.
+! You can't use `macro parameter character #' in math mode.
+l.3 ...ald2006.SPIN/biogem/fields_biogem_2d.nc') #
+                                                   this line defines the fil...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.4 
+    
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (592.87427pt too wide) in paragraph at lines 3--4
+[]$[]\OML/cmm/m/it/10 utput=worjh\OT1/cmr/m/n/10 2\OML/cmm/m/it/10 :PO\OT1/cmr/
+m/n/10 4\OML/cmm/m/it/10 Fe[]ahowald\OT1/cmr/m/n/10 2006\OML/cmm/m/it/10 :SPIN=
+biogem=fields[]iogem[]d:nc[]\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 thislinedefinesth
+efilepathofthefilewearetryingtoread$ 
+ []
+
+! You can't use `macro parameter character #' in vertical mode.
+l.5 #
+     read variable Solulablized aeolian iron flux to surface grid points
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 #r
+      ead variable Solulablized aeolian iron flux to surface grid points
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no s in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 5--6
+[]
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 S
+     ol_Iron=file.variables['misc_sur_fFe'][:] # ":" takes all the data dime...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no S in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.7 Sol_
+        Iron=file.variables['misc_sur_fFe'][:] # ":" takes all the data dime...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `macro parameter character #' in math mode.
+l.7 Sol_Iron=file.variables['misc_sur_fFe'][:] #
+                                                 ":" takes all the data dime...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.10 #
+      time=file.variables['time'][:]
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.11 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (50.78267pt too wide) in paragraph at lines 7--11
+[]$[]\OML/cmm/m/it/10 ron \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (130.99316pt too wide) in paragraph at lines 7--11
+\OML/cmm/m/it/10 file:variables\OT1/cmr/m/n/10 [[]\OML/cmm/m/it/10 misc[]ur[]Fe
+[]\OT1/cmr/m/n/10 ][:
+ []
+
+
+Overfull \hbox (13.3333pt too wide) in paragraph at lines 7--11
+\OT1/cmr/m/n/10 ]" :
+ []
+
+
+Overfull \hbox (201.15417pt too wide) in paragraph at lines 7--11
+\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 takesallthedatadimensionfromthefilelon \OT1/c
+mr/m/n/10 =
+ []
+
+
+Overfull \hbox (91.6127pt too wide) in paragraph at lines 7--11
+\OML/cmm/m/it/10 file:variables\OT1/cmr/m/n/10 [[]\OML/cmm/m/it/10 lon[]\OT1/cm
+r/m/n/10 ][:
+ []
+
+
+Overfull \hbox (25.41087pt too wide) in paragraph at lines 7--11
+\OT1/cmr/m/n/10 ]\OML/cmm/m/it/10 lat \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (89.66013pt too wide) in paragraph at lines 7--11
+\OML/cmm/m/it/10 file:variables\OT1/cmr/m/n/10 [[]\OML/cmm/m/it/10 lat[]\OT1/cm
+r/m/n/10 ][:
+ []
+
+
+Overfull \hbox (33.82594pt too wide) in paragraph at lines 7--11
+\OT1/cmr/m/n/10 ]\OML/cmm/m/it/10 time \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (98.0752pt too wide) in paragraph at lines 7--11
+\OML/cmm/m/it/10 file:variables\OT1/cmr/m/n/10 [[]\OML/cmm/m/it/10 time[]\OT1/c
+mr/m/n/10 ][:
+ []
+
+
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 7--11
+\OT1/cmr/m/n/10 ]$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.12 p
+      rint( Sol_Iron.shape)
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no p in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.12 print( Sol_
+                Iron.shape)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `macro parameter character #' in math mode.
+l.13 #
+      #########################################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.13 ##
+       ########################################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.13 ###
+        #######################################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.13 ####
+         ######################################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.13 #####
+          #####################################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.13 ######
+           ####################################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.13 #######
+            ###################################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.13 ########
+             ##################################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.13 #########
+              #################################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.13 ##########
+               ################################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.13 ###########
+                ###############################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.13 ############
+                 ##############################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.13 #############
+                  #############################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.13 ##############
+                   ############################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.13 ###############
+                    ###########################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.13 ################
+                     ##########################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.13 #################
+                      #########################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.13 ##################
+                       ########################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.13 ###################
+                        #######################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.13 ####################
+                         ######################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.13 #####################
+                          #####################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.13 ######################
+                           ####################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.13 #######################
+                            ###################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.13 ########################
+                             ##################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.13 #########################
+                              #################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.13 ##########################
+                               ################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.13 ###########################
+                                ###############################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.13 ############################
+                                 ##############################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.13 #############################
+                                  #############################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.13 ##############################
+                                   ############################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.13 ###############################
+                                    ###########################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.13 ################################
+                                     ##########################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.13 #################################
+                                      #########################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.13 ##################################
+                                       ########################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.13 ###################################
+                                        #######################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.13 ####################################
+                                         ######################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.13 #####################################
+                                          #####################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.13 ######################################
+                                           ####################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.13 #######################################
+                                            ###################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.13 ########################################
+                                             ##################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.13 #########################################
+                                              #################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.13 ##########################################
+                                               ################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.13 ###########################################
+                                                ###############
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.13 ############################################
+                                                 ##############
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.13 #############################################
+                                                  #############
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.13 ...##########################################
+                                                  ############
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.13 ...##########################################
+                                                  ###########
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.13 ...##########################################
+                                                  ##########
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.13 ...##########################################
+                                                  #########
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.13 ...##########################################
+                                                  ########
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.13 ...##########################################
+                                                  #######
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.13 ...##########################################
+                                                  ######
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.13 ...##########################################
+                                                  #####
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.13 ...##########################################
+                                                  ####
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.13 ...##########################################
+                                                  ###
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.13 ...##########################################
+                                                  ##
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.13 ...##########################################
+                                                  #
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.13 ...##########################################
+                                                  
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.14 #
+      #########################################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.14 ##
+       ########################################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.14 ###
+        #######################################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.14 ####
+         ######################################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.14 #####
+          #####################################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.14 ######
+           ####################################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.14 #######
+            ###################################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.14 ########
+             ##################################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.14 #########
+              #################################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.14 ##########
+               ################################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.14 ###########
+                ###############################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.14 ############
+                 ##############################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.14 #############
+                  #############################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.14 ##############
+                   ############################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.14 ###############
+                    ###########################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.14 ################
+                     ##########################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.14 #################
+                      #########################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.14 ##################
+                       ########################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.14 ###################
+                        #######################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.14 ####################
+                         ######################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.14 #####################
+                          #####################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.14 ######################
+                           ####################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.14 #######################
+                            ###################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.14 ########################
+                             ##################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.14 #########################
+                              #################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.14 ##########################
+                               ################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.14 ###########################
+                                ###############################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.14 ############################
+                                 ##############################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.14 #############################
+                                  #############################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.14 ##############################
+                                   ############################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.14 ###############################
+                                    ###########################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.14 ################################
+                                     ##########################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.14 #################################
+                                      #########################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.14 ##################################
+                                       ########################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.14 ###################################
+                                        #######################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.14 ####################################
+                                         ######################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.14 #####################################
+                                          #####################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.14 ######################################
+                                           ####################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.14 #######################################
+                                            ###################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.14 ########################################
+                                             ##################
+(That makes 100 errors; please try again.) 
+Here is how much of TeX's memory you used:
+ 10 strings out of 492609
+ 360 string characters out of 6131462
+ 58899 words of memory out of 5000000
+ 4028 multiletter control sequences out of 15000+600000
+ 3640 words of font info for 14 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 18i,2n,12p,269b,56s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+!  ==> Fatal error occurred, no output PDF file produced!

@@ -1,0 +1,7 @@
+PWD /home/natalia/Documentos/DATA/TesisI/Data_function/Function
+INPUT /etc/texmf/web2c/texmf.cnf
+INPUT /usr/share/texmf/web2c/texmf.cnf
+INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
+INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
+INPUT /home/natalia/Documentos/DATA/TesisI/Data_function/Function/Boxplot_diff_CO2-Sol.py
+OUTPUT /home/natalia/Documentos/DATA/TesisI/Data_function/Function/Boxplot_diff_CO2-Sol.log

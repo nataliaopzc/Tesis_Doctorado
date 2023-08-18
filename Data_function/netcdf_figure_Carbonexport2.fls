@@ -1,0 +1,9 @@
+PWD /media/natalia/DATA/Documentos/TesisI/SPIN
+INPUT /etc/texmf/web2c/texmf.cnf
+INPUT /usr/share/texmf/web2c/texmf.cnf
+INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
+INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
+INPUT /media/natalia/DATA/Documentos/TesisI/SPIN/netcdf_figure_Carbonexport2.py
+OUTPUT /media/natalia/DATA/Documentos/TesisI/SPIN/netcdf_figure_Carbonexport2.log
+OUTPUT /media/natalia/DATA/Documentos/TesisI/SPIN/netcdf_figure_Carbonexport2.pdf
+INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map

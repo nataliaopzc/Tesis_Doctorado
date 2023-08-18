@@ -1,0 +1,4936 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.6.12)  27 AUG 2020 10:37
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**/media/natalia/DATA/Documentos/TesisI/SPIN/netcdf_figure_Carbonexport2.py
+(/media/natalia/DATA/Documentos/TesisI/SPIN/netcdf_figure_Carbonexport2.py
+LaTeX2e <2018-12-01>
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 f
+     rom netCDF4 import Dataset as nc #this line imports the package we just...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no f in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no F in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no c in font nullfont!
+! You can't use `macro parameter character #' in horizontal mode.
+l.1 from netCDF4 import Dataset as nc #
+                                       this line imports the package we just...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no j in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.3 from mpl_
+             toolkits.basemap import Basemap
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 3.
+! Missing $ inserted.
+<inserted text> 
+                $
+l.5 
+    
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 1--5
+[]
+ []
+
+
+Overfull \hbox (274.08081pt too wide) in paragraph at lines 1--5
+[]\OML/cmm/m/it/10 oolkits:basemapimportBasemapimportmatplotlib:pyplotasplt$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 f
+     ile1=nc('/media/natalia/DATA/Documentos/TesisI/SPIN/cgenie_output/worjh...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no N in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no e in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.6 ...natalia/DATA/Documentos/TesisI/SPIN/cgenie_
+                                                  output/worjh2.PO4Fe_Mahowa...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `macro parameter character #' in math mode.
+l.6 ...ald2006_DUST/biogem/fields_biogem_2d.nc') #
+                                                   this line defines the fil...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.9 
+    
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (615.5276pt too wide) in paragraph at lines 6--9
+[]$[]\OML/cmm/m/it/10 utput=worjh\OT1/cmr/m/n/10 2\OML/cmm/m/it/10 :PO\OT1/cmr/
+m/n/10 4\OML/cmm/m/it/10 Fe[]ahowald\OT1/cmr/m/n/10 2006[]\OML/cmm/m/it/10 UST=
+biogem=fields[]iogem[]d:nc[]\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 thislinedefinesth
+efilepathofthefilewearetryingtoreadlon \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (96.61272pt too wide) in paragraph at lines 6--9
+\OML/cmm/m/it/10 file\OT1/cmr/m/n/10 1\OML/cmm/m/it/10 :variables\OT1/cmr/m/n/1
+0 [[]\OML/cmm/m/it/10 lon[]\OT1/cmr/m/n/10 ][:
+ []
+
+
+Overfull \hbox (25.41087pt too wide) in paragraph at lines 6--9
+\OT1/cmr/m/n/10 ]\OML/cmm/m/it/10 lat \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (94.66014pt too wide) in paragraph at lines 6--9
+\OML/cmm/m/it/10 file\OT1/cmr/m/n/10 1\OML/cmm/m/it/10 :variables\OT1/cmr/m/n/1
+0 [[]\OML/cmm/m/it/10 lat[]\OT1/cmr/m/n/10 ][:
+ []
+
+
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 6--9
+\OT1/cmr/m/n/10 ]$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 f
+      ile1_ALT=nc('/media/natalia/DATA/Documentos/TesisI/SPIN/cgenie_output/...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no 1 in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.10 file1_
+           ALT=nc('/media/natalia/DATA/Documentos/TesisI/SPIN/cgenie_output/...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.12 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (51.10765pt too wide) in paragraph at lines 10--12
+[]$[]\OML/cmm/m/it/10 LT \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (683.55571pt too wide) in paragraph at lines 10--12
+\OML/cmm/m/it/10 nc\OT1/cmr/m/n/10 ([]\OML/cmm/m/it/10 =media=natalia=DATA=Docu
+mentos=TesisI=SPIN=cgenie[]utput=worjh\OT1/cmr/m/n/10 2\OML/cmm/m/it/10 :PO\OT1
+/cmr/m/n/10 4\OML/cmm/m/it/10 Fe[]ahowald\OT1/cmr/m/n/10 2006[]\OML/cmm/m/it/10
+ UST[]LT=biogem=fields[]iogem[]d:nc[]\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 file\OT1
+/cmr/m/n/10 1[]\OML/cmm/m/it/10 LD \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (630.4716pt too wide) in paragraph at lines 10--12
+\OML/cmm/m/it/10 nc\OT1/cmr/m/n/10 ([]\OML/cmm/m/it/10 =media=natalia=DATA=Docu
+mentos=TesisI=SPIN=cgenie[]utput=worjh\OT1/cmr/m/n/10 2\OML/cmm/m/it/10 :PO\OT1
+/cmr/m/n/10 4\OML/cmm/m/it/10 Fe[]ahowald\OT1/cmr/m/n/10 2006[]\OML/cmm/m/it/10
+ UST[]LD=biogem=fields[]iogem[]d:nc[]\OT1/cmr/m/n/10 )$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 f
+      ile2=nc('/media/natalia/DATA/Documentos/TesisI/SPIN/cgenie_output/worj...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no N in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no e in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.13 ...atalia/DATA/Documentos/TesisI/SPIN/cgenie_
+                                                  output/worjh2.PO4Fe_Mahowa...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `macro parameter character #' in math mode.
+l.13 ...ald2006_ALT/biogem/fields_biogem_2d.nc') #
+                                                   this line defines the fil...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.14 ...ald2006_OLD/biogem/fields_biogem_2d.nc') #
+                                                   this line defines the fil...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.15 ...6_FeFe2LFeL/biogem/fields_biogem_2d.nc') #
+                                                   this line defines the fil...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.16 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (613.5244pt too wide) in paragraph at lines 13--16
+[]$[]\OML/cmm/m/it/10 utput=worjh\OT1/cmr/m/n/10 2\OML/cmm/m/it/10 :PO\OT1/cmr/
+m/n/10 4\OML/cmm/m/it/10 Fe[]ahowald\OT1/cmr/m/n/10 2006[]\OML/cmm/m/it/10 LT=b
+iogem=fields[]iogem[]d:nc[]\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 thislinedefinesthe
+filepathofthefilewearetryingtoreadfile\OT1/cmr/m/n/10 3 =
+ []
+
+
+Overfull \hbox (879.82959pt too wide) in paragraph at lines 13--16
+\OML/cmm/m/it/10 nc\OT1/cmr/m/n/10 ([]\OML/cmm/m/it/10 =media=natalia=DATA=Docu
+mentos=TesisI=SPIN=cgenie[]utput=worjh\OT1/cmr/m/n/10 2\OML/cmm/m/it/10 :PO\OT1
+/cmr/m/n/10 4\OML/cmm/m/it/10 Fe[]ahowald\OT1/cmr/m/n/10 2006[]\OML/cmm/m/it/10
+ LD=biogem=fields[]iogem[]d:nc[]\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 thislinedefin
+esthefilepathofthefilewearetryingtoreadfile\OT1/cmr/m/n/10 4 =
+ []
+
+
+Overfull \hbox (881.39305pt too wide) in paragraph at lines 13--16
+\OML/cmm/m/it/10 nc\OT1/cmr/m/n/10 ([]\OML/cmm/m/it/10 =media=natalia=DATA=Docu
+mentos=TesisI=SPIN=cgenie[]utput=worjh\OT1/cmr/m/n/10 2\OML/cmm/m/it/10 :PO\OT1
+/cmr/m/n/10 4\OML/cmm/m/it/10 Fe[]ahowald\OT1/cmr/m/n/10 2006[]\OML/cmm/m/it/10
+ eFe\OT1/cmr/m/n/10 2\OML/cmm/m/it/10 LFeL=biogem=fields[]iogem[]d:nc[]\OT1/cmr
+/m/n/10 )\OML/cmm/m/it/10 thislinedefinesthefilepathofthefilewearetryingtoread$
+ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 E
+      xp1=file1.variables['bio_export_POC'][:] # ":" takes all the data dime...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no E in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no [ in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.17 Exp1=file1.variables['bio_
+                               export_POC'][:] # ":" takes all the data dime...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `macro parameter character #' in math mode.
+l.17 Exp1=file1.variables['bio_export_POC'][:] #
+                                                 ":" takes all the data dime...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.18 ...file1_ALT.variables['bio_export_POC'][:] #
+                                                   ":" takes all the data di...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.19 ...file1_OLD.variables['bio_export_POC'][:] #
+                                                   ":" takes all the data di...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.20 Exp2=file2.variables['bio_export_POC'][:] #
+                                                 ":" takes all the data dime...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.21 Exp3=file3.variables['bio_export_POC'][:] #
+                                                 ":" takes all the data dime...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.22 Exp4=file4.variables['bio_export_POC'][:] #
+                                                 ":" takes all the data dime...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.23 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (81.863pt too wide) in paragraph at lines 17--23
+[]$[]\OML/cmm/m/it/10 xport[]OC[]\OT1/cmr/m/n/10 ][:
+ []
+
+
+Overfull \hbox (13.3333pt too wide) in paragraph at lines 17--23
+\OT1/cmr/m/n/10 ]" :
+ []
+
+
+Overfull \hbox (231.38101pt too wide) in paragraph at lines 17--23
+\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 takesallthedatadimensionfromthefileExp\OT1/cm
+r/m/n/10 1[]\OML/cmm/m/it/10 LT \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (165.88725pt too wide) in paragraph at lines 17--23
+\OML/cmm/m/it/10 file\OT1/cmr/m/n/10 1[]\OML/cmm/m/it/10 LT:variables\OT1/cmr/m
+/n/10 [[]\OML/cmm/m/it/10 bio[]xport[]OC[]\OT1/cmr/m/n/10 ][:
+ []
+
+
+Overfull \hbox (13.3333pt too wide) in paragraph at lines 17--23
+\OT1/cmr/m/n/10 ]" :
+ []
+
+
+Overfull \hbox (232.98915pt too wide) in paragraph at lines 17--23
+\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 takesallthedatadimensionfromthefileExp\OT1/cm
+r/m/n/10 1[]\OML/cmm/m/it/10 LD \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (168.05095pt too wide) in paragraph at lines 17--23
+\OML/cmm/m/it/10 file\OT1/cmr/m/n/10 1[]\OML/cmm/m/it/10 LD:variables\OT1/cmr/m
+/n/10 [[]\OML/cmm/m/it/10 bio[]xport[]OC[]\OT1/cmr/m/n/10 ][:
+ []
+
+
+Overfull \hbox (13.3333pt too wide) in paragraph at lines 17--23
+\OT1/cmr/m/n/10 ]" :
+ []
+
+
+Overfull \hbox (210.82887pt too wide) in paragraph at lines 17--23
+\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 takesallthedatadimensionfromthefileExp\OT1/cm
+r/m/n/10 2 =
+ []
+
+
+Overfull \hbox (145.89067pt too wide) in paragraph at lines 17--23
+\OML/cmm/m/it/10 file\OT1/cmr/m/n/10 2\OML/cmm/m/it/10 :variables\OT1/cmr/m/n/1
+0 [[]\OML/cmm/m/it/10 bio[]xport[]OC[]\OT1/cmr/m/n/10 ][:
+ []
+
+
+Overfull \hbox (13.3333pt too wide) in paragraph at lines 17--23
+\OT1/cmr/m/n/10 ]" :
+ []
+
+
+Overfull \hbox (210.82887pt too wide) in paragraph at lines 17--23
+\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 takesallthedatadimensionfromthefileExp\OT1/cm
+r/m/n/10 3 =
+ []
+
+
+Overfull \hbox (145.89067pt too wide) in paragraph at lines 17--23
+\OML/cmm/m/it/10 file\OT1/cmr/m/n/10 3\OML/cmm/m/it/10 :variables\OT1/cmr/m/n/1
+0 [[]\OML/cmm/m/it/10 bio[]xport[]OC[]\OT1/cmr/m/n/10 ][:
+ []
+
+
+Overfull \hbox (13.3333pt too wide) in paragraph at lines 17--23
+\OT1/cmr/m/n/10 ]" :
+ []
+
+
+Overfull \hbox (210.82887pt too wide) in paragraph at lines 17--23
+\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 takesallthedatadimensionfromthefileExp\OT1/cm
+r/m/n/10 4 =
+ []
+
+
+Overfull \hbox (145.89067pt too wide) in paragraph at lines 17--23
+\OML/cmm/m/it/10 file\OT1/cmr/m/n/10 4\OML/cmm/m/it/10 :variables\OT1/cmr/m/n/1
+0 [[]\OML/cmm/m/it/10 bio[]xport[]OC[]\OT1/cmr/m/n/10 ][:
+ []
+
+
+Overfull \hbox (13.3333pt too wide) in paragraph at lines 17--23
+\OT1/cmr/m/n/10 ]" :
+ []
+
+
+Overfull \hbox (176.56851pt too wide) in paragraph at lines 17--23
+\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 takesallthedatadimensionfromthefile$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.24 E
+      xp1_median=np.median(Exp1,axis=0) # Median in 3D dimention
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no E in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no 1 in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.24 Exp1_
+          median=np.median(Exp1,axis=0) # Median in 3D dimention
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `macro parameter character #' in math mode.
+l.24 Exp1_median=np.median(Exp1,axis=0) #
+                                          Median in 3D dimention
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.25 Exp1_median_ALT=np.median(Exp1_ALT,axis=0) #
+                                                  Median in 3D dimention
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.26 Exp1_median_OLD=np.median(Exp1_OLD,axis=0) #
+                                                  Median in 3D dimention
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.27 Exp2_median=np.median(Exp2,axis=0) #
+                                          Median in 3D dimention
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.28 Exp3_median=np.median(Exp3,axis=0) #
+                                          Median in 3D dimention
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.29 Exp4_median=np.median(Exp4,axis=0) #
+                                          Median in 3D dimention
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.30 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (62.74612pt too wide) in paragraph at lines 24--30
+[]$[]\OML/cmm/m/it/10 edian \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (108.91348pt too wide) in paragraph at lines 24--30
+\OML/cmm/m/it/10 np:median\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Exp\OT1/cmr/m/n/10 
+1\OML/cmm/m/it/10 ; axis \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (200.27719pt too wide) in paragraph at lines 24--30
+\OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 Medianin\OT1/cmr/m/n/10 3\OML/cmm/m/it/10 Dd
+imentionExp\OT1/cmr/m/n/10 1[]\OML/cmm/m/it/10 edian[]LT \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (128.91006pt too wide) in paragraph at lines 24--30
+\OML/cmm/m/it/10 np:median\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Exp\OT1/cmr/m/n/10 
+1[]\OML/cmm/m/it/10 LT; axis \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (201.88533pt too wide) in paragraph at lines 24--30
+\OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 Medianin\OT1/cmr/m/n/10 3\OML/cmm/m/it/10 Dd
+imentionExp\OT1/cmr/m/n/10 1[]\OML/cmm/m/it/10 edian[]LD \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (131.07376pt too wide) in paragraph at lines 24--30
+\OML/cmm/m/it/10 np:median\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Exp\OT1/cmr/m/n/10 
+1[]\OML/cmm/m/it/10 LD; axis \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (179.72505pt too wide) in paragraph at lines 24--30
+\OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 Medianin\OT1/cmr/m/n/10 3\OML/cmm/m/it/10 Dd
+imentionExp\OT1/cmr/m/n/10 2[]\OML/cmm/m/it/10 edian \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (108.91348pt too wide) in paragraph at lines 24--30
+\OML/cmm/m/it/10 np:median\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Exp\OT1/cmr/m/n/10 
+2\OML/cmm/m/it/10 ; axis \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (179.72505pt too wide) in paragraph at lines 24--30
+\OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 Medianin\OT1/cmr/m/n/10 3\OML/cmm/m/it/10 Dd
+imentionExp\OT1/cmr/m/n/10 3[]\OML/cmm/m/it/10 edian \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (108.91348pt too wide) in paragraph at lines 24--30
+\OML/cmm/m/it/10 np:median\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Exp\OT1/cmr/m/n/10 
+3\OML/cmm/m/it/10 ; axis \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (179.72505pt too wide) in paragraph at lines 24--30
+\OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 Medianin\OT1/cmr/m/n/10 3\OML/cmm/m/it/10 Dd
+imentionExp\OT1/cmr/m/n/10 4[]\OML/cmm/m/it/10 edian \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (108.91348pt too wide) in paragraph at lines 24--30
+\OML/cmm/m/it/10 np:median\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Exp\OT1/cmr/m/n/10 
+4\OML/cmm/m/it/10 ; axis \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (113.27408pt too wide) in paragraph at lines 24--30
+\OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 Medianin\OT1/cmr/m/n/10 3\OML/cmm/m/it/10 Dd
+imention$ 
+ []
+
+! You can't use `macro parameter character #' in vertical mode.
+l.32 #
+      # DIFERENCIAS
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in vertical mode.
+l.32 ##
+        DIFERENCIAS
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.32 ## D
+         IFERENCIAS
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no D in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no F in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no R in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no N in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no S in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 32--33
+[] 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.34 E
+      xp_ALT=(Exp1_median-Exp2_median)
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no E in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no p in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.34 Exp_
+         ALT=(Exp1_median-Exp2_median)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.38 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (51.10765pt too wide) in paragraph at lines 34--38
+[]$[]\OML/cmm/m/it/10 LT \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (67.56216pt too wide) in paragraph at lines 34--38
+\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Exp\OT1/cmr/m/n/10 1[]\OML/cmm/m/it/10 edian 
+\OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (111.20499pt too wide) in paragraph at lines 34--38
+\OML/cmm/m/it/10 Exp\OT1/cmr/m/n/10 2[]\OML/cmm/m/it/10 edian\OT1/cmr/m/n/10 )\
+OML/cmm/m/it/10 Exp[]LD \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (67.56216pt too wide) in paragraph at lines 34--38
+\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Exp\OT1/cmr/m/n/10 1[]\OML/cmm/m/it/10 edian 
+\OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (114.59686pt too wide) in paragraph at lines 34--38
+\OML/cmm/m/it/10 Exp\OT1/cmr/m/n/10 3[]\OML/cmm/m/it/10 edian\OT1/cmr/m/n/10 )\
+OML/cmm/m/it/10 Exp[]LT\OT1/cmr/m/n/10 2 =
+ []
+
+
+Overfull \hbox (88.1143pt too wide) in paragraph at lines 34--38
+\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Exp\OT1/cmr/m/n/10 1[]\OML/cmm/m/it/10 edian[
+]LT \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (116.205pt too wide) in paragraph at lines 34--38
+\OML/cmm/m/it/10 Exp\OT1/cmr/m/n/10 2[]\OML/cmm/m/it/10 edian\OT1/cmr/m/n/10 )\
+OML/cmm/m/it/10 Exp[]LD\OT1/cmr/m/n/10 2 =
+ []
+
+
+Overfull \hbox (89.72244pt too wide) in paragraph at lines 34--38
+\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Exp\OT1/cmr/m/n/10 1[]\OML/cmm/m/it/10 edian[
+]LD \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (59.78436pt too wide) in paragraph at lines 34--38
+\OML/cmm/m/it/10 Exp\OT1/cmr/m/n/10 3[]\OML/cmm/m/it/10 edian\OT1/cmr/m/n/10 )$
+ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.39 E
+      xp_perc_ALT=(100*Exp_ALT)/Exp1_median
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no E in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no p in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.39 Exp_
+         perc_ALT=(100*Exp_ALT)/Exp1_median
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.43 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (69.50319pt too wide) in paragraph at lines 39--43
+[]$[]\OML/cmm/m/it/10 erc[]LT \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (23.88896pt too wide) in paragraph at lines 39--43
+\OT1/cmr/m/n/10 (100 \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (173.85751pt too wide) in paragraph at lines 39--43
+\OML/cmm/m/it/10 Exp[]LT\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 =Exp\OT1/cmr/m/n/10 1
+[]\OML/cmm/m/it/10 edianExp[]erc[]LD \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (23.88896pt too wide) in paragraph at lines 39--43
+\OT1/cmr/m/n/10 (100 \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (178.85753pt too wide) in paragraph at lines 39--43
+\OML/cmm/m/it/10 Exp[]LD\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 =Exp\OT1/cmr/m/n/10 1
+[]\OML/cmm/m/it/10 edianExp[]erc[]LT\OT1/cmr/m/n/10 2 =
+ []
+
+
+Overfull \hbox (23.88896pt too wide) in paragraph at lines 39--43
+\OT1/cmr/m/n/10 (100 \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (204.40968pt too wide) in paragraph at lines 39--43
+\OML/cmm/m/it/10 Exp[]LT\OT1/cmr/m/n/10 2)\OML/cmm/m/it/10 =Exp\OT1/cmr/m/n/10 
+1[]\OML/cmm/m/it/10 edian[]LTExp[]erc[]LD\OT1/cmr/m/n/10 2 =
+ []
+
+
+Overfull \hbox (23.88896pt too wide) in paragraph at lines 39--43
+\OT1/cmr/m/n/10 (100 \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (132.80978pt too wide) in paragraph at lines 39--43
+\OML/cmm/m/it/10 Exp[]LD\OT1/cmr/m/n/10 2)\OML/cmm/m/it/10 =Exp\OT1/cmr/m/n/10 
+1[]\OML/cmm/m/it/10 edian[]LD$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.44 p
+      rint(np.mean(Exp1_median_ALT),np.median(Exp1_median_ALT),'max(Exp1_med...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no p in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no 1 in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.44 print(np.mean(Exp1_
+                        median_ALT),np.median(Exp1_median_ALT),'max(Exp1_med...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `macro parameter character #' in math mode.
+l.54 #
+      #######################################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.54 ##
+       ######################################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.54 ###
+        #####################################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.54 ####
+         ####################################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.54 #####
+          ###################################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.54 ######
+           ##################################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.54 #######
+            #################################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.54 ########
+             ################################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.54 #########
+              ###############################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.54 ##########
+               ##############################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.54 ###########
+                #############################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.54 ############
+                 ############################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.54 #############
+                  ###########################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.54 ##############
+                   ##########################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.54 ###############
+                    #########################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.54 ################
+                     ########################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.54 #################
+                      #######################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.54 ##################
+                       ######################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.54 ###################
+                        #####################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.54 ####################
+                         ####################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.54 #####################
+                          ###################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.54 ######################
+                           ##################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.54 #######################
+                            #################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.54 ########################
+                             ################################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.54 #########################
+                              ###############################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.54 ##########################
+                               ##############################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.54 ###########################
+                                #############################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.54 ############################
+                                 ############################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.54 #############################
+                                  ###########################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.54 ##############################
+                                   ##########################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.54 ###############################
+                                    #########################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.54 ################################
+                                     ########################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.54 #################################
+                                      #######################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.54 ##################################
+                                       ######################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.54 ###################################
+                                        #####################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.54 ####################################
+                                         ####################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.54 #####################################
+                                          ###################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.54 ######################################
+                                           ##################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.54 #######################################
+                                            #################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.54 ########################################
+                                             ################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.54 #########################################
+                                              ###############
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.54 ##########################################
+                                               ##############
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.54 ###########################################
+                                                #############
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.54 ############################################
+                                                 ############
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.54 #############################################
+                                                  ###########
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.54 ...##########################################
+                                                  ##########
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.54 ...##########################################
+                                                  #########
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.54 ...##########################################
+                                                  ########
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.54 ...##########################################
+                                                  #######
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.54 ...##########################################
+                                                  ######
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.54 ...##########################################
+                                                  #####
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.54 ...##########################################
+                                                  ####
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.54 ...##########################################
+                                                  ###
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.54 ...##########################################
+                                                  ##
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.54 ...##########################################
+                                                  #
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.54 ...##########################################
+                                                  
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.55 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (337.10522pt too wide) in paragraph at lines 44--55
+[]$[]\OML/cmm/m/it/10 edian[]LT\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ; np:median\OT
+1/cmr/m/n/10 (\OML/cmm/m/it/10 Exp\OT1/cmr/m/n/10 1[]\OML/cmm/m/it/10 edian[]LT
+\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ;[] max\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Exp\
+OT1/cmr/m/n/10 1[]\OML/cmm/m/it/10 edian[]LT\OT1/cmr/m/n/10 ) =[]
+ []
+
+
+Overfull \hbox (245.32655pt too wide) in paragraph at lines 44--55
+\OML/cmm/m/it/10 ; np:max\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Exp\OT1/cmr/m/n/10 1
+[]\OML/cmm/m/it/10 edian[]LT\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ;[] min\OT1/cmr/m
+/n/10 (\OML/cmm/m/it/10 Exp\OT1/cmr/m/n/10 1[]\OML/cmm/m/it/10 edian[]LT\OT1/cm
+r/m/n/10 ) =[]
+ []
+
+
+Overfull \hbox (539.42525pt too wide) in paragraph at lines 44--55
+\OML/cmm/m/it/10 ; np:min\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Exp\OT1/cmr/m/n/10 1
+[]\OML/cmm/m/it/10 edian[]LT\OT1/cmr/m/n/10 ))\OML/cmm/m/it/10 print\OT1/cmr/m/
+n/10 (\OML/cmm/m/it/10 np:mean\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Exp\OT1/cmr/m/n
+/10 1[]\OML/cmm/m/it/10 edian[]LD\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ; np:median\
+OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Exp\OT1/cmr/m/n/10 1[]\OML/cmm/m/it/10 edian[]
+LD\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ;[] max\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Ex
+p\OT1/cmr/m/n/10 1[]\OML/cmm/m/it/10 edian[]LD\OT1/cmr/m/n/10 ) =[]
+ []
+
+
+Overfull \hbox (248.54283pt too wide) in paragraph at lines 44--55
+\OML/cmm/m/it/10 ; np:max\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Exp\OT1/cmr/m/n/10 1
+[]\OML/cmm/m/it/10 edian[]LD\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ;[] min\OT1/cmr/m
+/n/10 (\OML/cmm/m/it/10 Exp\OT1/cmr/m/n/10 1[]\OML/cmm/m/it/10 edian[]LD\OT1/cm
+r/m/n/10 ) =[]
+ []
+
+
+Overfull \hbox (474.55255pt too wide) in paragraph at lines 44--55
+\OML/cmm/m/it/10 ; np:min\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Exp\OT1/cmr/m/n/10 1
+[]\OML/cmm/m/it/10 edian[]LD\OT1/cmr/m/n/10 ))\OML/cmm/m/it/10 print\OT1/cmr/m/
+n/10 (\OML/cmm/m/it/10 np:mean\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Exp\OT1/cmr/m/n
+/10 2[]\OML/cmm/m/it/10 edian\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ; np:median\OT1/
+cmr/m/n/10 (\OML/cmm/m/it/10 Exp\OT1/cmr/m/n/10 2[]\OML/cmm/m/it/10 edian\OT1/c
+mr/m/n/10 )\OML/cmm/m/it/10 ;[] max\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Exp\OT1/cm
+r/m/n/10 2[]\OML/cmm/m/it/10 edian\OT1/cmr/m/n/10 ) =[]
+ []
+
+
+Overfull \hbox (204.22227pt too wide) in paragraph at lines 44--55
+\OML/cmm/m/it/10 ; np:max\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Exp\OT1/cmr/m/n/10 2
+[]\OML/cmm/m/it/10 edian\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ;[] min\OT1/cmr/m/n/1
+0 (\OML/cmm/m/it/10 Exp\OT1/cmr/m/n/10 2[]\OML/cmm/m/it/10 edian\OT1/cmr/m/n/10
+ ) =[]
+ []
+
+
+Overfull \hbox (452.39227pt too wide) in paragraph at lines 44--55
+\OML/cmm/m/it/10 ; np:min\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Exp\OT1/cmr/m/n/10 2
+[]\OML/cmm/m/it/10 edian\OT1/cmr/m/n/10 ))\OML/cmm/m/it/10 print\OT1/cmr/m/n/10
+ (\OML/cmm/m/it/10 np:mean\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Exp\OT1/cmr/m/n/10 
+3[]\OML/cmm/m/it/10 edian\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ; np:median\OT1/cmr/
+m/n/10 (\OML/cmm/m/it/10 Exp\OT1/cmr/m/n/10 3[]\OML/cmm/m/it/10 edian\OT1/cmr/m
+/n/10 )\OML/cmm/m/it/10 ;[] max\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Exp\OT1/cmr/m/
+n/10 3[]\OML/cmm/m/it/10 edian\OT1/cmr/m/n/10 ) =[]
+ []
+
+
+Overfull \hbox (204.22227pt too wide) in paragraph at lines 44--55
+\OML/cmm/m/it/10 ; np:max\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Exp\OT1/cmr/m/n/10 3
+[]\OML/cmm/m/it/10 edian\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ;[] min\OT1/cmr/m/n/1
+0 (\OML/cmm/m/it/10 Exp\OT1/cmr/m/n/10 3[]\OML/cmm/m/it/10 edian\OT1/cmr/m/n/10
+ ) =[]
+ []
+
+
+Overfull \hbox (417.47685pt too wide) in paragraph at lines 44--55
+\OML/cmm/m/it/10 ; np:min\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Exp\OT1/cmr/m/n/10 3
+[]\OML/cmm/m/it/10 edian\OT1/cmr/m/n/10 ))\OML/cmm/m/it/10 print\OT1/cmr/m/n/10
+ (\OML/cmm/m/it/10 np:mean\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Exp[]LT\OT1/cmr/m/n
+/10 2)\OML/cmm/m/it/10 ; np:median\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Exp[]LT\OT1
+/cmr/m/n/10 2)\OML/cmm/m/it/10 ;[] max\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Exp[]LT
+\OT1/cmr/m/n/10 2) =[]
+ []
+
+
+Overfull \hbox (180.94533pt too wide) in paragraph at lines 44--55
+\OML/cmm/m/it/10 ; np:max\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Exp[]LT\OT1/cmr/m/n/
+10 2)\OML/cmm/m/it/10 ;[] min\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Exp[]LT\OT1/cmr/
+m/n/10 2) =[]
+ []
+
+
+Overfull \hbox (410.6628pt too wide) in paragraph at lines 44--55
+\OML/cmm/m/it/10 ; np:min\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Exp[]LT\OT1/cmr/m/n/
+10 2))\OML/cmm/m/it/10 print\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 np:mean\OT1/cmr/m
+/n/10 (\OML/cmm/m/it/10 Exp[]LD\OT1/cmr/m/n/10 2)\OML/cmm/m/it/10 ; np:median\O
+T1/cmr/m/n/10 (\OML/cmm/m/it/10 Exp[]LD\OT1/cmr/m/n/10 2)\OML/cmm/m/it/10 ;[] m
+ax\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Exp[]LD\OT1/cmr/m/n/10 2) =[]
+ []
+
+
+Overfull \hbox (184.1616pt too wide) in paragraph at lines 44--55
+\OML/cmm/m/it/10 ; np:max\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Exp[]LD\OT1/cmr/m/n/
+10 2)\OML/cmm/m/it/10 ;[] min\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Exp[]LD\OT1/cmr/
+m/n/10 2) =[]
+ []
+
+
+Overfull \hbox (447.63309pt too wide) in paragraph at lines 44--55
+\OML/cmm/m/it/10 ; np:min\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Exp[]LD\OT1/cmr/m/n/
+10 2))\OML/cmm/m/it/10 print\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 np:mean\OT1/cmr/m
+/n/10 (\OML/cmm/m/it/10 Exp[]erc[]LT\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ; np:medi
+an\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Exp[]erc[]LT\OT1/cmr/m/n/10 )\OML/cmm/m/it/
+10 ;[] max\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Exp[]erc[]LT\OT1/cmr/m/n/10 ) =[]
+ []
+
+
+Overfull \hbox (207.73637pt too wide) in paragraph at lines 44--55
+\OML/cmm/m/it/10 ; np:max\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Exp[]erc[]LT\OT1/cmr
+/m/n/10 )\OML/cmm/m/it/10 ;[] min\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Exp[]erc[]LT
+\OT1/cmr/m/n/10 ) =[]
+ []
+
+
+Overfull \hbox (464.24489pt too wide) in paragraph at lines 44--55
+\OML/cmm/m/it/10 ; np:min\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Exp[]erc[]LT\OT1/cmr
+/m/n/10 ))\OML/cmm/m/it/10 print\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 np:mean\OT1/c
+mr/m/n/10 (\OML/cmm/m/it/10 Exp[]erc[]LD\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ; np:
+median\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Exp[]erc[]LD\OT1/cmr/m/n/10 )\OML/cmm/m
+/it/10 ;[] max\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Exp[]erc[]LD\OT1/cmr/m/n/10 ) =
+[]
+ []
+
+
+Overfull \hbox (210.95265pt too wide) in paragraph at lines 44--55
+\OML/cmm/m/it/10 ; np:max\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Exp[]erc[]LD\OT1/cmr
+/m/n/10 )\OML/cmm/m/it/10 ;[] min\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Exp[]erc[]LD
+\OT1/cmr/m/n/10 ) =[]
+ []
+
+
+Overfull \hbox (476.02866pt too wide) in paragraph at lines 44--55
+\OML/cmm/m/it/10 ; np:min\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Exp[]erc[]LD\OT1/cmr
+/m/n/10 ))\OML/cmm/m/it/10 print\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 np:mean\OT1/c
+mr/m/n/10 (\OML/cmm/m/it/10 Exp[]erc[]LT\OT1/cmr/m/n/10 2)\OML/cmm/m/it/10 ; np
+:median\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Exp[]erc[]LT\OT1/cmr/m/n/10 2)\OML/cmm
+/m/it/10 ;[] max\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Exp[]erc[]LT\OT1/cmr/m/n/10 2
+) =[]
+ []
+
+
+Overfull \hbox (217.7364pt too wide) in paragraph at lines 44--55
+\OML/cmm/m/it/10 ; np:max\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Exp[]erc[]LT\OT1/cmr
+/m/n/10 2)\OML/cmm/m/it/10 ;[] min\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Exp[]erc[]L
+T\OT1/cmr/m/n/10 2) =[]
+ []
+
+
+Overfull \hbox (484.24495pt too wide) in paragraph at lines 44--55
+\OML/cmm/m/it/10 ; np:min\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Exp[]erc[]LT\OT1/cmr
+/m/n/10 2))\OML/cmm/m/it/10 print\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 np:mean\OT1/
+cmr/m/n/10 (\OML/cmm/m/it/10 Exp[]erc[]LD\OT1/cmr/m/n/10 2)\OML/cmm/m/it/10 ; n
+p:median\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Exp[]erc[]LD\OT1/cmr/m/n/10 2)\OML/cm
+m/m/it/10 ;[] max\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Exp[]erc[]LD\OT1/cmr/m/n/10 
+2) =[]
+ []
+
+
+Overfull \hbox (220.95268pt too wide) in paragraph at lines 44--55
+\OML/cmm/m/it/10 ; np:max\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Exp[]erc[]LD\OT1/cmr
+/m/n/10 2)\OML/cmm/m/it/10 ;[] min\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Exp[]erc[]L
+D\OT1/cmr/m/n/10 2) =[]
+ []
+
+
+Overfull \hbox (112.41078pt too wide) in paragraph at lines 44--55
+\OML/cmm/m/it/10 ; np:min\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Exp[]erc[]LD\OT1/cmr
+/m/n/10 2))$ 
+ []
+
+! You can't use `macro parameter character #' in vertical mode.
+l.56 #
+      m = Basemap(projection='mill',lon_0=-80,lat_0=0,resolution='l')
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.56 #m
+        = Basemap(projection='mill',lon_0=-80,lat_0=0,resolution='l')
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no m in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no B in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no j in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.56 #m = Basemap(projection='mill',lon_
+                                        0=-80,lat_0=0,resolution='l')
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.62 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 56--62
+[]
+ []
+
+
+Overfull \hbox (15.04164pt too wide) in paragraph at lines 56--62
+[] \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (49.34146pt too wide) in paragraph at lines 56--62
+\OMS/cmsy/m/n/10 ^^@\OT1/cmr/m/n/10 80\OML/cmm/m/it/10 ; lat[] \OT1/cmr/m/n/10 
+=
+ []
+
+
+Overfull \hbox (68.59683pt too wide) in paragraph at lines 56--62
+\OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; resolution \OT1/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (29.21068pt too wide) in paragraph at lines 56--62
+\OML/cmm/m/it/10 l[]\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 m \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (105.31169pt too wide) in paragraph at lines 56--62
+\OML/cmm/m/it/10 Basemap\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 projection \OT1/cmr/m
+/n/10 =[]
+ []
+
+
+Overfull \hbox (54.90817pt too wide) in paragraph at lines 56--62
+\OML/cmm/m/it/10 mill[]; lon[] \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (49.34146pt too wide) in paragraph at lines 56--62
+\OMS/cmsy/m/n/10 ^^@\OT1/cmr/m/n/10 80\OML/cmm/m/it/10 ; lat[] \OT1/cmr/m/n/10 
+=
+ []
+
+
+Overfull \hbox (68.59683pt too wide) in paragraph at lines 56--62
+\OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; resolution \OT1/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (59.33342pt too wide) in paragraph at lines 56--62
+\OML/cmm/m/it/10 l[]; llcrnrlat \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (93.38286pt too wide) in paragraph at lines 56--62
+\OML/cmm/m/it/10 min\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 lat\OT1/cmr/m/n/10 )\OML/
+cmm/m/it/10 ; llcrnrlon \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (97.53566pt too wide) in paragraph at lines 56--62
+\OML/cmm/m/it/10 min\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 lon\OT1/cmr/m/n/10 )\OML/
+cmm/m/it/10 ; urcrnrlat \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (99.08934pt too wide) in paragraph at lines 56--62
+\OML/cmm/m/it/10 max\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 lat\OT1/cmr/m/n/10 )\OML/
+cmm/m/it/10 ; urcrnrlon \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (45.47815pt too wide) in paragraph at lines 56--62
+\OML/cmm/m/it/10 max\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 lon\OT1/cmr/m/n/10 ))$ 
+ []
+
+! You can't use `macro parameter character #' in vertical mode.
+l.63 #
+      m.drawcoastlines()
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.63 #m
+       .drawcoastlines()
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no m in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ) in font nullfont!
+! You can't use `macro parameter character #' in horizontal mode.
+l.64 lons, lats = np.meshgrid(lon, lat) #
+                                          get lat/lons of ny by nx evenly sp...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no ) in font nullfont!
+! You can't use `macro parameter character #' in horizontal mode.
+l.65 x, y = m(lons, lats) #
+                            compute map proj coordinates.
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no j in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no . in font nullfont!
+! You can't use `macro parameter character #' in horizontal mode.
+l.66 #
+      print(Sol_Iron_median.shape[0])
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+Missing character: There is no p in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.66 #print(Sol_
+                Iron_median.shape[0])
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.67 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 63--67
+[]
+ []
+
+
+Overfull \hbox (95.06253pt too wide) in paragraph at lines 63--67
+[]\OML/cmm/m/it/10 ron[]edian:shape\OT1/cmr/m/n/10 [0])$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.68 p
+      lt.figure(num=None, figsize=(10, 9.5), dpi=100, facecolor='w', edgecol...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no N in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.69 cmap = plt.get_
+                    cmap('nipy_spectral')
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.70 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 68--70
+[]
+ []
+
+
+Overfull \hbox (91.09782pt too wide) in paragraph at lines 68--70
+[]\OML/cmm/m/it/10 map\OT1/cmr/m/n/10 ([]\OML/cmm/m/it/10 nipy[]pectral[]\OT1/c
+mr/m/n/10 )$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.71 p
+      lt.subplot(421)
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no p in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.73 Exp_
+         H1 = m.contourf(x,y,Exp1_median_ALT,500,vmin=0.0491,vmax=4.472,cmap...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `macro parameter character #' in math mode.
+l.73 ...LT,500,vmin=0.0491,vmax=4.472,cmap=cmap) #
+                                                  vmin=0.04, vmax=4.5
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.79 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 71--79
+[]
+ []
+
+
+Overfull \hbox (23.14026pt too wide) in paragraph at lines 71--79
+[]\OT1/cmr/m/n/10 1 =
+ []
+
+
+Overfull \hbox (209.20425pt too wide) in paragraph at lines 71--79
+\OML/cmm/m/it/10 m:contourf\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x; y; Exp\OT1/cmr/
+m/n/10 1[]\OML/cmm/m/it/10 edian[]LT; \OT1/cmr/m/n/10 500\OML/cmm/m/it/10 ; vmi
+n \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (67.76509pt too wide) in paragraph at lines 71--79
+\OT1/cmr/m/n/10 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 0491\OML/cmm/m/it/10 ; vmax 
+\OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (61.2026pt too wide) in paragraph at lines 71--79
+\OT1/cmr/m/n/10 4\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 472\OML/cmm/m/it/10 ; cmap \
+OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (61.30287pt too wide) in paragraph at lines 71--79
+\OML/cmm/m/it/10 cmap\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 vmin \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (57.76506pt too wide) in paragraph at lines 71--79
+\OT1/cmr/m/n/10 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 04\OML/cmm/m/it/10 ; vmax \O
+T1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (54.62291pt too wide) in paragraph at lines 71--79
+\OT1/cmr/m/n/10 4\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 5\OML/cmm/m/it/10 Exp[]\OT1/
+cmr/m/n/10 1 =
+ []
+
+
+Overfull \hbox (151.68117pt too wide) in paragraph at lines 71--79
+\OML/cmm/m/it/10 plt:colorbar\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Exp[]\OT1/cmr/m/
+n/10 1\OML/cmm/m/it/10 ; orientation \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (155.95726pt too wide) in paragraph at lines 71--79
+\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 vertical\OT1/cmr/m/n/10 ")\OML/cmm/m/it/10 Ex
+p[]\OT1/cmr/m/n/10 1\OML/cmm/m/it/10 :set[]abel\OT1/cmr/m/n/10 ([]\OML/cmm/m/it
+/10 molm \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (22.82878pt too wide) in paragraph at lines 71--79
+\OT1/cmr/m/n/10 2\OML/cmm/m/it/10 yr \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (59.24492pt too wide) in paragraph at lines 71--79
+\OT1/cmr/m/n/10 1[]\OML/cmm/m/it/10 ; rotation \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (149.5229pt too wide) in paragraph at lines 71--79
+\OT1/cmr/m/n/10 90)\OML/cmm/m/it/10 plt:xlabel\OT1/cmr/m/n/10 ([]\OML/cmm/m/it/
+10 Longitude[]; color \OT1/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (155.25903pt too wide) in paragraph at lines 71--79
+\OML/cmm/m/it/10 gray[]\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 plt:ylabel\OT1/cmr/m/n
+/10 ([]\OML/cmm/m/it/10 Latitude[]; color \OT1/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (222.81065pt too wide) in paragraph at lines 71--79
+\OML/cmm/m/it/10 gray[]\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 plt:title\OT1/cmr/m/n/
+10 ([]\OML/cmm/m/it/10 AppyngDustwith\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ALT\OT1/
+cmr/m/n/10 "\OML/cmm/m/it/10 ironcycle[]\OT1/cmr/m/n/10 )$ 
+ []
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.79 
+     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+! You can't use `macro parameter character #' in vertical mode.
+l.80 #
+      m.drawcoastlines()
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.80 #m
+       .drawcoastlines()
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no m in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no ) in font nullfont!
+! You can't use `macro parameter character #' in horizontal mode.
+l.81 #
+      Exp_H1 = m.contourf(x,y,Exp1_median,500,cmap=cmap) #vmin=0.04, vmax=4.5
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+Missing character: There is no E in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no p in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.81 #Exp_
+          H1 = m.contourf(x,y,Exp1_median,500,cmap=cmap) #vmin=0.04, vmax=4.5
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `macro parameter character #' in math mode.
+l.81 ....contourf(x,y,Exp1_median,500,cmap=cmap) #
+                                                  vmin=0.04, vmax=4.5
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.82 #
+      Exp_H1=plt.colorbar(Exp_H1,orientation="vertical")
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.83 #
+      Exp_H1.set_label('mol m-2 yr-1', rotation=90)
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.84 #
+      plt.xlabel('Longitude')
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.85 #
+      plt.ylabel('Latitude')
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.86 #
+      plt.title('Appyng Dust')
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.87 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 80--87
+[]
+ []
+
+
+Overfull \hbox (23.14026pt too wide) in paragraph at lines 80--87
+[]\OT1/cmr/m/n/10 1 =
+ []
+
+
+Overfull \hbox (189.19888pt too wide) in paragraph at lines 80--87
+\OML/cmm/m/it/10 m:contourf\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x; y; Exp\OT1/cmr/
+m/n/10 1[]\OML/cmm/m/it/10 edian; \OT1/cmr/m/n/10 500\OML/cmm/m/it/10 ; cmap \O
+T1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (61.30287pt too wide) in paragraph at lines 80--87
+\OML/cmm/m/it/10 cmap\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 vmin \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (57.76506pt too wide) in paragraph at lines 80--87
+\OT1/cmr/m/n/10 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 04\OML/cmm/m/it/10 ; vmax \O
+T1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (54.62291pt too wide) in paragraph at lines 80--87
+\OT1/cmr/m/n/10 4\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 5\OML/cmm/m/it/10 Exp[]\OT1/
+cmr/m/n/10 1 =
+ []
+
+
+Overfull \hbox (151.68117pt too wide) in paragraph at lines 80--87
+\OML/cmm/m/it/10 plt:colorbar\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Exp[]\OT1/cmr/m/
+n/10 1\OML/cmm/m/it/10 ; orientation \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (155.95726pt too wide) in paragraph at lines 80--87
+\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 vertical\OT1/cmr/m/n/10 ")\OML/cmm/m/it/10 Ex
+p[]\OT1/cmr/m/n/10 1\OML/cmm/m/it/10 :set[]abel\OT1/cmr/m/n/10 ([]\OML/cmm/m/it
+/10 molm \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (22.82878pt too wide) in paragraph at lines 80--87
+\OT1/cmr/m/n/10 2\OML/cmm/m/it/10 yr \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (59.24492pt too wide) in paragraph at lines 80--87
+\OT1/cmr/m/n/10 1[]\OML/cmm/m/it/10 ; rotation \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (308.83398pt too wide) in paragraph at lines 80--87
+\OT1/cmr/m/n/10 90)\OML/cmm/m/it/10 plt:xlabel\OT1/cmr/m/n/10 ([]\OML/cmm/m/it/
+10 Longitude[]\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 plt:ylabel\OT1/cmr/m/n/10 ([]\O
+ML/cmm/m/it/10 Latitude[]\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 plt:title\OT1/cmr/m/
+n/10 ([]\OML/cmm/m/it/10 AppyngDust[]\OT1/cmr/m/n/10 )$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.90 p
+      lt.subplot(423)
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no L in font nullfont!
+Missing character: There is no G in font nullfont!
+Missing character: There is no M in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.92 ExpLGM_
+            H1 = m.contourf(x,y,Exp2_median,500,vmin=0.0491,vmax=4.472,cmap=...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `macro parameter character #' in math mode.
+l.92 ...an,500,vmin=0.0491,vmax=4.472,cmap=cmap) #
+                                                  vmin=0.04, vmax=4.5
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.98 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 90--98
+[]
+ []
+
+
+Overfull \hbox (23.14026pt too wide) in paragraph at lines 90--98
+[]\OT1/cmr/m/n/10 1 =
+ []
+
+
+Overfull \hbox (189.20767pt too wide) in paragraph at lines 90--98
+\OML/cmm/m/it/10 m:contourf\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x; y; Exp\OT1/cmr/
+m/n/10 2[]\OML/cmm/m/it/10 edian; \OT1/cmr/m/n/10 500\OML/cmm/m/it/10 ; vmin \O
+T1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (67.76509pt too wide) in paragraph at lines 90--98
+\OT1/cmr/m/n/10 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 0491\OML/cmm/m/it/10 ; vmax 
+\OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (61.2026pt too wide) in paragraph at lines 90--98
+\OT1/cmr/m/n/10 4\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 472\OML/cmm/m/it/10 ; cmap \
+OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (61.30287pt too wide) in paragraph at lines 90--98
+\OML/cmm/m/it/10 cmap\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 vmin \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (57.76506pt too wide) in paragraph at lines 90--98
+\OT1/cmr/m/n/10 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 04\OML/cmm/m/it/10 ; vmax \O
+T1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (78.99237pt too wide) in paragraph at lines 90--98
+\OT1/cmr/m/n/10 4\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 5\OML/cmm/m/it/10 ExpLGM[]\O
+T1/cmr/m/n/10 1 =
+ []
+
+
+Overfull \hbox (176.05063pt too wide) in paragraph at lines 90--98
+\OML/cmm/m/it/10 plt:colorbar\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ExpLGM[]\OT1/cmr
+/m/n/10 1\OML/cmm/m/it/10 ; orientation \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (180.32672pt too wide) in paragraph at lines 90--98
+\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 vertical\OT1/cmr/m/n/10 ")\OML/cmm/m/it/10 Ex
+pLGM[]\OT1/cmr/m/n/10 1\OML/cmm/m/it/10 :set[]abel\OT1/cmr/m/n/10 ([]\OML/cmm/m
+/it/10 molm \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (22.82878pt too wide) in paragraph at lines 90--98
+\OT1/cmr/m/n/10 2\OML/cmm/m/it/10 yr \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (59.24492pt too wide) in paragraph at lines 90--98
+\OT1/cmr/m/n/10 1[]\OML/cmm/m/it/10 ; rotation \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (149.5229pt too wide) in paragraph at lines 90--98
+\OT1/cmr/m/n/10 90)\OML/cmm/m/it/10 plt:xlabel\OT1/cmr/m/n/10 ([]\OML/cmm/m/it/
+10 Longitude[]; color \OT1/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (155.25903pt too wide) in paragraph at lines 90--98
+\OML/cmm/m/it/10 gray[]\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 plt:ylabel\OT1/cmr/m/n
+/10 ([]\OML/cmm/m/it/10 Latitude[]; color \OT1/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (257.2713pt too wide) in paragraph at lines 90--98
+\OML/cmm/m/it/10 gray[]\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 plt:title\OT1/cmr/m/n/
+10 ([]\OML/cmm/m/it/10 AppyingdissolvedFewith\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 
+ALT\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ironcycle[]\OT1/cmr/m/n/10 )$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.100 p
+       lt.subplot(425)
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no L in font nullfont!
+Missing character: There is no G in font nullfont!
+Missing character: There is no M in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.102 ExpLGM_
+             H1 = m.contourf(x,y,Exp_ALT2,500,vmin=-0.385,vmax=0.736,cmap=cm...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `macro parameter character #' in math mode.
+l.102 ...2,500,vmin=-0.385,vmax=0.736,cmap=cmap) #
+                                                  vmin=-0.69, vmax=0.35,
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.108 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 100--108
+[]
+ []
+
+
+Overfull \hbox (23.14026pt too wide) in paragraph at lines 100--108
+[]\OT1/cmr/m/n/10 1 =
+ []
+
+
+Overfull \hbox (177.5692pt too wide) in paragraph at lines 100--108
+\OML/cmm/m/it/10 m:contourf\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x; y; Exp[]LT\OT1/
+cmr/m/n/10 2\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 500\OML/cmm/m/it/10 ; vmin \OT1/
+cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (70.54288pt too wide) in paragraph at lines 100--108
+\OMS/cmsy/m/n/10 ^^@\OT1/cmr/m/n/10 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 385\OML/
+cmm/m/it/10 ; vmax \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (61.2026pt too wide) in paragraph at lines 100--108
+\OT1/cmr/m/n/10 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 736\OML/cmm/m/it/10 ; cmap \
+OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (61.30287pt too wide) in paragraph at lines 100--108
+\OML/cmm/m/it/10 cmap\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 vmin \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (65.54286pt too wide) in paragraph at lines 100--108
+\OMS/cmsy/m/n/10 ^^@\OT1/cmr/m/n/10 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 69\OML/c
+mm/m/it/10 ; vmax \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (88.4368pt too wide) in paragraph at lines 100--108
+\OT1/cmr/m/n/10 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 35\OML/cmm/m/it/10 ; ExpLGM[
+]\OT1/cmr/m/n/10 1 =
+ []
+
+
+Overfull \hbox (176.05063pt too wide) in paragraph at lines 100--108
+\OML/cmm/m/it/10 plt:colorbar\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ExpLGM[]\OT1/cmr
+/m/n/10 1\OML/cmm/m/it/10 ; orientation \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (180.32672pt too wide) in paragraph at lines 100--108
+\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 vertical\OT1/cmr/m/n/10 ")\OML/cmm/m/it/10 Ex
+pLGM[]\OT1/cmr/m/n/10 1\OML/cmm/m/it/10 :set[]abel\OT1/cmr/m/n/10 ([]\OML/cmm/m
+/it/10 molm \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (22.82878pt too wide) in paragraph at lines 100--108
+\OT1/cmr/m/n/10 2\OML/cmm/m/it/10 yr \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (59.24492pt too wide) in paragraph at lines 100--108
+\OT1/cmr/m/n/10 1[]\OML/cmm/m/it/10 ; rotation \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (149.5229pt too wide) in paragraph at lines 100--108
+\OT1/cmr/m/n/10 90)\OML/cmm/m/it/10 plt:xlabel\OT1/cmr/m/n/10 ([]\OML/cmm/m/it/
+10 Longitude[]; color \OT1/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (155.25903pt too wide) in paragraph at lines 100--108
+\OML/cmm/m/it/10 gray[]\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 plt:ylabel\OT1/cmr/m/n
+/10 ([]\OML/cmm/m/it/10 Latitude[]; color \OT1/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (222.30824pt too wide) in paragraph at lines 100--108
+\OML/cmm/m/it/10 gray[]\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 plt:title\OT1/cmr/m/n/
+10 ([]\OML/cmm/m/it/10 Dissolvediron=DUSTdifference[]\OT1/cmr/m/n/10 )$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.110 p
+       lt.subplot(427)
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 7 in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no L in font nullfont!
+Missing character: There is no G in font nullfont!
+Missing character: There is no M in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.112 ExpLGM_
+             H1 = m.contourf(x,y,Exp_perc_ALT2,500,vmin=-14.89,vmax=21.16,cm...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.118 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 110--118
+[]
+ []
+
+
+Overfull \hbox (23.14026pt too wide) in paragraph at lines 110--118
+[]\OT1/cmr/m/n/10 1 =
+ []
+
+
+Overfull \hbox (195.96474pt too wide) in paragraph at lines 110--118
+\OML/cmm/m/it/10 m:contourf\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x; y; Exp[]erc[]LT
+\OT1/cmr/m/n/10 2\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 500\OML/cmm/m/it/10 ; vmin 
+\OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (70.54288pt too wide) in paragraph at lines 110--118
+\OMS/cmsy/m/n/10 ^^@\OT1/cmr/m/n/10 14\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 89\OML/
+cmm/m/it/10 ; vmax \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (61.2026pt too wide) in paragraph at lines 110--118
+\OT1/cmr/m/n/10 21\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 16\OML/cmm/m/it/10 ; cmap \
+OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (93.52829pt too wide) in paragraph at lines 110--118
+\OML/cmm/m/it/10 cmap\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ExpLGM[]\OT1/cmr/m/n/10 
+1 =
+ []
+
+
+Overfull \hbox (176.05063pt too wide) in paragraph at lines 110--118
+\OML/cmm/m/it/10 plt:colorbar\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ExpLGM[]\OT1/cmr
+/m/n/10 1\OML/cmm/m/it/10 ; orientation \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (282.59482pt too wide) in paragraph at lines 110--118
+\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 vertical\OT1/cmr/m/n/10 ")\OML/cmm/m/it/10 Ex
+pLGM[]\OT1/cmr/m/n/10 1\OML/cmm/m/it/10 :set[]abel\OT1/cmr/m/n/10 ([]\OML/cmm/m
+/it/10 plt:xlabel\OT1/cmr/m/n/10 ([]\OML/cmm/m/it/10 Longitude[]; color \OT1/cm
+r/m/n/10 =[]
+ []
+
+
+Overfull \hbox (155.25903pt too wide) in paragraph at lines 110--118
+\OML/cmm/m/it/10 gray[]\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 plt:ylabel\OT1/cmr/m/n
+/10 ([]\OML/cmm/m/it/10 Latitude[]; color \OT1/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (275.51665pt too wide) in paragraph at lines 110--118
+\OML/cmm/m/it/10 gray[]\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 plt:title\OT1/cmr/m/n/
+10 ([]\OML/cmm/m/it/10 Fecycle\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ALT\OT1/cmr/m/n
+/10 "\OML/cmm/m/it/10 =\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 OLD\OT1/cmr/m/n/10 "\O
+ML/cmm/m/it/10 differencepercentage[]\OT1/cmr/m/n/10 )$ 
+ []
+
+! You can't use `macro parameter character #' in vertical mode.
+l.119 #
+       plt.subplot(323)
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.119 #p
+        lt.subplot(323)
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no ) in font nullfont!
+! You can't use `macro parameter character #' in horizontal mode.
+l.120 #
+       m.drawcoastlines()
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+Missing character: There is no m in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no ) in font nullfont!
+! You can't use `macro parameter character #' in horizontal mode.
+l.121 #
+       ExpLGM_H1 = m.contourf(x,y,(100*Exp3_median)/Exp2_median,500,cmap=cmap)
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+Missing character: There is no E in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no L in font nullfont!
+Missing character: There is no G in font nullfont!
+Missing character: There is no M in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.121 #ExpLGM_
+              H1 = m.contourf(x,y,(100*Exp3_median)/Exp2_median,500,cmap=cmap)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `macro parameter character #' in math mode.
+l.122 #
+       ExpLGM_H1=plt.colorbar(ExpLGM_H1,orientation="vertical")
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.123 #
+       ExpLGM_H1.set_label('mol m-2 yr-1', rotation=90)
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.124 #
+       plt.xlabel('Longitude')
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.125 #
+       plt.ylabel('Latitude')
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.126 #
+       plt.title('Fe cycle "ALT"/"OLD" difference')
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.127 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 119--127
+[]
+ []
+
+
+Overfull \hbox (23.14026pt too wide) in paragraph at lines 119--127
+[]\OT1/cmr/m/n/10 1 =
+ []
+
+
+Overfull \hbox (99.32317pt too wide) in paragraph at lines 119--127
+\OML/cmm/m/it/10 m:contourf\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x; y; \OT1/cmr/m/n
+/10 (100 \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (178.54906pt too wide) in paragraph at lines 119--127
+\OML/cmm/m/it/10 Exp\OT1/cmr/m/n/10 3[]\OML/cmm/m/it/10 edian\OT1/cmr/m/n/10 )\
+OML/cmm/m/it/10 =Exp\OT1/cmr/m/n/10 2[]\OML/cmm/m/it/10 edian; \OT1/cmr/m/n/10 
+500\OML/cmm/m/it/10 ; cmap \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (93.52829pt too wide) in paragraph at lines 119--127
+\OML/cmm/m/it/10 cmap\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ExpLGM[]\OT1/cmr/m/n/10 
+1 =
+ []
+
+
+Overfull \hbox (176.05063pt too wide) in paragraph at lines 119--127
+\OML/cmm/m/it/10 plt:colorbar\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ExpLGM[]\OT1/cmr
+/m/n/10 1\OML/cmm/m/it/10 ; orientation \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (180.32672pt too wide) in paragraph at lines 119--127
+\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 vertical\OT1/cmr/m/n/10 ")\OML/cmm/m/it/10 Ex
+pLGM[]\OT1/cmr/m/n/10 1\OML/cmm/m/it/10 :set[]abel\OT1/cmr/m/n/10 ([]\OML/cmm/m
+/it/10 molm \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (22.82878pt too wide) in paragraph at lines 119--127
+\OT1/cmr/m/n/10 2\OML/cmm/m/it/10 yr \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (59.24492pt too wide) in paragraph at lines 119--127
+\OT1/cmr/m/n/10 1[]\OML/cmm/m/it/10 ; rotation \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (406.01717pt too wide) in paragraph at lines 119--127
+\OT1/cmr/m/n/10 90)\OML/cmm/m/it/10 plt:xlabel\OT1/cmr/m/n/10 ([]\OML/cmm/m/it/
+10 Longitude[]\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 plt:ylabel\OT1/cmr/m/n/10 ([]\O
+ML/cmm/m/it/10 Latitude[]\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 plt:title\OT1/cmr/m/
+n/10 ([]\OML/cmm/m/it/10 Fecycle\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ALT\OT1/cmr/m
+/n/10 "\OML/cmm/m/it/10 =\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 OLD\OT1/cmr/m/n/10 "
+\OML/cmm/m/it/10 difference[]\OT1/cmr/m/n/10 )$ 
+ []
+
+! You can't use `macro parameter character #' in vertical mode.
+l.128 #
+       a=plt.subplot(333)
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.128 #a
+        =plt.subplot(333)
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no a in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no ) in font nullfont!
+! You can't use `macro parameter character #' in horizontal mode.
+l.129 #
+       a.boxplot(np.reshape(Exp_ALT,(1296,1)))print(Exp_perc_ALT.shape,len(E...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+Missing character: There is no a in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no p in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.129 #a.boxplot(np.reshape(Exp_
+                                ALT,(1296,1)))print(Exp_perc_ALT.shape,len(E...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.130 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 128--130
+[]
+ []
+
+
+Overfull \hbox (269.10924pt too wide) in paragraph at lines 128--130
+[]\OML/cmm/m/it/10 LT; \OT1/cmr/m/n/10 (1296\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 
+1)))\OML/cmm/m/it/10 print\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Exp[]erc[]LT:shape;
+ len\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Exp[]erc[]LT\OT1/cmr/m/n/10 ))$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.131 p
+       lt.subplot(422)
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no L in font nullfont!
+Missing character: There is no G in font nullfont!
+Missing character: There is no M in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.133 ExpLGM_
+             H1 = m.contourf(x,y,Exp1_median_OLD,500,vmin=0.0491,vmax=4.472,...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `macro parameter character #' in math mode.
+l.133 ...D,500,vmin=0.0491,vmax=4.472,cmap=cmap) #
+                                                  vmin=0.04, vmax=4.5
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.139 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 131--139
+[]
+ []
+
+
+Overfull \hbox (23.14026pt too wide) in paragraph at lines 131--139
+[]\OT1/cmr/m/n/10 1 =
+ []
+
+
+Overfull \hbox (211.36795pt too wide) in paragraph at lines 131--139
+\OML/cmm/m/it/10 m:contourf\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x; y; Exp\OT1/cmr/
+m/n/10 1[]\OML/cmm/m/it/10 edian[]LD; \OT1/cmr/m/n/10 500\OML/cmm/m/it/10 ; vmi
+n \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (67.76509pt too wide) in paragraph at lines 131--139
+\OT1/cmr/m/n/10 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 0491\OML/cmm/m/it/10 ; vmax 
+\OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (61.2026pt too wide) in paragraph at lines 131--139
+\OT1/cmr/m/n/10 4\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 472\OML/cmm/m/it/10 ; cmap \
+OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (61.30287pt too wide) in paragraph at lines 131--139
+\OML/cmm/m/it/10 cmap\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 vmin \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (57.76506pt too wide) in paragraph at lines 131--139
+\OT1/cmr/m/n/10 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 04\OML/cmm/m/it/10 ; vmax \O
+T1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (78.99237pt too wide) in paragraph at lines 131--139
+\OT1/cmr/m/n/10 4\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 5\OML/cmm/m/it/10 ExpLGM[]\O
+T1/cmr/m/n/10 1 =
+ []
+
+
+Overfull \hbox (176.05063pt too wide) in paragraph at lines 131--139
+\OML/cmm/m/it/10 plt:colorbar\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ExpLGM[]\OT1/cmr
+/m/n/10 1\OML/cmm/m/it/10 ; orientation \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (180.32672pt too wide) in paragraph at lines 131--139
+\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 vertical\OT1/cmr/m/n/10 ")\OML/cmm/m/it/10 Ex
+pLGM[]\OT1/cmr/m/n/10 1\OML/cmm/m/it/10 :set[]abel\OT1/cmr/m/n/10 ([]\OML/cmm/m
+/it/10 molm \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (22.82878pt too wide) in paragraph at lines 131--139
+\OT1/cmr/m/n/10 2\OML/cmm/m/it/10 yr \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (59.24492pt too wide) in paragraph at lines 131--139
+\OT1/cmr/m/n/10 1[]\OML/cmm/m/it/10 ; rotation \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (149.5229pt too wide) in paragraph at lines 131--139
+\OT1/cmr/m/n/10 90)\OML/cmm/m/it/10 plt:xlabel\OT1/cmr/m/n/10 ([]\OML/cmm/m/it/
+10 Longitude[]; color \OT1/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (155.25903pt too wide) in paragraph at lines 131--139
+\OML/cmm/m/it/10 gray[]\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 plt:ylabel\OT1/cmr/m/n
+/10 ([]\OML/cmm/m/it/10 Latitude[]; color \OT1/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (224.54048pt too wide) in paragraph at lines 131--139
+\OML/cmm/m/it/10 gray[]\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 plt:title\OT1/cmr/m/n/
+10 ([]\OML/cmm/m/it/10 AppyngDustwith\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 OLD\OT1/
+cmr/m/n/10 "\OML/cmm/m/it/10 ironcycle[]\OT1/cmr/m/n/10 )$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.142 p
+       lt.subplot(424)
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no p in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.144 Exp_
+          H2 = m.contourf(x,y,Exp3_median,500,vmin=0.0491,vmax=4.472,cmap=cm...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `macro parameter character #' in math mode.
+l.144 ...n,500,vmin=0.0491,vmax=4.472,cmap=cmap) #
+                                                  vmin=0.04, vmax=4.5,
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.150 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 142--150
+[]
+ []
+
+
+Overfull \hbox (23.14026pt too wide) in paragraph at lines 142--150
+[]\OT1/cmr/m/n/10 2 =
+ []
+
+
+Overfull \hbox (189.20767pt too wide) in paragraph at lines 142--150
+\OML/cmm/m/it/10 m:contourf\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x; y; Exp\OT1/cmr/
+m/n/10 3[]\OML/cmm/m/it/10 edian; \OT1/cmr/m/n/10 500\OML/cmm/m/it/10 ; vmin \O
+T1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (67.76509pt too wide) in paragraph at lines 142--150
+\OT1/cmr/m/n/10 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 0491\OML/cmm/m/it/10 ; vmax 
+\OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (61.2026pt too wide) in paragraph at lines 142--150
+\OT1/cmr/m/n/10 4\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 472\OML/cmm/m/it/10 ; cmap \
+OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (61.30287pt too wide) in paragraph at lines 142--150
+\OML/cmm/m/it/10 cmap\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 vmin \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (57.76506pt too wide) in paragraph at lines 142--150
+\OT1/cmr/m/n/10 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 04\OML/cmm/m/it/10 ; vmax \O
+T1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (59.06732pt too wide) in paragraph at lines 142--150
+\OT1/cmr/m/n/10 4\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 5\OML/cmm/m/it/10 ; Exp[]\OT
+1/cmr/m/n/10 2 =
+ []
+
+
+Overfull \hbox (151.68117pt too wide) in paragraph at lines 142--150
+\OML/cmm/m/it/10 plt:colorbar\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Exp[]\OT1/cmr/m/
+n/10 2\OML/cmm/m/it/10 ; orientation \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (155.95726pt too wide) in paragraph at lines 142--150
+\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 vertical\OT1/cmr/m/n/10 ")\OML/cmm/m/it/10 Ex
+p[]\OT1/cmr/m/n/10 2\OML/cmm/m/it/10 :set[]abel\OT1/cmr/m/n/10 ([]\OML/cmm/m/it
+/10 molm \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (22.82878pt too wide) in paragraph at lines 142--150
+\OT1/cmr/m/n/10 2\OML/cmm/m/it/10 yr \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (59.24492pt too wide) in paragraph at lines 142--150
+\OT1/cmr/m/n/10 1[]\OML/cmm/m/it/10 ; rotation \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (149.5229pt too wide) in paragraph at lines 142--150
+\OT1/cmr/m/n/10 90)\OML/cmm/m/it/10 plt:xlabel\OT1/cmr/m/n/10 ([]\OML/cmm/m/it/
+10 Longitude[]; color \OT1/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (155.25903pt too wide) in paragraph at lines 142--150
+\OML/cmm/m/it/10 gray[]\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 plt:ylabel\OT1/cmr/m/n
+/10 ([]\OML/cmm/m/it/10 Latitude[]; color \OT1/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (257.2713pt too wide) in paragraph at lines 142--150
+\OML/cmm/m/it/10 gray[]\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 plt:title\OT1/cmr/m/n/
+10 ([]\OML/cmm/m/it/10 AppyingdissolvedFewith\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 
+ALT\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ironcycle[]\OT1/cmr/m/n/10 )$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.151 p
+       lt.subplot(426)
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no L in font nullfont!
+Missing character: There is no G in font nullfont!
+Missing character: There is no M in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.153 ExpLGM_
+             H1 = m.contourf(x,y,Exp_OLD2,500,vmin=-0.385,vmax=0.736,cmap=cm...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `macro parameter character #' in math mode.
+l.153 ...2,500,vmin=-0.385,vmax=0.736,cmap=cmap) #
+                                                  vmin=-0.69, vmax=0.35,
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.159 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 151--159
+[]
+ []
+
+
+Overfull \hbox (23.14026pt too wide) in paragraph at lines 151--159
+[]\OT1/cmr/m/n/10 1 =
+ []
+
+
+Overfull \hbox (179.17734pt too wide) in paragraph at lines 151--159
+\OML/cmm/m/it/10 m:contourf\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x; y; Exp[]LD\OT1/
+cmr/m/n/10 2\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 500\OML/cmm/m/it/10 ; vmin \OT1/
+cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (70.54288pt too wide) in paragraph at lines 151--159
+\OMS/cmsy/m/n/10 ^^@\OT1/cmr/m/n/10 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 385\OML/
+cmm/m/it/10 ; vmax \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (61.2026pt too wide) in paragraph at lines 151--159
+\OT1/cmr/m/n/10 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 736\OML/cmm/m/it/10 ; cmap \
+OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (61.30287pt too wide) in paragraph at lines 151--159
+\OML/cmm/m/it/10 cmap\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 vmin \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (65.54286pt too wide) in paragraph at lines 151--159
+\OMS/cmsy/m/n/10 ^^@\OT1/cmr/m/n/10 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 69\OML/c
+mm/m/it/10 ; vmax \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (88.4368pt too wide) in paragraph at lines 151--159
+\OT1/cmr/m/n/10 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 35\OML/cmm/m/it/10 ; ExpLGM[
+]\OT1/cmr/m/n/10 1 =
+ []
+
+
+Overfull \hbox (176.05063pt too wide) in paragraph at lines 151--159
+\OML/cmm/m/it/10 plt:colorbar\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ExpLGM[]\OT1/cmr
+/m/n/10 1\OML/cmm/m/it/10 ; orientation \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (180.32672pt too wide) in paragraph at lines 151--159
+\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 vertical\OT1/cmr/m/n/10 ")\OML/cmm/m/it/10 Ex
+pLGM[]\OT1/cmr/m/n/10 1\OML/cmm/m/it/10 :set[]abel\OT1/cmr/m/n/10 ([]\OML/cmm/m
+/it/10 molm \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (22.82878pt too wide) in paragraph at lines 151--159
+\OT1/cmr/m/n/10 2\OML/cmm/m/it/10 yr \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (59.24492pt too wide) in paragraph at lines 151--159
+\OT1/cmr/m/n/10 1[]\OML/cmm/m/it/10 ; rotation \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (149.5229pt too wide) in paragraph at lines 151--159
+\OT1/cmr/m/n/10 90)\OML/cmm/m/it/10 plt:xlabel\OT1/cmr/m/n/10 ([]\OML/cmm/m/it/
+10 Longitude[]; color \OT1/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (155.25903pt too wide) in paragraph at lines 151--159
+\OML/cmm/m/it/10 gray[]\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 plt:ylabel\OT1/cmr/m/n
+/10 ([]\OML/cmm/m/it/10 Latitude[]; color \OT1/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (222.30824pt too wide) in paragraph at lines 151--159
+\OML/cmm/m/it/10 gray[]\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 plt:title\OT1/cmr/m/n/
+10 ([]\OML/cmm/m/it/10 Dissolvediron=DUSTdifference[]\OT1/cmr/m/n/10 )$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.160 p
+       lt.subplot(428)
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 8 in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no L in font nullfont!
+Missing character: There is no G in font nullfont!
+Missing character: There is no M in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.162 ExpLGM_
+             H1 = m.contourf(x,y,Exp_perc_OLD2,500,vmin=-14.89,vmax=21.16,cm...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.168 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 160--168
+[]
+ []
+
+
+Overfull \hbox (23.14026pt too wide) in paragraph at lines 160--168
+[]\OT1/cmr/m/n/10 1 =
+ []
+
+
+Overfull \hbox (197.57288pt too wide) in paragraph at lines 160--168
+\OML/cmm/m/it/10 m:contourf\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x; y; Exp[]erc[]LD
+\OT1/cmr/m/n/10 2\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 500\OML/cmm/m/it/10 ; vmin 
+\OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (70.54288pt too wide) in paragraph at lines 160--168
+\OMS/cmsy/m/n/10 ^^@\OT1/cmr/m/n/10 14\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 89\OML/
+cmm/m/it/10 ; vmax \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (61.2026pt too wide) in paragraph at lines 160--168
+\OT1/cmr/m/n/10 21\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 16\OML/cmm/m/it/10 ; cmap \
+OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (93.52829pt too wide) in paragraph at lines 160--168
+\OML/cmm/m/it/10 cmap\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ExpLGM[]\OT1/cmr/m/n/10 
+1 =
+ []
+
+
+Overfull \hbox (176.05063pt too wide) in paragraph at lines 160--168
+\OML/cmm/m/it/10 plt:colorbar\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ExpLGM[]\OT1/cmr
+/m/n/10 1\OML/cmm/m/it/10 ; orientation \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (282.59482pt too wide) in paragraph at lines 160--168
+\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 vertical\OT1/cmr/m/n/10 ")\OML/cmm/m/it/10 Ex
+pLGM[]\OT1/cmr/m/n/10 1\OML/cmm/m/it/10 :set[]abel\OT1/cmr/m/n/10 ([]\OML/cmm/m
+/it/10 plt:xlabel\OT1/cmr/m/n/10 ([]\OML/cmm/m/it/10 Longitude[]; color \OT1/cm
+r/m/n/10 =[]
+ []
+
+
+Overfull \hbox (155.25903pt too wide) in paragraph at lines 160--168
+\OML/cmm/m/it/10 gray[]\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 plt:ylabel\OT1/cmr/m/n
+/10 ([]\OML/cmm/m/it/10 Latitude[]; color \OT1/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (270.45303pt too wide) in paragraph at lines 160--168
+\OML/cmm/m/it/10 gray[]\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 plt:title\OT1/cmr/m/n/
+10 ([]\OML/cmm/m/it/10 Dissolvediron=DUSTdifferencepercentage[]\OT1/cmr/m/n/10 
+)$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.169 p
+       lt.suptitle("Holocene: Biological export POC",fontsize=14,weight='bold')
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no H in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no B in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no O in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no s in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.170 plt.subplots_
+                   adjust(hspace=0.3)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.171 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 169--171
+[]
+ []
+
+
+Overfull \hbox (71.83952pt too wide) in paragraph at lines 169--171
+[]\OML/cmm/m/it/10 djust\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 hspace \OT1/cmr/m/n/1
+0 =
+ []
+
+
+Overfull \hbox (16.66672pt too wide) in paragraph at lines 169--171
+\OT1/cmr/m/n/10 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 3)$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.172 p
+       lt.figure()
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no ) in font nullfont!
+! You can't use `macro parameter character #' in horizontal mode.
+l.173 #
+       from matplotlib.colors import Normalize
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+Missing character: There is no f in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no N in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no e in font nullfont!
+! You can't use `macro parameter character #' in horizontal mode.
+l.174 #
+       class MidpointNormalize(Normalize):
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+Missing character: There is no c in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no N in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no N in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no : in font nullfont!
+! You can't use `macro parameter character #' in horizontal mode.
+l.175 #
+           def __init__(self, vmin=None, vmax=None, vcenter=None, clip=False):
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.175 #    def _
+                _init__(self, vmin=None, vmax=None, vcenter=None, clip=False):
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing { inserted.
+<to be read again> 
+                   _
+l.175 #    def __
+                 init__(self, vmin=None, vmax=None, vcenter=None, clip=False):
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Missing { inserted.
+<to be read again> 
+                   _
+l.175 #    def __init__
+                       (self, vmin=None, vmax=None, vcenter=None, clip=False):
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! You can't use `macro parameter character #' in math mode.
+l.176 #
+               self.vcenter = vcenter
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.177 #
+               Normalize.__init__(self, vmin, vmax, clip)
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing { inserted.
+<to be read again> 
+                   _
+l.177 #        Normalize.__
+                           init__(self, vmin, vmax, clip)
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Missing { inserted.
+<to be read again> 
+                   _
+l.177 #        Normalize.__init__
+                                 (self, vmin, vmax, clip)
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! You can't use `macro parameter character #' in math mode.
+l.178 #
+       
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.179 #
+           def __call__(self, value, clip=None):
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing { inserted.
+<to be read again> 
+                   _
+l.179 #    def __
+                 call__(self, value, clip=None):
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Missing { inserted.
+<to be read again> 
+                   _
+l.179 #    def __call__
+                       (self, value, clip=None):
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! You can't use `macro parameter character #' in math mode.
+l.180 #
+               # I'm ignoring masked values and all kinds of edge cases to m...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.180 #        #
+                 I'm ignoring masked values and all kinds of edge cases to m...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.181 #
+               # simple example...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.181 #        #
+                 simple example...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.182 #
+               x, y = [self.vmin, self.vcenter, self.vmax], [0, 0.5, 1]
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.183 #
+               return np.ma.masked_array(np.interp(value, x, y))
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.184 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.184 
+      
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.184 
+      
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.184 
+      
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.184 
+      
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.184 
+      
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.184 
+      
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 172--184
+[]
+ []
+
+
+Overfull \hbox (1062.43573pt too wide) in paragraph at lines 172--184
+[]$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.185 p
+       lt.subplot(121)
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no ) in font nullfont!
+! You can't use `macro parameter character #' in horizontal mode.
+l.187 #
+       midnorm = MidpointNormalize(vmin=-0.1, vcenter=0, vmax=0.04)
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+Missing character: There is no m in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no N in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no p in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.188 Exp_
+          R1 = m.pcolor(x,y,(Exp1_median_ALT-Exp1_median_OLD),cmap='seismic'...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `macro parameter character #' in math mode.
+l.188 ...an_ALT-Exp1_median_OLD),cmap='seismic') #
+                                                  vmin=-0.69, vmax=0.35, ,no...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.190 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 185--190
+[]
+ []
+
+
+Overfull \hbox (22.11562pt too wide) in paragraph at lines 185--190
+[]\OT1/cmr/m/n/10 1 =
+ []
+
+
+Overfull \hbox (150.45003pt too wide) in paragraph at lines 185--190
+\OML/cmm/m/it/10 m:pcolor\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x; y; \OT1/cmr/m/n/1
+0 (\OML/cmm/m/it/10 Exp\OT1/cmr/m/n/10 1[]\OML/cmm/m/it/10 edian[]LT \OMS/cmsy/
+m/n/10 ^^@
+ []
+
+
+Overfull \hbox (123.17496pt too wide) in paragraph at lines 185--190
+\OML/cmm/m/it/10 Exp\OT1/cmr/m/n/10 1[]\OML/cmm/m/it/10 edian[]LD\OT1/cmr/m/n/1
+0 )\OML/cmm/m/it/10 ; cmap \OT1/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (74.71281pt too wide) in paragraph at lines 185--190
+\OML/cmm/m/it/10 seismic[]\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 vmin \OT1/cmr/m/n/1
+0 =
+ []
+
+
+Overfull \hbox (65.54286pt too wide) in paragraph at lines 185--190
+\OMS/cmsy/m/n/10 ^^@\OT1/cmr/m/n/10 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 69\OML/c
+mm/m/it/10 ; vmax \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (61.64125pt too wide) in paragraph at lines 185--190
+\OT1/cmr/m/n/10 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 35\OML/cmm/m/it/10 ; ; norm 
+\OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (82.66966pt too wide) in paragraph at lines 185--190
+\OML/cmm/m/it/10 midnormExp[]\OT1/cmr/m/n/10 1 =
+ []
+
+
+Overfull \hbox (150.65652pt too wide) in paragraph at lines 185--190
+\OML/cmm/m/it/10 plt:colorbar\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Exp[]\OT1/cmr/m/
+n/10 1\OML/cmm/m/it/10 ; orientation \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (48.39084pt too wide) in paragraph at lines 185--190
+\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 vertical\OT1/cmr/m/n/10 ")$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.191 p
+       lt.subplot(122)
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no p in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.193 Exp_
+          R2 = m.pcolor(x,y,(Exp2_median-Exp3_median),cmap='seismic')
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.195 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 191--195
+[]
+ []
+
+
+Overfull \hbox (22.11562pt too wide) in paragraph at lines 191--195
+[]\OT1/cmr/m/n/10 2 =
+ []
+
+
+Overfull \hbox (129.89789pt too wide) in paragraph at lines 191--195
+\OML/cmm/m/it/10 m:pcolor\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x; y; \OT1/cmr/m/n/1
+0 (\OML/cmm/m/it/10 Exp\OT1/cmr/m/n/10 2[]\OML/cmm/m/it/10 edian \OMS/cmsy/m/n/
+10 ^^@
+ []
+
+
+Overfull \hbox (101.01468pt too wide) in paragraph at lines 191--195
+\OML/cmm/m/it/10 Exp\OT1/cmr/m/n/10 3[]\OML/cmm/m/it/10 edian\OT1/cmr/m/n/10 )\
+OML/cmm/m/it/10 ; cmap \OT1/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (81.54413pt too wide) in paragraph at lines 191--195
+\OML/cmm/m/it/10 seismic[]\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 Exp[]\OT1/cmr/m/n/1
+0 2 =
+ []
+
+
+Overfull \hbox (150.65652pt too wide) in paragraph at lines 191--195
+\OML/cmm/m/it/10 plt:colorbar\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Exp[]\OT1/cmr/m/
+n/10 2\OML/cmm/m/it/10 ; orientation \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (48.39084pt too wide) in paragraph at lines 191--195
+\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 vertical\OT1/cmr/m/n/10 ")$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.196 p
+       lt.show()
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no ) in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 196--197
+[] 
+ []
+
+! You can't use `macro parameter character #' in vertical mode.
+l.199 #
+       plt.subplot(224)
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.199 #p
+        lt.subplot(224)
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no ) in font nullfont!
+! You can't use `macro parameter character #' in horizontal mode.
+l.200 #
+       m.drawcoastlines()
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+Missing character: There is no m in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no ) in font nullfont!
+! You can't use `macro parameter character #' in horizontal mode.
+l.201 #
+       ExpLGM_H2 = m.contourf(x,y,np.log(Exp4_median),500,map=cmap)
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+Missing character: There is no E in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no L in font nullfont!
+Missing character: There is no G in font nullfont!
+Missing character: There is no M in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.201 #ExpLGM_
+              H2 = m.contourf(x,y,np.log(Exp4_median),500,map=cmap)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `macro parameter character #' in math mode.
+l.202 #
+       ExpLGM_H2=plt.colorbar(ExpLGM_H2,orientation="vertical")
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.203 #
+       ExpLGM_H2.set_label('mol m-2 yr-1', rotation=90)
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.204 #
+       plt.xlabel('Longitude')
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.205 #
+       plt.ylabel('Latitude')
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.206 #
+       plt.title('LGM')
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.207 #
+       plt.suptitle("Difference Biological export POC",fontsize=14)
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.208 #
+       plt.show()
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.209 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 199--209
+[]
+ []
+
+
+Overfull \hbox (23.14026pt too wide) in paragraph at lines 199--209
+[]\OT1/cmr/m/n/10 2 =
+ []
+
+
+Overfull \hbox (219.61678pt too wide) in paragraph at lines 199--209
+\OML/cmm/m/it/10 m:contourf\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x; y; np:log\OT1/c
+mr/m/n/10 (\OML/cmm/m/it/10 Exp\OT1/cmr/m/n/10 4[]\OML/cmm/m/it/10 edian\OT1/cm
+r/m/n/10 )\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 500\OML/cmm/m/it/10 ; map \OT1/cmr
+/m/n/10 =
+ []
+
+
+Overfull \hbox (93.52829pt too wide) in paragraph at lines 199--209
+\OML/cmm/m/it/10 cmap\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ExpLGM[]\OT1/cmr/m/n/10 
+2 =
+ []
+
+
+Overfull \hbox (176.05063pt too wide) in paragraph at lines 199--209
+\OML/cmm/m/it/10 plt:colorbar\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ExpLGM[]\OT1/cmr
+/m/n/10 2\OML/cmm/m/it/10 ; orientation \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (180.32672pt too wide) in paragraph at lines 199--209
+\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 vertical\OT1/cmr/m/n/10 ")\OML/cmm/m/it/10 Ex
+pLGM[]\OT1/cmr/m/n/10 2\OML/cmm/m/it/10 :set[]abel\OT1/cmr/m/n/10 ([]\OML/cmm/m
+/it/10 molm \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (22.82878pt too wide) in paragraph at lines 199--209
+\OT1/cmr/m/n/10 2\OML/cmm/m/it/10 yr \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (59.24492pt too wide) in paragraph at lines 199--209
+\OT1/cmr/m/n/10 1[]\OML/cmm/m/it/10 ; rotation \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (544.54471pt too wide) in paragraph at lines 199--209
+\OT1/cmr/m/n/10 90)\OML/cmm/m/it/10 plt:xlabel\OT1/cmr/m/n/10 ([]\OML/cmm/m/it/
+10 Longitude[]\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 plt:ylabel\OT1/cmr/m/n/10 ([]\O
+ML/cmm/m/it/10 Latitude[]\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 plt:title\OT1/cmr/m/
+n/10 ([]\OML/cmm/m/it/10 LGM[]\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 plt:suptitle\OT
+1/cmr/m/n/10 ("\OML/cmm/m/it/10 DifferenceBiologicalexportPOC\OT1/cmr/m/n/10 "\
+OML/cmm/m/it/10 ; fontsize \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (58.99202pt too wide) in paragraph at lines 199--209
+\OT1/cmr/m/n/10 14)\OML/cmm/m/it/10 plt:show\OT1/cmr/m/n/10 ()$ 
+ []
+
+)
+! Emergency stop.
+<*> .../TesisI/SPIN/netcdf_figure_Carbonexport2.py
+                                                  
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 13 strings out of 492609
+ 528 string characters out of 6131462
+ 73649 words of memory out of 5000000
+ 4029 multiletter control sequences out of 15000+600000
+ 3640 words of font info for 14 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 18i,8n,12p,275b,115s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!

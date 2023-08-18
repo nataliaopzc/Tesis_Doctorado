@@ -1,0 +1,1894 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.4.7)  13 APR 2021 02:58
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**/home/natalia/Documentos/DATA/TesisI/Data_function/Function/plot_CO2_sol.py
+(/home/natalia/Documentos/DATA/TesisI/Data_function/Function/plot_CO2_sol.py
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14>
+! You can't use `macro parameter character #' in vertical mode.
+l.1 #
+     import  tarfile
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 #i
+      mport  tarfile
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no i in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no L in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.9 from matplotlib.font_
+                         manager import FontProperties
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 9.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 9.
+! Missing $ inserted.
+<inserted text> 
+                $
+l.11 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 1--11
+[]
+ []
+
+
+Overfull \hbox (208.03099pt too wide) in paragraph at lines 1--11
+[]\OML/cmm/m/it/10 anagerimportFontPropertiesimportitertools$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.12 l
+      egend_elements = [Line2D([0], [0], linestyle='',label='REGION'),
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.12 legend_
+            elements = [Line2D([0], [0], linestyle='',label='REGION'),
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.31 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (70.42383pt too wide) in paragraph at lines 12--31
+[]$[]\OML/cmm/m/it/10 lements \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (125.48096pt too wide) in paragraph at lines 12--31
+\OT1/cmr/m/n/10 [\OML/cmm/m/it/10 Line\OT1/cmr/m/n/10 2\OML/cmm/m/it/10 D\OT1/c
+mr/m/n/10 ([0]\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 [0]\OML/cmm/m/it/10 ; linestyl
+e \OT1/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (38.40044pt too wide) in paragraph at lines 12--31
+\OML/cmm/m/it/10 ; label \OT1/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (172.379pt too wide) in paragraph at lines 12--31
+\OML/cmm/m/it/10 REGION[]\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ; Line\OT1/cmr/m/n/1
+0 2\OML/cmm/m/it/10 D\OT1/cmr/m/n/10 ([0]\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 [0]
+\OML/cmm/m/it/10 ; marker \OT1/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (47.45023pt too wide) in paragraph at lines 12--31
+\OML/cmm/m/it/10 o[]; color \OT1/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (90.15245pt too wide) in paragraph at lines 12--31
+\OML/cmm/m/it/10 yellow[]; linestyle \OT1/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (25.60875pt too wide) in paragraph at lines 12--31
+\OML/cmm/m/it/10 ; lw \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (43.40045pt too wide) in paragraph at lines 12--31
+\OT1/cmr/m/n/10 4\OML/cmm/m/it/10 ; label \OT1/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (143.30197pt too wide) in paragraph at lines 12--31
+\OML/cmm/m/it/10 NA[]\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ; Line\OT1/cmr/m/n/10 2\
+OML/cmm/m/it/10 D\OT1/cmr/m/n/10 ([0]\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 [0]\OML
+/cmm/m/it/10 ; marker \OT1/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (47.45023pt too wide) in paragraph at lines 12--31
+\OML/cmm/m/it/10 o[]; color \OT1/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (81.59753pt too wide) in paragraph at lines 12--31
+\OML/cmm/m/it/10 pink[]; linestyle \OT1/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (25.60875pt too wide) in paragraph at lines 12--31
+\OML/cmm/m/it/10 ; lw \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (43.40045pt too wide) in paragraph at lines 12--31
+\OT1/cmr/m/n/10 3\OML/cmm/m/it/10 ; label \OT1/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (143.611pt too wide) in paragraph at lines 12--31
+\OML/cmm/m/it/10 NP[]\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ; Line\OT1/cmr/m/n/10 2\
+OML/cmm/m/it/10 D\OT1/cmr/m/n/10 ([0]\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 [0]\OML
+/cmm/m/it/10 ; marker \OT1/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (47.45023pt too wide) in paragraph at lines 12--31
+\OML/cmm/m/it/10 o[]; color \OT1/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (86.83067pt too wide) in paragraph at lines 12--31
+\OML/cmm/m/it/10 green[]; linestyle \OT1/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (25.60875pt too wide) in paragraph at lines 12--31
+\OML/cmm/m/it/10 ; lw \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (43.40045pt too wide) in paragraph at lines 12--31
+\OT1/cmr/m/n/10 3\OML/cmm/m/it/10 ; label \OT1/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (142.34851pt too wide) in paragraph at lines 12--31
+\OML/cmm/m/it/10 CP[]\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ; Line\OT1/cmr/m/n/10 2\
+OML/cmm/m/it/10 D\OT1/cmr/m/n/10 ([0]\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 [0]\OML
+/cmm/m/it/10 ; marker \OT1/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (47.45023pt too wide) in paragraph at lines 12--31
+\OML/cmm/m/it/10 o[]; color \OT1/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (79.45103pt too wide) in paragraph at lines 12--31
+\OML/cmm/m/it/10 blue[]; linestyle \OT1/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (25.60875pt too wide) in paragraph at lines 12--31
+\OML/cmm/m/it/10 ; lw \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (43.40045pt too wide) in paragraph at lines 12--31
+\OT1/cmr/m/n/10 3\OML/cmm/m/it/10 ; label \OT1/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (141.19434pt too wide) in paragraph at lines 12--31
+\OML/cmm/m/it/10 SP[]\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ; Line\OT1/cmr/m/n/10 2\
+OML/cmm/m/it/10 D\OT1/cmr/m/n/10 ([0]\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 [0]\OML
+/cmm/m/it/10 ; marker \OT1/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (47.45023pt too wide) in paragraph at lines 12--31
+\OML/cmm/m/it/10 o[]; color \OT1/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (76.24846pt too wide) in paragraph at lines 12--31
+\OML/cmm/m/it/10 red[]; linestyle \OT1/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (25.60875pt too wide) in paragraph at lines 12--31
+\OML/cmm/m/it/10 ; lw \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (43.40045pt too wide) in paragraph at lines 12--31
+\OT1/cmr/m/n/10 3\OML/cmm/m/it/10 ; label \OT1/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (148.05037pt too wide) in paragraph at lines 12--31
+\OML/cmm/m/it/10 SA[]\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ; Line\OT1/cmr/m/n/10 2\
+OML/cmm/m/it/10 D\OT1/cmr/m/n/10 ([0]\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 [0]\OML
+/cmm/m/it/10 ; linestyle \OT1/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (38.40044pt too wide) in paragraph at lines 12--31
+\OML/cmm/m/it/10 ; label \OT1/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (203.11577pt too wide) in paragraph at lines 12--31
+\OML/cmm/m/it/10 DUSTSOURCE[]\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ; Line\OT1/cmr/m
+/n/10 2\OML/cmm/m/it/10 D\OT1/cmr/m/n/10 ([0]\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10
+ [0]\OML/cmm/m/it/10 ; marker \OT1/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (47.45023pt too wide) in paragraph at lines 12--31
+\OML/cmm/m/it/10 o[]; color \OT1/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (84.20448pt too wide) in paragraph at lines 12--31
+\OML/cmm/m/it/10 black[]; linestyle \OT1/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (25.60875pt too wide) in paragraph at lines 12--31
+\OML/cmm/m/it/10 ; lw \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (43.40045pt too wide) in paragraph at lines 12--31
+\OT1/cmr/m/n/10 3\OML/cmm/m/it/10 ; label \OT1/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (156.3826pt too wide) in paragraph at lines 12--31
+\OML/cmm/m/it/10 Albani[]\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ; Line\OT1/cmr/m/n/1
+0 2\OML/cmm/m/it/10 D\OT1/cmr/m/n/10 ([0]\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 [0]
+\OML/cmm/m/it/10 ; marker \OT1/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (47.63425pt too wide) in paragraph at lines 12--31
+\OML/cmm/m/it/10 p[]; color \OT1/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (84.20448pt too wide) in paragraph at lines 12--31
+\OML/cmm/m/it/10 black[]; linestyle \OT1/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (25.60875pt too wide) in paragraph at lines 12--31
+\OML/cmm/m/it/10 ; lw \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (43.40045pt too wide) in paragraph at lines 12--31
+\OT1/cmr/m/n/10 3\OML/cmm/m/it/10 ; label \OT1/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (164.89699pt too wide) in paragraph at lines 12--31
+\OML/cmm/m/it/10 Lambert[]\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ; Line\OT1/cmr/m/n/
+10 2\OML/cmm/m/it/10 D\OT1/cmr/m/n/10 ([0]\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 [0
+]\OML/cmm/m/it/10 ; marker \OT1/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (47.809pt too wide) in paragraph at lines 12--31
+\OML/cmm/m/it/10 v[]; color \OT1/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (84.20448pt too wide) in paragraph at lines 12--31
+\OML/cmm/m/it/10 black[]; linestyle \OT1/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (25.60875pt too wide) in paragraph at lines 12--31
+\OML/cmm/m/it/10 ; lw \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (43.40045pt too wide) in paragraph at lines 12--31
+\OT1/cmr/m/n/10 3\OML/cmm/m/it/10 ; label \OT1/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (173.9526pt too wide) in paragraph at lines 12--31
+\OML/cmm/m/it/10 Takemura[]\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ; Line\OT1/cmr/m/n
+/10 2\OML/cmm/m/it/10 D\OT1/cmr/m/n/10 ([0]\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 [
+0]\OML/cmm/m/it/10 ; marker \OT1/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (47.2905pt too wide) in paragraph at lines 12--31
+\OML/cmm/m/it/10 s[]; color \OT1/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (84.20448pt too wide) in paragraph at lines 12--31
+\OML/cmm/m/it/10 black[]; linestyle \OT1/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (25.60875pt too wide) in paragraph at lines 12--31
+\OML/cmm/m/it/10 ; lw \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (43.40045pt too wide) in paragraph at lines 12--31
+\OT1/cmr/m/n/10 3\OML/cmm/m/it/10 ; label \OT1/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (162.66194pt too wide) in paragraph at lines 12--31
+\OML/cmm/m/it/10 Ohgaito[]\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ; Line\OT1/cmr/m/n/
+10 2\OML/cmm/m/it/10 D\OT1/cmr/m/n/10 ([0]\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 [0
+]\OML/cmm/m/it/10 ; marker \OT1/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (51.67242pt too wide) in paragraph at lines 12--31
+\OML/cmm/m/it/10 X[]; color \OT1/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (84.20448pt too wide) in paragraph at lines 12--31
+\OML/cmm/m/it/10 black[]; linestyle \OT1/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (25.60875pt too wide) in paragraph at lines 12--31
+\OML/cmm/m/it/10 ; lw \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (43.40045pt too wide) in paragraph at lines 12--31
+\OT1/cmr/m/n/10 3\OML/cmm/m/it/10 ; label \OT1/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (47.18819pt too wide) in paragraph at lines 12--31
+\OML/cmm/m/it/10 MIROC \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (152.13527pt too wide) in paragraph at lines 12--31
+\OML/cmm/m/it/10 ESM[]\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ; Line\OT1/cmr/m/n/10 2
+\OML/cmm/m/it/10 D\OT1/cmr/m/n/10 ([0]\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 [0]\OM
+L/cmm/m/it/10 ; marker \OT1/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (51.15994pt too wide) in paragraph at lines 12--31
+\OML/cmm/m/it/10 D[]; color \OT1/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (84.20448pt too wide) in paragraph at lines 12--31
+\OML/cmm/m/it/10 black[]; linestyle \OT1/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (25.60875pt too wide) in paragraph at lines 12--31
+\OML/cmm/m/it/10 ; lw \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (43.40045pt too wide) in paragraph at lines 12--31
+\OT1/cmr/m/n/10 3\OML/cmm/m/it/10 ; label \OT1/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (31.42015pt too wide) in paragraph at lines 12--31
+\OML/cmm/m/it/10 MRI \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (173.22118pt too wide) in paragraph at lines 12--31
+\OML/cmm/m/it/10 CGCM\OT1/cmr/m/n/10 3[])\OML/cmm/m/it/10 ; Line\OT1/cmr/m/n/10
+ 2\OML/cmm/m/it/10 D\OT1/cmr/m/n/10 ([0]\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 [0]\
+OML/cmm/m/it/10 ; linestyle \OT1/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (38.40044pt too wide) in paragraph at lines 12--31
+\OML/cmm/m/it/10 ; label \OT1/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (172.6673pt too wide) in paragraph at lines 12--31
+\OML/cmm/m/it/10 FACTOR[]\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ; Line\OT1/cmr/m/n/1
+0 2\OML/cmm/m/it/10 D\OT1/cmr/m/n/10 ([0]\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 [0]
+\OML/cmm/m/it/10 ; marker \OT1/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (47.45023pt too wide) in paragraph at lines 12--31
+\OML/cmm/m/it/10 o[]; color \OT1/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (84.20448pt too wide) in paragraph at lines 12--31
+\OML/cmm/m/it/10 black[]; linestyle \OT1/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (66.70099pt too wide) in paragraph at lines 12--31
+\OML/cmm/m/it/10 ; markersize \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (43.40045pt too wide) in paragraph at lines 12--31
+\OT1/cmr/m/n/10 2\OML/cmm/m/it/10 ; label \OT1/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (139.4548pt too wide) in paragraph at lines 12--31
+\OT1/cmr/m/n/10 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 3[])\OML/cmm/m/it/10 ; Line\
+OT1/cmr/m/n/10 2\OML/cmm/m/it/10 D\OT1/cmr/m/n/10 ([0]\OML/cmm/m/it/10 ; \OT1/c
+mr/m/n/10 [0]\OML/cmm/m/it/10 ; marker \OT1/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (47.45023pt too wide) in paragraph at lines 12--31
+\OML/cmm/m/it/10 o[]; color \OT1/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (84.20448pt too wide) in paragraph at lines 12--31
+\OML/cmm/m/it/10 black[]; linestyle \OT1/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (66.70099pt too wide) in paragraph at lines 12--31
+\OML/cmm/m/it/10 ; markersize \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (43.40045pt too wide) in paragraph at lines 12--31
+\OT1/cmr/m/n/10 5\OML/cmm/m/it/10 ; label \OT1/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (139.4548pt too wide) in paragraph at lines 12--31
+\OT1/cmr/m/n/10 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 6[])\OML/cmm/m/it/10 ; Line\
+OT1/cmr/m/n/10 2\OML/cmm/m/it/10 D\OT1/cmr/m/n/10 ([0]\OML/cmm/m/it/10 ; \OT1/c
+mr/m/n/10 [0]\OML/cmm/m/it/10 ; marker \OT1/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (47.45023pt too wide) in paragraph at lines 12--31
+\OML/cmm/m/it/10 o[]; color \OT1/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (84.20448pt too wide) in paragraph at lines 12--31
+\OML/cmm/m/it/10 black[]; linestyle \OT1/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (66.70099pt too wide) in paragraph at lines 12--31
+\OML/cmm/m/it/10 ; markersize \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (48.40047pt too wide) in paragraph at lines 12--31
+\OT1/cmr/m/n/10 12\OML/cmm/m/it/10 ; label \OT1/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (131.677pt too wide) in paragraph at lines 12--31
+\OT1/cmr/m/n/10 2[])\OML/cmm/m/it/10 ; Line\OT1/cmr/m/n/10 2\OML/cmm/m/it/10 D\
+OT1/cmr/m/n/10 ([0]\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 [0]\OML/cmm/m/it/10 ; mar
+ker \OT1/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (47.45023pt too wide) in paragraph at lines 12--31
+\OML/cmm/m/it/10 o[]; color \OT1/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (84.20448pt too wide) in paragraph at lines 12--31
+\OML/cmm/m/it/10 black[]; linestyle \OT1/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (66.70099pt too wide) in paragraph at lines 12--31
+\OML/cmm/m/it/10 ; markersize \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (48.40047pt too wide) in paragraph at lines 12--31
+\OT1/cmr/m/n/10 18\OML/cmm/m/it/10 ; label \OT1/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (18.91667pt too wide) in paragraph at lines 12--31
+\OT1/cmr/m/n/10 3[])\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 ]$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.32 M
+      ODEL=['Albani','Lambert','Takemura','Ohgaito','MIROC-ESM','MRI-CGCM3']
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no M in font nullfont!
+Missing character: There is no O in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no L in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no [ in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no L in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no O in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no R in font nullfont!
+Missing character: There is no O in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no R in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no G in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no ] in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no R in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no N in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no + in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no N in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no + in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no 8 in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no + in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 8 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no + in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no 8 in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no + in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no [ in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no H in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no L in font nullfont!
+Missing character: There is no G in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no ] in font nullfont!
+Missing character: There is no R in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no G in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no O in font nullfont!
+Missing character: There is no N in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no [ in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no N in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no N in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no ] in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no O in font nullfont!
+Missing character: There is no L in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no [ in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no ] in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 32--37
+[]
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.38 c
+      olors = ['yellow', 'pink', 'green','blue','red']
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no [ in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no ] in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no [ in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no ] in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 38--40
+[]
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41 p
+      p=2
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no p in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no 8 in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no d in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.46 	axes = figure.add_
+                        axes([0.1, 0.1, 0.8, 0.8])
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `macro parameter character #' in math mode.
+l.47 ...igure.add_axes([0.54, 0.15, 0.35, 0.29]) #
+                                                   LGM
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.50 	Carga['MRI_CGCM3'][:,:,ii]]) #
+                                    0 es holoceno y 1 es LGM--> Ver: make_Du...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.52 ...ty=np.array([Solubility['OUT'][:,:,pp]]) #
+                                                   Aquí es al revés, 0 es ...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+LaTeX Warning: Command \' invalid in math mode on input line 52.
+
+
+LaTeX Warning: Command \' invalid in math mode on input line 52.
+
+LaTeX Font Info:    Trying to load font information for +cmr on input line 52.
+LaTeX Font Info:    No file cmr.fd. on input line 52.
+
+LaTeX Font Warning: Font shape `/cmr/m/n' undefined
+(Font)              using `/cmr/m/n' instead on input line 52.
+
+! Corrupted NFSS tables.
+wrong@fontshape ...message {Corrupted NFSS tables}
+                                                  error@fontshape else let f...
+l.52 ...array([Solubility['OUT'][:,:,pp]]) # Aquí
+                                                   es al revés, 0 es LGM y ...
+This error message was generated by an \errmessage
+command, so I can't give any explicit help.
+Pretend that you're Hercule Poirot: Examine all clues,
+and deduce the truth by order and method.
+
+
+LaTeX Font Warning: Font shape `/cmr/m/n' undefined
+(Font)              using `OT1/cmr/m/n' instead on input line 52.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.52 ...array([Solubility['OUT'][:,:,pp]]) # Aquí
+                                                   es al revés, 0 es LGM y ...
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+! Missing { inserted.
+<to be read again> 
+                   \edef 
+l.52 ...array([Solubility['OUT'][:,:,pp]]) # Aquí
+                                                   es al revés, 0 es LGM y ...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+
+LaTeX Warning: Command \i invalid in math mode on input line 52.
+
+
+LaTeX Warning: Command \i invalid in math mode on input line 52.
+
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.52 ...array([Solubility['OUT'][:,:,pp]]) # Aquí
+                                                   es al revés, 0 es LGM y ...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+LaTeX Warning: Command \' invalid in math mode on input line 52.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.52 ...ility['OUT'][:,:,pp]]) # Aquí es al revé
+                                                  s, 0 es LGM y 1 Holoceno--...
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+! You can't use `\spacefactor' in math mode.
+\add@accent ... \accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.52 ...ility['OUT'][:,:,pp]]) # Aquí es al revé
+                                                  s, 0 es LGM y 1 Holoceno--...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.72 				#
+          ############################# CO2 ########################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.72 				##
+           ############################ CO2 ########################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.72 				###
+            ########################### CO2 ########################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.72 				####
+             ########################## CO2 ########################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.72 				#####
+              ######################### CO2 ########################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.72 				######
+               ######################## CO2 ########################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.72 				#######
+                ####################### CO2 ########################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.72 				########
+                 ###################### CO2 ########################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.72 				#########
+                  ##################### CO2 ########################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.72 				##########
+                   #################### CO2 ########################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.72 				###########
+                    ################### CO2 ########################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.72 				############
+                     ################## CO2 ########################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.72 				#############
+                      ################# CO2 ########################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.72 				##############
+                       ################ CO2 ########################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.72 				###############
+                        ############### CO2 ########################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.72 				################
+                         ############## CO2 ########################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.72 				#################
+                          ############# CO2 ########################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.72 				##################
+                           ############ CO2 ########################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.72 				###################
+                            ########### CO2 ########################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.72 				####################
+                             ########## CO2 ########################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.72 				#####################
+                              ######### CO2 ########################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.72 				######################
+                               ######## CO2 ########################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.72 				#######################
+                                ####### CO2 ########################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.72 				########################
+                                 ###### CO2 ########################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.72 				#########################
+                                  ##### CO2 ########################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.72 				##########################
+                                   #### CO2 ########################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.72 				###########################
+                                    ### CO2 ########################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.72 				############################
+                                     ## CO2 ########################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.72 				#############################
+                                      # CO2 ########################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.72 				##############################
+                                        CO2 ########################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.72 				############################## CO2 #
+                                             #######################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.72 				############################## CO2 ##
+                                              ######################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.72 				############################## CO2 ###
+                                               #####################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.72 				############################## CO2 ####
+                                                ####################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.72 				############################## CO2 #####
+                                                 ###################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.72 				############################## CO2 ######
+                                                  ##################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.72 ...############################## CO2 #######
+                                                  #################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.72 ...############################# CO2 ########
+                                                  ################
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.72 ...############################ CO2 #########
+                                                  ###############
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.72 ...########################### CO2 ##########
+                                                  ##############
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.72 ...########################## CO2 ###########
+                                                  #############
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.72 ...######################### CO2 ############
+                                                  ############
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.72 ...######################## CO2 #############
+                                                  ###########
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.72 ...####################### CO2 ##############
+                                                  ##########
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.72 ...###################### CO2 ###############
+                                                  #########
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.72 ...##################### CO2 ################
+                                                  ########
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.72 ...#################### CO2 #################
+                                                  #######
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.72 ...################### CO2 ##################
+                                                  ######
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.72 ...################## CO2 ###################
+                                                  #####
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.72 ...################# CO2 ####################
+                                                  ####
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.72 ...################ CO2 #####################
+                                                  ###
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.72 ...############### CO2 ######################
+                                                  ##
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.72 ...############## CO2 #######################
+                                                  #
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.72 ...############# CO2 ########################
+                                                  
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing { inserted.
+<to be read again> 
+                   ^
+l.74 ...I/cgenie/cgenie_output/worjh2.PO4Fe'+h+'_'
+                                                  +i+'_Sol_calculated_Dust_'...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Missing { inserted.
+<to be read again> 
+                   ^
+l.74 ...jh2.PO4Fe'+h+'_'+i+'_Sol_calculated_Dust_'
+                                                  +j+'_x'+str(k)+'/biogem/bi...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Double superscript.
+<recently read> ^
+                 
+l.74 ...Fe'+h+'_'+i+'_Sol_calculated_Dust_'+j+'_x'
+                                                  +str(k)+'/biogem/biogem_se...
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+! You can't use `macro parameter character #' in math mode.
+l.76 				#
+          print((np.median(CO2_or[-100:,2])-np.median(CO2_file[-100:,2])))
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.78 			#
+          for l in range(0,6):
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.79 			#
+          	CO22.append((CO2[l]/Carga1[l])[0])
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.80 			#
+          	CO222.append((CO2[l]/Carga1[l])[0])
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.86 					plt.xlim(0,1.5) #
+                            1.2 #H
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.86 					plt.xlim(0,1.5) # 1.2 #
+                                 H
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.87 					plt.ylim(-0.35e-15,0.5e-15) #
+                                       H
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.89 					plt.xlim(0,1.2) #
+                           LGM
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.90 					plt.ylim(-2e-16,4e-16) #
+                                  LGM
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+! Package inputenc Error: Unicode character Δ (U+0394)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.92 			axes.set_ylabel('Δ
+                           CO2 [ppm m-2 kg-1]',fontsize=18)
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+! You can't use `macro parameter character #' in math mode.
+l.94 			#
+         plt.title('Dust vs Solubility')
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+)
+! Emergency stop.
+<*> ...sisI/Data_function/Function/plot_CO2_sol.py
+                                                  
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 34 strings out of 481239
+ 771 string characters out of 5920378
+ 249563 words of memory out of 5000000
+ 15398 multiletter control sequences out of 15000+600000
+ 532338 words of font info for 24 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 18i,5n,16p,274b,99s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!
