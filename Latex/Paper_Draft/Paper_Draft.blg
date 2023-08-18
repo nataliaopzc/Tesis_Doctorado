@@ -1,0 +1,64 @@
+This is BibTeX, Version 0.99d (TeX Live 2019/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Paper_Draft.aux
+The style file: apalike.bst
+Database file #1: citas.bib
+Repeated entry---line 420 of file citas.bib
+ : @article{mahowald2005atmospheric
+ :                                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 768 of file citas.bib
+ : @article{ridgwell2007marine
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 798 of file citas.bib
+ : @article{lambert2015dust
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 841 of file citas.bib
+ : @article{ohgaito2018effect
+ :                           ,
+I'm skipping whatever remains of this entry
+Warning--empty journal in jickells2001atmospheric
+You've used 60 entries,
+            1935 wiz_defined-function locations,
+            845 strings with 18426 characters,
+and the built_in function-call counts, 30376 in all, are:
+= -- 2817
+> -- 1956
+< -- 16
++ -- 738
+- -- 712
+* -- 2988
+:= -- 5398
+add.period$ -- 180
+call.type$ -- 60
+change.case$ -- 642
+chr.to.int$ -- 60
+cite$ -- 61
+duplicate$ -- 857
+empty$ -- 1705
+format.name$ -- 787
+if$ -- 5655
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 61
+newline$ -- 302
+num.names$ -- 180
+pop$ -- 529
+preamble$ -- 1
+purify$ -- 643
+quote$ -- 0
+skip$ -- 662
+stack$ -- 0
+substring$ -- 1924
+swap$ -- 81
+text.length$ -- 4
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 358
+warning$ -- 1
+while$ -- 216
+width$ -- 0
+write$ -- 781
+(There were 4 error messages)

@@ -1,0 +1,231 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=temp_header 2021.7.5)  8 DEC 2022 13:41
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**/home/natalia/Documentos/DATA/TesisI/Latex/Paper_Draft/tikz/Fe.tex.preview.te
+x
+
+(/home/natalia/Documentos/DATA/TesisI/Latex/Paper_Draft/tikz/Fe.tex.preview.tex
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14>
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count278
+\l__pdf_internal_box=\box79
+)
+(./Fe.tex.preview.aux)
+\openout1 = `Fe.tex.preview.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+ ABD: EveryShipout initializing macros
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count279
+\scratchdimen=\dimen262
+\scratchbox=\box80
+\nofMPsegments=\count280
+\nofMParguments=\count281
+\everyMPshowfont=\toks34
+\MPscratchCnt=\count282
+\MPscratchDim=\dimen263
+\MPnumerator=\count283
+\makeMPintoPDFobject=\count284
+\everyMPtoPDFconversion=\toks35
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/grfext/grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(0.0pt, 614.295pt, 0.0pt)
+* v-part:(T,H,B)=(0.0pt, 794.96999pt, 0.0pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=614.295pt
+* \textheight=794.96999pt
+* \oddsidemargin=-72.26999pt
+* \evensidemargin=-72.26999pt
+* \topmargin=-72.26999pt
+* \headheight=0.0pt
+* \headsep=0.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Preview: Fontsize 10pt
+Preview: PDFoutput 1
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarydecorations.pathreplacing.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarydecorations.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduledecorations.cod
+e.tex
+\pgfdecoratedcompleteddistance=\dimen264
+\pgfdecoratedremainingdistance=\dimen265
+\pgfdecoratedinputsegmentcompleteddistance=\dimen266
+\pgfdecoratedinputsegmentremainingdistance=\dimen267
+\pgf@decorate@distancetomove=\dimen268
+\pgf@decorate@repeatstate=\count285
+\pgfdecorationsegmentamplitude=\dimen269
+\pgfdecorationsegmentlength=\dimen270
+)
+\tikz@lib@dec@box=\box81
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrary
+decorations.pathreplacing.code.tex))
+<nubes2.png, id=9, 228.855pt x 51.94406pt>
+File: nubes2.png Graphic file (type png)
+<use nubes2.png>
+Package pdftex.def Info: nubes2.png  used on input line 9.
+(pdftex.def)             Requested size: 491.45944pt x 119.25479pt.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 20.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 20.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+<fito_1.png, id=13, 133.24782pt x 175.40532pt>
+File: fito_1.png Graphic file (type png)
+<use fito_1.png>
+Package pdftex.def Info: fito_1.png  used on input line 272.
+(pdftex.def)             Requested size: 12.07921pt x 15.90279pt.
+<fito_2.png, id=14, 152.82094pt x 152.82094pt>
+File: fito_2.png Graphic file (type png)
+<use fito_2.png>
+Package pdftex.def Info: fito_2.png  used on input line 273.
+(pdftex.def)             Requested size: 14.31293pt x 14.31372pt.
+<fito_3.png, id=15, 110.66344pt x 136.25906pt>
+File: fito_3.png Graphic file (type png)
+<use fito_3.png>
+Package pdftex.def Info: fito_3.png  used on input line 274.
+(pdftex.def)             Requested size: 11.62422pt x 14.31372pt.
+<fito_4.png, id=16, 114.4275pt x 222.07968pt>
+File: fito_4.png Graphic file (type png)
+<use fito_4.png>
+Package pdftex.def Info: fito_4.png  used on input line 275.
+(pdftex.def)             Requested size: 9.41803pt x 18.28032pt.
+<fito_5.png, id=17, 84.315pt x 127.22531pt>
+File: fito_5.png Graphic file (type png)
+<use fito_5.png>
+Package pdftex.def Info: fito_5.png  used on input line 276.
+(pdftex.def)             Requested size: 9.48566pt x 14.31372pt.
+<fito_6.png, id=18, 97.11281pt x 173.14688pt>
+File: fito_6.png Graphic file (type png)
+<use fito_6.png>
+Package pdftex.def Info: fito_6.png  used on input line 277.
+(pdftex.def)             Requested size: 8.91907pt x 15.90279pt.
+File: fito_2.png Graphic file (type png)
+<use fito_2.png>
+Package pdftex.def Info: fito_2.png  used on input line 278.
+(pdftex.def)             Requested size: 14.31293pt x 14.31372pt.
+File: fito_3.png Graphic file (type png)
+<use fito_3.png>
+Package pdftex.def Info: fito_3.png  used on input line 279.
+(pdftex.def)             Requested size: 6.45207pt x 7.94533pt.
+File: fito_6.png Graphic file (type png)
+<use fito_6.png>
+Package pdftex.def Info: fito_6.png  used on input line 280.
+(pdftex.def)             Requested size: 8.91907pt x 15.90279pt.
+\metadatafile=\write4
+\openout4 = `Fe.tex.preview_BB.txt'.
+
+
+Preview: Tightpage -32891 -32891 32891 32891
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./nubes2.png> <./fito_1.
+png> <./fito_2.png> <./fito_3.png> <./fito_4.png> <./fito_5.png> <./fito_6.png>
+] (./Fe.tex.preview.aux) ) 
+Here is how much of TeX's memory you used:
+ 1960 strings out of 466147
+ 43311 string characters out of 5602536
+ 646187 words of memory out of 5000000
+ 31968 multiletter control sequences out of 15000+600000
+ 541725 words of font info for 59 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 39i,7n,65p,329b,796s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmb
+x7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb>
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/s
+hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/te
+xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on Fe.tex.preview.pdf (1 page, 145802 bytes).
+PDF statistics:
+ 64 PDF objects out of 1000 (max. 8388607)
+ 35 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 66 words of extra memory for PDF output out of 10000 (max. 10000000)
+

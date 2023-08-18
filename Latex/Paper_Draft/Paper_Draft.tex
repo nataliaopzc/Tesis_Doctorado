@@ -1,0 +1,82 @@
+\documentclass{article} %configuración básica article con el paque spanish para que reconozca tildes y otros carácteres
+\usepackage[a4paper,margin=1in]{geometry}
+\usepackage[utf8]{inputenc} %configuración básica article
+\usepackage{babel}
+\usepackage{lineno} % Contador de líneas
+\usepackage{tikz} % Para poder trabajar con gráficos 
+\usetikzlibrary{babel}
+\usepackage{natbib} %paquete para la bibliografía 
+\usepackage{graphicx} %paquete para insertar figuras
+ \graphicspath{ {figuras/} } 
+\usepackage{wrapfig}
+\usepackage{subcaption}
+\usepackage{caption}
+\usepackage{float}  %para posicionar imagenes
+\usepackage{comment} %escribir notas comentarios
+\usepackage{todonotes}
+\usepackage{soul}
+\newcommand{\toask}[2][]{\todo[#1,color=green!60]{#2}}
+\newcommand{\test}[2][]{\todo[#1,color=red!60]{#2}}
+\newcommand{\done}[2][]{\todo[#1,color=blue!60]{#2}}
+\usepackage{hyperref}
+\hypersetup{colorlinks=false}
+\usepackage{xcolor,sectsty}
+\definecolor{astral}{RGB}{46,116,200}
+%\subsectionfont{\color{astral}}
+%\sectionfont{\color{astral}}
+
+%%%%%%%%%%%%%% Imagen encabezado %%%%%%%%%%%%%%%%%%%%%%%
+
+%\lhead{\includegraphics[width=20mm]{logo.jepg}}
+%\renewcommand{\headrulewidth}{0.5pt}
+%\pagestyle{fancy}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\title{{\color{astral} Regulation of atmospheric CO2 by sea iron solubility impacts during the Last Glacial Maximum and Holocene in an Earth system model}}
+%\author{Natalia Opazo$^{1}$\\ \\
+%\small{$^{1}$Pontificia Universidad Cat\'olica de Chile. Facultad de Historia Geograf\'ia y Ciencias Pol\'iticas.}\\
+%\small{Programa de Doctorado en Geograf\'ia.}\\
+%}
+
+\date{}
+ \begin{document}
+ 
+\maketitle
+
+% \begin{abstract}
+% \input{./partes/Resumen.tex}
+% \end{abstract}
+
+\section{Introduction}
+
+\input{./partes/Introduccion.tex}
+
+% \section{Study area}
+
+% \input{./partes/Area_estudio.tex}
+
+\section{Methodology}
+
+\input{./partes/Metodologia.tex}
+
+\section{Results}
+
+\input{./partes/Resultados.tex}
+
+\section{Discussion}
+
+\input{./partes/Discusion.tex}
+
+\section{Conclusion}
+
+\input{./partes/Conclusion.tex}
+
+
+\bibliographystyle{apalike}
+\bibliography{citas.bib}
+\addcontentsline{toc}{chapter}{Bibliograf\'ia}
+
+\end{document}
+ 
+
