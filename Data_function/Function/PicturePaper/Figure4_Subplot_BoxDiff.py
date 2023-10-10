@@ -44,8 +44,8 @@ for i, c in zip(TIME,range(1,4,2)):
 			ll+=1
 			ii+=1
 			for h in MODEL:
-				CO2_cont=np.genfromtxt('/home/natalia/Documentos/DATA/TesisI/cgenie/cgenie_output/Global/'+h+'/worjh2.PO4Fe'+h+'_'+i+'_Sol_calculated_Dust_Control_x1/biogem/biogem_series_atm_pCO2.res',comments="%")
-				CO2_file=np.genfromtxt('/home/natalia/Documentos/DATA/TesisI/cgenie/cgenie_output/Regional/'+h+'/worjh2.PO4Fe'+h+'_'+i+'_Sol_calculated_Dust_'+j+'_x'+str(k)+'/biogem/biogem_series_atm_pCO2.res',comments="%")
+				CO2_cont=np.genfromtxt('../../../cgenie/cgenie_output/Global/'+h+'/worjh2.PO4Fe'+h+'_'+i+'_Sol_calculated_Dust_Control_x1/biogem/biogem_series_atm_pCO2.res',comments="%")
+				CO2_file=np.genfromtxt('../../../cgenie/cgenie_output/Regional/'+h+'/worjh2.PO4Fe'+h+'_'+i+'_Sol_calculated_Dust_'+j+'_x'+str(k)+'/biogem/biogem_series_atm_pCO2.res',comments="%")
 				CO2diff.append((np.median(CO2_cont[-10:,2])-np.median(CO2_file[-10:,2]))*1e+6)
 			bplot=axes.boxplot(CO2diff,patch_artist=False,positions = [index2[ii]],widths = 0.8,showfliers=False)
 			for yp,m in zip(CO2diff,Simbolos):

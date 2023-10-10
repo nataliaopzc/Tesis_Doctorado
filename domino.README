@@ -1,0 +1,92 @@
+================================================================
+domino.ucr.edu README
+================================================================
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+muffin DOCUMENTATION
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Documentation for muffin can be found here:
+
+https://github.com/derpycode/muffindoc
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+USER ACCOUNT ENVIRONMENT CONFIGURATION
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+>>> Add the following text in:
+
+.bash_profile
+
+(located in your home directory) and under (and replacing all text following it) the comment line:
+
+# User specific environment and startup programs
+
+PATH=$PATH:$HOME/bin
+export PATH
+PATH=$PATH:/state/partition1/apps/netcdf/lib
+export PATH
+PATH=$PATH:/state/partition1/apps/netcdf/include
+export PATH
+LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/state/partition1/apps/netcdf/lib
+export LD_LIBRARY_PATH
+export CGENIE_PYTHON=/state/partition1/apps/Python-2.7.13/bin/python2.7
+
+>>> Once you have done this and saved the file, log out and re-log in again.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+muffin INSTALLATION AND CONFIGURATION
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+>>> install GENIE:
+
+$ git clone https://github.com/derpycode/cgenie.muffin.git
+
+>>> The only configuration edit you need make is to uncomment the 'domino' setting in:
+
+user.mak 
+
+>> and comment out the default line, which can all be found at the bottom of the file below the comment/header line:
+
+# === NetCDF library ===
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+CLUSTER QUEUE USAGE
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+There are 2 seperate queues on domino.ucr.edu:
+
+dog.q ----- 4 nodes of 8 cores each == 32 cores total
+puppy.q --- 4 (soon to be 8) nodes of 12 cores each == 48 (soon 96) cores total
+
+USAGE:
+
+dog.q ----- for generic, random, test and relatively short (< 1 month) runs 
+puppy.q --- for experiment ensembles
+
+please sick to this usage as far as possible.
+The aim is to enable large ensembles to be run efficiently as and when they need to be run try
+by keeping puppy.q relatively empty if possible (and dog.q full)
+If dog.q is full, then submit to puppy.q
+
+For small numbers (ideally <=8) of very long runs (>>1 month), there
+is a dedicated queue (kitten.q) on eevee.ucr.edu (see me for a seperate account).
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+JOB QUEUE MANAGEMENT
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+>>> queue listing for own user jobs:
+$ qstat -f
+>>> queue listing for all user jobs:
+qstat -f -u "*"
+
+>>> submit job to dog.q queue:
+$ qsub -q dog.q -j y -o cgenie_log -V -S /bin/bash
+>>> submit job to puppy.q queue:
+$ qsub -q puppy.q -j y -o cgenie_log -V -S /bin/bash
+
+>>> delete job number XXX
+$ qdel XXX
+>>> deletes all your jobs
+$ qdel *

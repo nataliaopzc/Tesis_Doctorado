@@ -44,7 +44,7 @@ for i, c in zip(TIME,range(2,5,2)):
 	axes.set_position([chartBox.x0-0.055, chartBox.y0+0.04-p,
              	chartBox.width,
              	chartBox.height])
-	Solubility=loadmat('/home/natalia/Documentos/Tesis/Functions/Otros/Solubility.mat')
+	Solubility=loadmat('../../../../Tesis_Magister/Functions/Otros/Solubility.mat')
 	Solubility=np.array([Solubility['OUT'][:,:,pp]]) # Aquí es al revés, 0 es LGM y 1 Holoceno-->Ver: make_Solubility_escalado_region.m
 	Solubility=Solubility[0,:,:]
 	ii+=1
@@ -66,8 +66,8 @@ for i, c in zip(TIME,range(2,5,2)):
 				vv+=1
 				Sol.append(Solubility[zz,4*vv+ll])
 				Sol2.append(Solubility[zz,4*vv+ll])
-				CO2_or=np.genfromtxt('/home/natalia/Documentos/DATA/TesisI/cgenie/cgenie_output/Global/'+h+'/worjh2.PO4Fe'+h+'_'+i+'_Sol_calculated_Dust_Control_x1/biogem/biogem_series_atm_pCO2.res',comments="%")
-				CO2_file=np.genfromtxt('/home/natalia/Documentos/DATA/TesisI/cgenie/cgenie_output/Regional/'+h+'/worjh2.PO4Fe'+h+'_'+i+'_Sol_calculated_Dust_'+j+'_x'+str(k)+'/biogem/biogem_series_atm_pCO2.res',comments="%")
+				CO2_or=np.genfromtxt('../../../cgenie/cgenie_output/Global/'+h+'/worjh2.PO4Fe'+h+'_'+i+'_Sol_calculated_Dust_Control_x1/biogem/biogem_series_atm_pCO2.res',comments="%")
+				CO2_file=np.genfromtxt('../../../cgenie/cgenie_output/Regional/'+h+'/worjh2.PO4Fe'+h+'_'+i+'_Sol_calculated_Dust_'+j+'_x'+str(k)+'/biogem/biogem_series_atm_pCO2.res',comments="%")
 				CO2.append((np.median(CO2_or[-10:,2])-np.median(CO2_file[-10:,2]))*1e+6)
 			for xp,yp,m in zip(Sol,CO2,Simbolos):
 				axes.grid(True)
@@ -84,6 +84,6 @@ for i, c in zip(TIME,range(2,5,2)):
 		axes.legend(handles=legend_elements, loc='upper right',fontsize=9, bbox_to_anchor=(1.415,2.35))
 	else:
 		plt.title('b)',x=-0.16, y=1.05)
-plt.savefig('/home/natalia/Documentos/DATA/TesisI/Data_function/Function/PicturePaper/Figure4_Final.png')
+plt.savefig('./Figure4_Final.png')
 
 # %%

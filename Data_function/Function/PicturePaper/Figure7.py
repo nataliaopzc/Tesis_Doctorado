@@ -13,16 +13,17 @@ dust_LGM=np.zeros((36,36,6))
 SOl_LGM=np.zeros((36,36,6))
 SOl_H=np.zeros((36,36,6))
 for i, ii in zip(MODEL,range(7)):
-        SOl_H[:,:,ii]=np.genfromtxt('/home/natalia/Documentos/DATA/TesisI/cgenie/Solubility/Global/'+i+'/worjh2.det_Fe_Sol_calculated.'+i+'_H_x1.dat',comments="%")
-        SOl_LGM[:,:,ii]=np.genfromtxt('/home/natalia/Documentos/DATA/TesisI/cgenie/Solubility/Global/'+i+'/worjh2.det_Fe_Sol_calculated.'+i+'_LGM_x1.dat',comments="%")
-        dust_H[:,:,ii]=np.genfromtxt('/home/natalia/Documentos/Tesis/Flujos_de_polvo/Globales_Kg/'+i+'/'+i+'.nc_annualflux_kgperm2pers.36x36_level1.dat',comments="%")
-        dust_LGM[:,:,ii]=np.genfromtxt('/home/natalia/Documentos/Tesis/Flujos_de_polvo/Globales_Kg/'+i+'/'+i+'.nc_annualflux_kgperm2pers.36x36_level10.dat',comments="%")
+        SOl_H[:,:,ii]=np.genfromtxt('../../../cgenie/Solubility/Global/'+i+'/worjh2.det_Fe_Sol_calculated.'+i+'_H_x1.dat',comments="%")
+        SOl_LGM[:,:,ii]=np.genfromtxt('../../../cgenie/Solubility/Global/'+i+'/worjh2.det_Fe_Sol_calculated.'+i+'_LGM_x1.dat',comments="%")
+        dust_H[:,:,ii]=np.genfromtxt('../../../../Tesis_Magister/Flujos_de_polvo/Globales_Kg/'+i+'/'+i+'.nc_annualflux_kgperm2pers.36x36_level1.dat',comments="%")
+        dust_LGM[:,:,ii]=np.genfromtxt('../../../../Tesis_Magister/Flujos_de_polvo/Globales_Kg/'+i+'/'+i+'.nc_annualflux_kgperm2pers.36x36_level10.dat',comments="%")
 
 SOL_H=np.median(SOl_H,axis=2)
 SOL_LGM=np.median(SOl_LGM,axis=2)
 Dust_H=np.log10(np.median(dust_H,axis=2))
 Dust_LGM=np.log10(np.median(dust_LGM,axis=2))
 
+#%% 
 for j in REGION:
         if j=='NA':
                 XNA_H=np.median(SOL_H[1:8,20:25])
@@ -76,7 +77,7 @@ for j in REGION:
 #                         XSA1_LGM=np.median(SOl_LGM[29:36,20:36,i])
 #                         XSA2_LGM=np.median(SOl_LGM[29:36,1:5,i]); XSA_LGM[i]=np.mean([XSA1_LGM,XSA2_LGM])
 # %% Imagen 7
-file1=nc('/home/natalia/Documentos/DATA/TesisI/cgenie/cgenie_output/Otros/Previews simulartions/worjh2.PO4FeH_Dust/biogem/fields_biogem_2d.nc') # this line defines the file path of the file we are trying to read
+file1=nc('../../../cgenie/cgenie_output/Otros/Previews simulartions/worjh2.PO4FeH_Dust/biogem/fields_biogem_2d.nc') # this line defines the file path of the file we are trying to read
 lon=file1.variables['lon'][:]
 lat=file1.variables['lat'][:]
 
@@ -98,8 +99,8 @@ ax1.set_position([chartBox.x0-0.088, chartBox.y0+0.04,
                  chartBox.width,
                  chartBox.height])
 m.drawcoastlines()
-m.drawparallels([-60,-30,0,30,60],labels=[True,False],linewidth=0,fontsize=8) #fontweight='bold'
-m.drawmeridians(np.arange(10.,351.,60.),labels=[True,True,False,True],linewidth=0,fontsize=8)
+m.drawparallels([-60,-30,0,30,60],labels=[True,False],linewidth=0.01,fontsize=8) #fontweight='bold'
+m.drawmeridians(np.arange(10.,351.,60.),labels=[True,True,False,True],linewidth=0.01,fontsize=8)
 DustH=plt.contourf(x,y,np.flip(Dust_H,axis=0),700,vmax=np.max(Dust_LGM.flatten()),cmap=cmap)
 plt.title('a)',x=-0.07, y=1.04) 
 
@@ -109,8 +110,8 @@ ax2.set_position([chartBox.x0-0.01, chartBox.y0+0.04,
                  chartBox.width,
                  chartBox.height])
 m.drawcoastlines()
-m.drawparallels([-60,-30,0,30,60],labels=[True,False],linewidth=0,fontsize=8) #fontweight='bold'
-m.drawmeridians(np.arange(10.,351.,60.),labels=[True,True,False,True],linewidth=0,fontsize=8)
+m.drawparallels([-60,-30,0,30,60],labels=[True,False],linewidth=0.01,fontsize=8) #fontweight='bold'
+m.drawmeridians(np.arange(10.,351.,60.),labels=[True,True,False,True],linewidth=0.01,fontsize=8)
 SOLH=plt.contourf(x,y,np.flip(SOL_H,axis=0),700,cmap=cmap)
 plt.title('b)',x=-0.06, y=1.04)
 
@@ -120,8 +121,8 @@ ax3.set_position([chartBox.x0-0.088, chartBox.y0,
                  chartBox.width,
                  chartBox.height])
 m.drawcoastlines()
-m.drawparallels([-60,-30,0,30,60],labels=[True,False],linewidth=0,fontsize=8) #fontweight='bold'
-m.drawmeridians(np.arange(10.,351.,60.),labels=[True,True,False,True],linewidth=0,fontsize=8)
+m.drawparallels([-60,-30,0,30,60],labels=[True,False],linewidth=0.01,fontsize=8) #fontweight='bold'
+m.drawmeridians(np.arange(10.,351.,60.),labels=[True,True,False,True],linewidth=0.01,fontsize=8)
 DustLGM=plt.contourf(x,y,np.flip(Dust_LGM,axis=0),700,vmin=np.min(Dust_H.flatten()),cmap=cmap)
 plt.title('c)',x=-0.07, y=1.05)
 cbaxes = fig.add_axes([0.4, 0.13, 0.03, 0.78]) 
@@ -134,14 +135,14 @@ ax4.set_position([chartBox.x0-0.01, chartBox.y0,
                  chartBox.width,
                  chartBox.height])
 m.drawcoastlines()
-m.drawparallels([-60,-30,0,30,60],labels=[True,False],linewidth=0,fontsize=8) #fontweight='bold'
-m.drawmeridians(np.arange(10.,351.,60.),labels=[True,True,False,True],linewidth=0,fontsize=8)
+m.drawparallels([-60,-30,0,30,60],labels=[True,False],linewidth=0.01,fontsize=8) #fontweight='bold'
+m.drawmeridians(np.arange(10.,351.,60.),labels=[True,True,False,True],linewidth=0.01,fontsize=8)
 SOLLGM=plt.contourf(x,y,np.flip(SOL_LGM,axis=0),700,vmax=np.max(SOL_H.flatten()),cmap=cmap)
 plt.title('d)',x=-0.06, y=1.05)
 cbaxes = fig.add_axes([0.9, 0.13, 0.03, 0.78])  
 bar=plt.colorbar(SOLH,cax = cbaxes,format='%.1f')
 bar.set_label('Iron solubility [%]', rotation=90,fontsize=9,fontweight='bold')
 
-plt.savefig('/home/natalia/Documentos/DATA/TesisI/Data_function/Function/PicturePaper/Figure7.png')
+plt.savefig('./Figure7.pdf')
 
 # %%

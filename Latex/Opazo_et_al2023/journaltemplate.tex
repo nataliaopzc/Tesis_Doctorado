@@ -1,0 +1,122 @@
+%% To submit your paper:
+\documentclass[draft]{agujournal2019}
+\usepackage{multirow}
+\usepackage{url} %this package should fix any errors with URLs in refs.
+\usepackage{lineno}
+\usepackage[margins,movemargins]{trackchanges} %for better track changes. finalnew  option will compile document with changes incorporated.
+\addeditor{Naty}
+\addeditor{N}
+\addeditor{F}
+\addeditor{A}
+
+\usepackage{soul}
+\linenumbers
+
+%%%%%%%
+% As of 2018 we recommend use of the TrackChanges package to mark revisions.
+% The trackchanges package adds five new LaTeX commands:
+%
+%  \note[editor]{The note}
+%  \annote[editor]{Text to annotate}{The note}
+%  \add[editor]{Text to add}
+%  \remove[editor]{Text to remove}
+%  \change[editor]{Text to remove}{Text to add}
+%
+% complete documentation is here: http://trackchanges.sourceforge.net/
+%%%%%%%
+
+\draftfalse
+
+\journalname{Paleoceanography and Paleoclimatology}
+
+
+\begin{document}
+
+
+\title{Sensitivity of atmospheric carbon dioxide to dust iron
+solubility during the last glacial-interglacial cycle}
+
+
+% Example: \authors{A. B. Author\affil{1}\thanks{Current address, Antartica}, B. C. Author\affil{2,3}, and D. E.
+% Author\affil{3,4}\thanks{Also funded by Monsanto.}}
+
+\authors{N. Opazo\affil{1}, F. Lambert\affil{1}, A. Ridgwell\affil{2}, and N. J. Cosentino\affil{1} }
+
+
+\affiliation{1}{Instituto de Geografía, Pontificia Universidad Católica de Chile, Santiago, Chile.}
+\affiliation{2}{Department of Earth and Planetary Sciences, University of California, Riverside, CA, USA.}
+
+\correspondingauthor{Natalia Opazo}{neopazo@uc.cl}
+
+%Example:
+\begin{keypoints}
+\item	List up to three key points (at least one is required)
+\item	Key Points summarize the main points and conclusions of the article
+\item	Each must be 140 characters or fewer with no special characters or punctuation and must be complete sentences
+\end{keypoints}
+
+
+\begin{abstract}
+[ enter your Abstract here ]
+\end{abstract}
+
+------------------------------------------------------------------------ %%
+%
+%  TEXT
+%
+%% ------------------------------------------------------------------------
+\section{Introduction}
+
+\input{./Section/Introduction.tex}
+
+\section{Methods}
+
+\input{./Section/Methods.tex}
+
+\section{Results}
+
+\input{./Section/Results.tex}
+
+
+\section{Open Research}
+
+\url{https://www.agu.org/Publish-with-AGU/Publish/Author-Resources/Data-and-Software-for-Authors#IGSN}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\acknowledgments
+This section is optional. Include any Acknowledgments here.
+
+%% ------------------------------------------------------------------------ %%
+%% References and Citations
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% \bibliography{<name of your .bib file>} don't specify the file extension
+%
+% don't specify bibliographystyle
+
+% In the References section, cite the data/software described in the Availability Statement (this includes primary and processed data used for your research). For details on data/software citation as well as examples, see the Data & Software Citation section of the Data & Software for Authors guidance
+% https://www.agu.org/Publish-with-AGU/Publish/Author-Resources/Data-and-Software-for-Authors#citation
+
+
+
+%Reference citation instructions and examples:
+%
+% Please use ONLY \cite and \citeA for reference citations.
+% \cite for parenthetical references
+% ...as shown in recent studies (Simpson et al., 2019)
+% \citeA for in-text citations
+% ...Simpson et al. (2019) have shown...
+%
+
+
+\end{document}
+
+%  To add line numbers to lines in equations:
+%  \begin{linenomath*}
+%  \begin{equation}
+%  \end{equation}
+%  \end{linenomath*}
+
+
+

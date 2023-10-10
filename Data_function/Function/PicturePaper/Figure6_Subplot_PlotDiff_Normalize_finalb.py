@@ -42,10 +42,10 @@ for i, c in zip(TIME,range(2,5,2)):
 	axes.set_position([chartBox.x0-0.045, chartBox.y0+0.04-p,
              	chartBox.width,
              	chartBox.height])
-	Carga=loadmat('/home/natalia/Documentos/Tesis/Functions/Otros/DUST_AREA.mat')
+	Carga=loadmat('../../../../Tesis_Magister/Functions/Otros/DUST_AREA.mat')
 	Carga=np.array([Carga['Albani'][:,:,ii],Carga['Lambert'][:,:,ii],Carga['Takemura'][:,:,ii],Carga['Ohgaito'][:,:,ii],Carga['MIROC_ESM'][:,:,ii],
 	Carga['MRI_CGCM3'][:,:,ii]]) #0 es holoceno y 1 es LGM--> Ver: make_Dust_escalado_region.m
-	Solubility=loadmat('/home/natalia/Documentos/Tesis/Functions/Otros/Solubility.mat')
+	Solubility=loadmat('../../../../Tesis_Magister/Functions/Otros/Solubility.mat')
 	Solubility=np.array([Solubility['OUT'][:,:,pp]]) # Aquí es al revés, 0 es LGM y 1 Holoceno-->Ver: make_Solubility_escalado_region.m
 	Solubility=Solubility[0,:,:]
 	ii+=1
@@ -67,8 +67,8 @@ for i, c in zip(TIME,range(2,5,2)):
 				vv+=1
 				Sol.append(Solubility[zz,4*vv+ll])
 				Sol2.append(Solubility[zz,4*vv+ll])
-				CO2_or=np.genfromtxt('/home/natalia/Documentos/DATA/TesisI/cgenie/cgenie_output/Global/'+h+'/worjh2.PO4Fe'+h+'_'+i+'_Sol_calculated_Dust_Control_x1/biogem/biogem_series_atm_pCO2.res',comments="%")
-				CO2_file=np.genfromtxt('/home/natalia/Documentos/DATA/TesisI/cgenie/cgenie_output/Regional/'+h+'/worjh2.PO4Fe'+h+'_'+i+'_Sol_calculated_Dust_'+j+'_x'+str(k)+'/biogem/biogem_series_atm_pCO2.res',comments="%")
+				CO2_or=np.genfromtxt('../../../cgenie/cgenie_output/Global/'+h+'/worjh2.PO4Fe'+h+'_'+i+'_Sol_calculated_Dust_Control_x1/biogem/biogem_series_atm_pCO2.res',comments="%")
+				CO2_file=np.genfromtxt('../../../cgenie/cgenie_output/Regional/'+h+'/worjh2.PO4Fe'+h+'_'+i+'_Sol_calculated_Dust_'+j+'_x'+str(k)+'/biogem/biogem_series_atm_pCO2.res',comments="%")
 				Carga1.append(Carga[vv,zz])
 				CO2.append((np.median(CO2_or[-10:,2])-np.median(CO2_file[-10:,2]))*1e+6/AREA[j])
 			for l in range(0,6):
@@ -89,7 +89,7 @@ for i, c in zip(TIME,range(2,5,2)):
 	else:
 		plt.title('d)',x=-0.16, y=1.05)
 		axes.set_xlabel('Median iron solubility [%]',fontsize=9,fontweight='bold')
-plt.savefig('/home/natalia/Documentos/DATA/TesisI/Data_function/Function/PicturePaper/Figure5_Subplot_CO2Diff_Normalize.png')
+plt.savefig('./Figure6_Subplot_CO2Diff_Normalize.png')
 plt.show()
 
 # %%
