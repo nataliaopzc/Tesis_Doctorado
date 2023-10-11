@@ -1,5 +1,12 @@
 # Fdb version 3
-["pdflatex"] 1696912881 "/home/natalia/Documentos/Tesis_Doctorado/Latex/Opazo_et_al2023/journaltemplate.tex" "journaltemplate.pdf" "journaltemplate" 1696912882
+["bibtex journaltemplate"] 1696995454 "journaltemplate.aux" "journaltemplate.bbl" "journaltemplate" 1696995455
+  "/usr/share/texlive/texmf-dist/bibtex/bst/apacite/apacite.bst" 1374530685 141073 9d7b79dbf9d91133318126032cff8c27 ""
+  "citas.bib" 1696995454 31735 680111a8e3d605efc90927964b0d61f6 ""
+  "journaltemplate.aux" 1696995312 16926 5f10bc5e7483c26a3a1b969d6568978a "pdflatex"
+  (generated)
+  "journaltemplate.bbl"
+  "journaltemplate.blg"
+["pdflatex"] 1696995311 "/home/natalia/Documentos/Tesis_Doctorado/Latex/Opazo_et_al2023/journaltemplate.tex" "journaltemplate.pdf" "journaltemplate" 1696995455
   "../../Data_function/Function/PicturePaper/Figure4_Final.png" 1696911976 133787 6d443ee4578a1ede510a61c434877849 ""
   "../../Data_function/Function/PicturePaper/Figure6_Subplot_CO2Diff_Normalize.png" 1696911276 137150 d944434f22a91e0ef642b4d5026ab4ec ""
   "../../Data_function/Function/PicturePaper/Figure7.png" 1696906875 465679 70f3f32115e0ff42f4bd027818206e6e ""
@@ -7,7 +14,7 @@
   "../Paper_Draft/tikz/Fe.pdf" 1695843016 145802 81ab0d3f7e24dbb82ed95346fe1b5da9 ""
   "../Paper_Draft/tikz/Figure3_diagram.tex.preview.pdf" 1695843016 45506 73c4b65b5cf238119e15faa0ef0dd440 ""
   "/etc/texmf/web2c/texmf.cnf" 1695787278 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/natalia/Documentos/Tesis_Doctorado/Latex/Opazo_et_al2023/journaltemplate.tex" 1696908799 3602 89709c15ca734840b6b9e9e39c1eeefd ""
+  "/home/natalia/Documentos/Tesis_Doctorado/Latex/Opazo_et_al2023/journaltemplate.tex" 1696994245 3503 04ea5082694c91fc4fbf1e73382c0368 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ectt1000.tfm" 1136768653 1536 06717a2b50de47d4087ac0e6cd759455 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1136768653 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
@@ -26,6 +33,7 @@
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm" 1136768653 1116 933a60c408fc0a863a92debe84b2d294 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm" 1136768653 1120 8b7d695260f3cff42e636090a8002094 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy9.tfm" 1136768653 1116 25a7bf822c58caf309a702ef79f4afbb ""
+  "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmti10.tfm" 1136768653 1480 aa8e34af0eb6a2941b776984cf1dfdc4 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmti8.tfm" 1136768653 1504 1747189e0441d1c18f3ea56fafc1c480 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmti9.tfm" 1136768653 1476 cccc6cc4935c18ec3d5623b77ecb8b74 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmtt10.tfm" 1136768653 768 1321e9409b4137d6fb428ac9dc956269 ""
@@ -50,6 +58,7 @@
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb" 1248133631 32915 7bf7720c61a5b3a7ff25b0964421c9b6 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb" 1248133631 32716 08e384dc442464e7285e891af9f45947 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb" 1248133631 32442 c975af247b6702f7ca0c299af3616b80 ""
+  "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb" 1248133631 37944 359e864bd06cde3b1cf57bb20757fb06 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb" 1248133631 35660 fb24af7afbadb71801619f1415838111 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb" 1248133631 36310 f5ddc6715cc60deb16d9db5ded6a9391 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb" 1248133631 31099 c85edf1dd5b9e826d67c9c7293b6786c ""
@@ -93,12 +102,13 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1644012257 39432 7155514e09a3d69036fac785183a21c2 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1695787297 4379155 98693266ff65f58d9f98aff394de12d2 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1695787317 2801094 953012874d7a0cdb8ff7637f4fdf571c ""
-  "Section/Introduction.tex" 1696888840 6163 087e5478ef333c4d8f2e73e0694f4de8 ""
-  "Section/Methods.tex" 1696899770 8307 3e1a55921e5954b8fa37944cbd259955 ""
-  "Section/Results.tex" 1696912881 16098 1b34d56ac32cf97623a86f734067e87d ""
+  "Section/Introduction.tex" 1696994181 6221 3d9507b60c99160fe981ddf39799f7b5 ""
+  "Section/Methods.tex" 1696995360 8351 d5c25ff580de2b05d00a3538b561facb ""
+  "Section/Results.tex" 1696912964 16098 1b34d56ac32cf97623a86f734067e87d ""
   "agujournal2019.cls" 1696536665 40688 b442a0d4e8a299883855595037ff6651 ""
-  "journaltemplate.aux" 1696912882 1392 9ad613ec82701196ff744a94aaff3ac2 "pdflatex"
-  "journaltemplate.tex" 1696908799 3602 89709c15ca734840b6b9e9e39c1eeefd ""
+  "journaltemplate.aux" 1696995312 16926 5f10bc5e7483c26a3a1b969d6568978a "pdflatex"
+  "journaltemplate.bbl" 1696995455 40418 f52a6c5fb178d3f6d71c3f882165fb7a "bibtex journaltemplate"
+  "journaltemplate.tex" 1696994245 3503 04ea5082694c91fc4fbf1e73382c0368 ""
   "trackchanges.sty" 1696377212 26287 09689e5e9db973d136f0537b8570fadf ""
   (generated)
   "journaltemplate.aux"

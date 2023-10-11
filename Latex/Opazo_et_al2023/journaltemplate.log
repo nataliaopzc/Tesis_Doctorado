@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.9.27)  10 OCT 2023 01:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.9.27)  11 OCT 2023 00:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -258,7 +258,7 @@ Overfull \hbox (1.82123pt too wide) in paragraph at lines 3--4
 
 
 Overfull \hbox (22.8214pt too wide) in paragraph at lines 3--4
-\OT1/cmr/m/n/10 rang-ing from 0.1 to 2 nM (nanomo-lar) (Nakabayashi et al., 2002; Tani et al., 2003). These 
+\OT1/cmr/m/n/10 rang-ing from 0.1 to 2 nM (nanomo-lar) []Nakabayashi et al.[], 2002; Tani et al.[], 2003). These 
  []
 
 
@@ -277,28 +277,28 @@ Overfull \hbox (5.51573pt too wide) in paragraph at lines 3--4
  []
 
 
-Overfull \hbox (11.0574pt too wide) in paragraph at lines 3--4
-\OT1/cmr/m/n/10 role (Mar-tin, 1990; Jick-ells et al., 2005; Mart^^S^^Pnez-Garc^^S^^Pa et al., 2014). No-tably in-flu-enc- 
+Overfull \hbox (9.94629pt too wide) in paragraph at lines 3--4
+\OT1/cmr/m/n/10 role []Martin, 1990; T. Jick-ells et al.[], 2005; Mart^^S^^Pnez-Garc^^S^^Pa et al.[], 2014). No-tably in-flu- 
  []
 
 
-Overfull \hbox (23.8769pt too wide) in paragraph at lines 3--4
-\OT1/cmr/m/n/10 ing pro-cesses like pho-to-syn-the-sis, res-pi-ra-tion, and ni-tro-gen fix-a-tion (Falkowski et al., 1998; 
+Overfull \hbox (12.21019pt too wide) in paragraph at lines 3--4
+\OT1/cmr/m/n/10 enc-ing pro-cesses like pho-to-syn-the-sis, res-pi-ra-tion, and ni-tro-gen fix-a-tion []Falkowski et al.[], 
  []
 
 
-Overfull \hbox (10.12683pt too wide) in paragraph at lines 3--4
-\OT1/cmr/m/n/10 Morel and Price, 2003; Kustka et al., 2003), Fe be-comes a lim-it-ing fac-tor that re-ver-ber- 
+Overfull \hbox (0.34904pt too wide) in paragraph at lines 3--4
+\OT1/cmr/m/n/10 1998; Morel & Price, 2003; Kustka et al.[], 2003), Fe be-comes a lim-it-ing fac-tor that re- 
  []
 
 
-Overfull \hbox (2.7379pt too wide) in paragraph at lines 3--4
-\OT1/cmr/m/n/10 ates through the ma-rine food chain. This in-flu-ence as-sumes height-ened sig-nif-i-cance in 
+Overfull \hbox (18.62682pt too wide) in paragraph at lines 3--4
+\OT1/cmr/m/n/10 ver-ber-ates through the ma-rine food chain. This in-flu-ence as-sumes height-ened sig-nif-i-cance 
  []
 
 
-Overfull \hbox (2.84895pt too wide) in paragraph at lines 3--4
-\OT1/cmr/m/n/10 spe-cific re-gions, such as the South-ern Oceans, the Pa-cific and North At-lantic, and the 
+Overfull \hbox (14.51564pt too wide) in paragraph at lines 3--4
+\OT1/cmr/m/n/10 in spe-cific re-gions, such as the South-ern Oceans, the Pa-cific and North At-lantic, and the 
  []
 
 
@@ -318,12 +318,12 @@ Overfull \hbox (8.43231pt too wide) in paragraph at lines 5--6
 
 
 Overfull \hbox (2.62677pt too wide) in paragraph at lines 5--6
-\OT1/cmr/m/n/10 mech-a-nisms all play roles in in-tro-duc-ing iron into oceanic ecosys-tems (Duck-low et al., 
+\OT1/cmr/m/n/10 mech-a-nisms all play roles in in-tro-duc-ing iron into oceanic ecosys-tems []Ducklow et al.[], 
  []
 
 
 Overfull \hbox (11.76576pt too wide) in paragraph at lines 5--6
-\OT1/cmr/m/n/10 2003; Tagli-abue et al., 2016). Nev-er-the-less, be-yond con-ti-nen-tal mar-gins, the im-por-tance 
+\OT1/cmr/m/n/10 2003; Tagli-abue et al.[], 2016). Nev-er-the-less, be-yond con-ti-nen-tal mar-gins, the im-por-tance 
  []
 
 
@@ -333,7 +333,7 @@ Overfull \hbox (5.48787pt too wide) in paragraph at lines 5--6
 
 
 Overfull \hbox (12.15463pt too wide) in paragraph at lines 5--6
-\OT1/cmr/m/n/10 tal fac-tor (Tagli-abue et al., 2017; Lam-bert et al., 2021). These dust fluxes, mo-bi-lized by 
+\OT1/cmr/m/n/10 tal fac-tor []Tagliabue et al.[], 2017; Lam-bert et al.[], 2021). These dust fluxes, mo-bi-lized by 
  []
 
 
@@ -352,8 +352,8 @@ Overfull \hbox (11.07117pt too wide) in paragraph at lines 5--6
  []
 
 
-Overfull \hbox (1.59901pt too wide) in paragraph at lines 5--6
-\OT1/cmr/m/n/10 ter deficits (Pros-pero and Lamb, 2003; Pros-pero et al., 2002; Jick-ells et al., 2005; Ma- 
+Overfull \hbox (6.599pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/n/10 ter deficits []Prospero & Lamb, 2003; Pros-pero et al.[], 2002; T. Jick-ells et al.[], 2005; Ma- 
  []
 
 
@@ -362,8 +362,8 @@ Overfull \hbox (1.76563pt too wide) in paragraph at lines 7--8
  []
 
 
-Overfull \hbox (1.52959pt too wide) in paragraph at lines 7--8
-\OT1/cmr/m/n/10 work of Gran et al. (1931), fol-lowed by the re-search of Mar-tin (1990) in the South-ern 
+Overfull \hbox (0.41847pt too wide) in paragraph at lines 7--8
+\OT1/cmr/m/n/10 work of []Gran et al.[] (1931), fol-lowed by the re-search of []Martin (1990) in the South-ern 
  []
 
 
@@ -373,12 +373,12 @@ Overfull \hbox (12.82118pt too wide) in paragraph at lines 7--8
 
 
 Overfull \hbox (5.32124pt too wide) in paragraph at lines 7--8
-\OT1/cmr/m/n/10 duc-tiv-ity. Since then, sev-eral works (Ko-hfeld et al., 2005; Jac-card et al., 2013; Pe-tit et 
+\OT1/cmr/m/n/10 duc-tiv-ity. Since then, sev-eral works []Kohfeld et al.[], 2005; Jac-card et al.[], 2013; Pe-tit et 
  []
 
 
 Overfull \hbox (7.9602pt too wide) in paragraph at lines 7--8
-\OT1/cmr/m/n/10 al., 1990; Stef-fensen, 1997; Lam-bert et al., 2008; Archer et al., 2000) pos-tu-late that the 
+\OT1/cmr/m/n/10 al.[], 1990; Stef-fensen, 1997; Lam-bert et al.[], 2008; Archer et al.[], 2000) pos-tu-late that the 
  []
 
 
@@ -413,82 +413,77 @@ Overfull \hbox (11.96028pt too wide) in paragraph at lines 7--8
 
 
 Overfull \hbox (26.43245pt too wide) in paragraph at lines 7--8
-\OT1/cmr/m/n/10 glacial pe-ri-ods, re-spec-tively (Pe-tit et al., 1990; Siegen-thaler et al., 2005; L^^?uthi et al., 2008).  
+\OT1/cmr/m/n/10 glacial pe-ri-ods, re-spec-tively []Petit et al.[], 1990; Siegen-thaler et al.[], 2005; L^^?uthi et al.[], 2008).  
  []
 
 
 Overfull \hbox (10.73792pt too wide) in paragraph at lines 9--10
-[]\OT1/cmr/m/n/10 Approximately 3% of at-mo-spheric dust con-sists of Fe (Mar-cotte et al., 2020), con- 
+[]\OT1/cmr/m/n/10 Approximately 3% of at-mo-spheric dust con-sists of Fe []Marcotte et al.[], 2020), con- 
  []
 
 
-Overfull \hbox (5.93242pt too wide) in paragraph at lines 9--10
-\OT1/cmr/m/n/10 tribut-ing around 14-16 Tg an-nu-ally in the form of mineral-sourced dust aerosols (Jick- 
+Overfull \hbox (19.26576pt too wide) in paragraph at lines 9--10
+\OT1/cmr/m/n/10 tribut-ing around 14-16 Tg an-nu-ally in the form of mineral-sourced dust aerosols []T. Jick- 
  []
 
 
 Overfull \hbox (17.66852pt too wide) in paragraph at lines 9--10
-\OT1/cmr/m/n/10 ells et al., 2005; Gao et al., 2003). Re-gret-tably, only a frac-tion of this de-posited Fe, rang- 
+\OT1/cmr/m/n/10 ells et al.[], 2005; Gao et al.[], 2003). Re-gret-tably, only a frac-tion of this de-posited Fe, rang- 
  []
 
 
 Overfull \hbox (4.65474pt too wide) in paragraph at lines 9--10
-\OT1/cmr/m/n/10 ing from 1 to 10%, is avail-able to sup-port phy-to-plank-ton growth (Jour-net et al., 2008; 
+\OT1/cmr/m/n/10 ing from 1 to 10%, is avail-able to sup-port phy-to-plank-ton growth []Journet et al.[], 2008; 
  []
 
 
-Overfull \hbox (0.68239pt too wide) in paragraph at lines 9--10
-\OT1/cmr/m/n/10 Jick-ells and Spokes, 2001; Archer and John-son, 2000; Bopp et al., 2003). Fe can ex-ist 
+Overfull \hbox (3.82123pt too wide) in paragraph at lines 9--10
+\OT1/cmr/m/n/10 T. D. Jick-ells & Spokes, 2001; Archer & John-son, 2000; Bopp et al.[], 2003). Fe can ex- 
  []
 
 
-Overfull \hbox (5.68234pt too wide) in paragraph at lines 9--10
-\OT1/cmr/m/n/10 in two ox-i-da-tion states { Fe(II) and Fe(III), as or-ganic fer-rous (Fe2+) or or-ganic fer-ric 
+Overfull \hbox (11.82123pt too wide) in paragraph at lines 9--10
+\OT1/cmr/m/n/10 ist in two ox-i-da-tion states { Fe(II) and Fe(III), as or-ganic fer-rous (Fe2+) or or-ganic fer- 
  []
 
 
-Overfull \hbox (5.65465pt too wide) in paragraph at lines 9--10
-\OT1/cmr/m/n/10 (Fe3+), re-spec-tively. Among these, only the fer-rous form is bioavail-able, al-though it is 
+Overfull \hbox (2.5157pt too wide) in paragraph at lines 9--10
+\OT1/cmr/m/n/10 it is less preva-lent. The sol-u-bil-ity of Fe, typ-i-cally de-fined as the amount of metal that 
  []
 
 
-Overfull \hbox (12.62682pt too wide) in paragraph at lines 9--10
-\OT1/cmr/m/n/10 less preva-lent. The sol-u-bil-ity of Fe, typ-i-cally de-fined as the amount of metal that passes 
+Overfull \hbox (2.95877pt too wide) in paragraph at lines 9--10
+\OT1/cmr/m/n/10 passes through a 0.2 or 0.4 \TS1/cmr/m/n/10 µ\OT1/cmr/m/n/10 m fil-ter, de-pends on fac-tors en-com-pass-ing de-posited dust 
  []
 
 
-Overfull \hbox (4.48657pt too wide) in paragraph at lines 9--10
-\OT1/cmr/m/n/10 through a 0.2 or 0.4 \TS1/cmr/m/n/10 µ\OT1/cmr/m/n/10 m fil-ter, de-pends on fac-tors en-com-pass-ing de-posited dust min-er- 
- []
-
-
-Overfull \hbox (12.09914pt too wide) in paragraph at lines 9--10
-\OT1/cmr/m/n/10 al-ogy, acid-ity, wa-ter pH, and other en-vi-ron-men-tal vari-ables (Luo et al., 2005; Sholkovitz 
+Overfull \hbox (37.12697pt too wide) in paragraph at lines 9--10
+\OT1/cmr/m/n/10 min-er-al-ogy, acid-ity, wa-ter pH, and other en-vi-ron-men-tal vari-ables []Luo et al.[], 2005; Sholkovitz 
  []
 
 
 Overfull \hbox (1.93233pt too wide) in paragraph at lines 9--10
-\OT1/cmr/m/n/10 et al., 2012; Mar-cotte et al., 2020). While Fe(III) dom-i-nates due to pro-cesses like ox-i- 
+\OT1/cmr/m/n/10 et al.[], 2012; Mar-cotte et al.[], 2020). While Fe(III) dom-i-nates due to pro-cesses like ox-i- 
  []
 
 
 Overfull \hbox (2.34912pt too wide) in paragraph at lines 9--10
-\OT1/cmr/m/n/10 da-tion, re-duc-tion, and pho-to-chem-i-cal in-ter-ac-tions, it ex-hibits lim-ited sol-u-bil-ity (Wells 
+\OT1/cmr/m/n/10 da-tion, re-duc-tion, and pho-to-chem-i-cal in-ter-ac-tions, it ex-hibits lim-ited sol-u-bil-ity []Wells 
  []
 
 
 Overfull \hbox (4.12675pt too wide) in paragraph at lines 9--10
-\OT1/cmr/m/n/10 et al., 1995; Byrne et al., 2000). How-ever, it can even-tu-ally dis-solve by di-verse mech-a- 
+\OT1/cmr/m/n/10 et al.[], 1995; Byrne et al.[], 2000). How-ever, it can even-tu-ally dis-solve by di-verse mech-a- 
  []
 
 
 Overfull \hbox (9.46016pt too wide) in paragraph at lines 9--10
-\OT1/cmr/m/n/10 nisms, such as proton-induced Fe-O bond break-age (Cwiertny et al., 2008), pho-to-chem- 
+\OT1/cmr/m/n/10 nisms, such as proton-induced Fe-O bond break-age []Cwiertny et al.[], 2008), pho-to-chem- 
  []
 
 
 Overfull \hbox (22.12689pt too wide) in paragraph at lines 9--10
-\OT1/cmr/m/n/10 i-cal re-duc-tion (Fu et al., 2010), and or-ganic lig-and com-plex-a-tion, which is the most preva- 
+\OT1/cmr/m/n/10 i-cal re-duc-tion []Fu et al.[], 2010), and or-ganic lig-and com-plex-a-tion, which is the most preva- 
  []
 
 
@@ -516,7 +511,7 @@ Overfull \hbox (27.09906pt too wide) in paragraph at lines 11--12
 
 
 Overfull \hbox (14.76572pt too wide) in paragraph at lines 11--12
-\OT1/cmr/m/n/10 scale us-ing nu-mer-i-cal mod-els (John-son et al., 1997). Di-verse mod-el-ing ap-proaches, span- 
+\OT1/cmr/m/n/10 scale us-ing nu-mer-i-cal mod-els []Johnson et al.[], 1997). Di-verse mod-el-ing ap-proaches, span- 
  []
 
 
@@ -647,17 +642,17 @@ Overfull \hbox (7.51497pt too wide) in paragraph at lines 10--11
 
 
 Overfull \hbox (15.77968pt too wide) in paragraph at lines 10--11
-\OT1/cmr/m/n/10 istry mod-ule BIO-GEM (Ridg-well et al., 2007), and (3) an at-mo-spheric com-po-nent of the 
+\OT1/cmr/m/n/10 istry mod-ule BIO-GEM []Ridgwell et al.[], 2007), and (3) an at-mo-spheric com-po-nent of the 
  []
 
 
 Overfull \hbox (15.26572pt too wide) in paragraph at lines 10--11
-\OT1/cmr/m/n/10 2D energy-moisture bal-ance model with pre-scribed cli-ma-to-log-i-cal wind fields (Cao et al., 
+\OT1/cmr/m/n/10 2D energy-moisture bal-ance model with pre-scribed cli-ma-to-log-i-cal wind fields []Cao et al.[], 
  []
 
 
-Overfull \hbox (29.62694pt too wide) in paragraph at lines 10--11
-\OT1/cmr/m/n/10 2009). The con-ti-nen-tal dis-tri-bu-tion and bathymetry are pub-lished in Ridg-well et al. (2007).  
+Overfull \hbox (28.51582pt too wide) in paragraph at lines 10--11
+\OT1/cmr/m/n/10 2009). The con-ti-nen-tal dis-tri-bu-tion and bathymetry are pub-lished in []Ridgwell et al.[] (2007).  
  []
 
 
@@ -681,8 +676,8 @@ Overfull \hbox (1.04349pt too wide) in paragraph at lines 12--13
  []
 
 
-Overfull \hbox (7.07137pt too wide) in paragraph at lines 12--13
-\OT1/cmr/m/n/10 ing the method-ol-ogy pro-posed by Parekh et al. (2004, 2006). Ta-ble S1 in the Sup-port- 
+Overfull \hbox (5.96025pt too wide) in paragraph at lines 12--13
+\OT1/cmr/m/n/10 ing the method-ol-ogy pro-posed by []Parekh et al.[] (2004, 2006). Ta-ble S1 in the Sup-port- 
  []
 
 
@@ -749,8 +744,8 @@ Overfull \hbox (9.52959pt too wide) in paragraph at lines 18--19
  []
 
 
-Overfull \hbox (5.69621pt too wide) in paragraph at lines 26--27
-[]\OT1/cmr/m/n/10 n cGE-NIE, the sur-face ocean is highly oxy-genated and thus most of the Fe in-put 
+Overfull \hbox (9.30733pt too wide) in paragraph at lines 26--27
+[]\OT1/cmr/m/n/10 In cGE-NIE, the sur-face ocean is highly oxy-genated and thus most of the Fe in-put 
  []
 
 
@@ -809,23 +804,23 @@ Overfull \hbox (20.7379pt too wide) in paragraph at lines 38--39
  []
 
 
-Overfull \hbox (16.25171pt too wide) in paragraph at lines 38--39
-\OT1/cmr/m/n/10 used as sources of sol-u-ble Fe to force cGE-NIE (for de-tails see Lam-bert et al., 2021). One 
+Overfull \hbox (17.36282pt too wide) in paragraph at lines 38--39
+\OT1/cmr/m/n/10 used as sources of sol-u-ble Fe to force cGE-NIE (for de-tails see []Lambert et al.[] (2021). One 
  []
 
 
 Overfull \hbox (4.23795pt too wide) in paragraph at lines 38--39
-\OT1/cmr/m/n/10 of these pairs (Lam-bert) is de-rived from paleo-dust ob-ser-va-tions com-piled by Lam-bert 
+\OT1/cmr/m/n/10 of these pairs (Lam-bert) is de-rived from paleo-dust ob-ser-va-tions com-piled by []Lambert 
  []
 
 
-Overfull \hbox (12.21019pt too wide) in paragraph at lines 38--39
-\OT1/cmr/m/n/10 et al. (2015), while the rest are de-rived from CMIP5 model sim-u-la-tions: Al-bani (Al-bani 
+Overfull \hbox (11.09908pt too wide) in paragraph at lines 38--39
+\OT1/cmr/m/n/10 et al.[] (2015), while the rest are de-rived from CMIP5 model sim-u-la-tions: Al-bani []Albani 
  []
 
 
 Overfull \hbox (17.54356pt too wide) in paragraph at lines 38--39
-\OT1/cmr/m/n/10 et al., 2014), Take-mura (Take-mura et al., 2009), Ohgaito (Ohgaito et al., 2018), MIROC- 
+\OT1/cmr/m/n/10 et al.[], 2014), Take-mura []Takemura et al.[], 2009), Ohgaito []Ohgaito et al.[], 2018), MIROC- 
  []
 
 
@@ -1936,25 +1931,445 @@ Overfull \hbox (18.01181pt too wide) in paragraph at lines 83--85
 []$\OT1/cmtt/m/n/10 https :// www [] .agu [] .org / Publish [] -with [] -AGU / Publish / Author [] -Resources / Data [] -and [] 
  []
 
-[12] (./journaltemplate.aux)
+(./journaltemplate.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 14--33
+[]\OT1/cmr/m/n/10 Albani, S., Ma-howald, N., Perry, A., Scanza, R., Zen-der, C., Heav-ens, N., ... Otto- 
+ []
+
+
+Underfull \hbox (badness 2617) in paragraph at lines 14--33
+\OT1/cmr/m/n/10 Bliesner, B.  (2014).  Im-proved dust rep-re-sen-ta-tion in the com-mu-nity at-mo- 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--89
+[]\OT1/cmr/m/n/10 Archer, D., Winguth, A., Lea, D., & Ma-howald, N.  (2000).  What caused the 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--89
+\OT1/cmr/m/n/10 glacial/interglacial at-mo-spheric pco2 cy-cles?  \OT1/cmr/m/it/10 Re-views of Geo-physics\OT1/cmr/m/n/10 , \OT1/cmr/m/it/10 38\OT1/cmr/m/n/10 (2), 
+ []
+
+
+Underfull \hbox (badness 1264) in paragraph at lines 103--116
+[]\OT1/cmr/m/n/10 Baker, A. R., & Croot, P. L.  (2010).  At-mo-spheric and ma-rine con-trols on aerosol 
+ []
+
+
+Underfull \hbox (badness 5954) in paragraph at lines 131--146
+[]\OT1/cmr/m/n/10 Bopp, L., Ko-hfeld, K. E., Le Qu^^Ser^^Se, C., & Au-mont, O.  (2003).  Dust im-pact on 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 131--146
+\OT1/cmr/m/n/10 ma-rine biota and at-mo-spheric co2 dur-ing glacial pe-ri-ods.  \OT1/cmr/m/it/10 Pa-le-o-ceanog-ra-phy\OT1/cmr/m/n/10 , 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--176
+[]\OT1/cmr/m/n/10 Boyd, P. W., Jick-ells, T., Law, C., Blain, S., Boyle, E., Bues-seler, K., ... oth-ers 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 188--206
+[]\OT1/cmr/m/n/10 Boyd, P. W., Law, C. S., Wong, C., No-jiri, Y., Tsuda, A., Lev-asseur, M., ... oth- 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 218--236
+[]\OT1/cmr/m/n/10 Boyd, P. W., Wat-son, A. J., Law, C. S., Abra-ham, E. R., Trull, T., Mur-doch, R., ... 
+ []
+
+
+Underfull \hbox (badness 3942) in paragraph at lines 276--291
+[]\OT1/cmr/m/n/10 Byrne, R., Luo, Y.-R., & Young, R.  (2000).  Iron hy-drol-y-sis and sol-u-bil-ity re-vis- 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 303--321
+[]\OT1/cmr/m/n/10 Cao, L., Eby, M., Ridg-well, A., Caldeira, K., Archer, D., Ishida, A., ... oth-ers 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 303--321
+\OT1/cmr/m/n/10 (2009).  The role of ocean trans-port in the up-take of an-thro-pogenic co 2. 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 333--352
+[]\OT1/cmr/m/n/10 Coale, K. H., John-son, K. S., Fitzwa-ter, S. E., Gor-don, R. M., Tan-ner, S., Chavez, 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 333--352
+\OT1/cmr/m/n/10 F. P., ... oth-ers  (1996).  A mas-sive phy-to-plank-ton bloom in-duced by an 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 333--352
+\OT1/cmr/m/n/10 ecosystem-scale iron fer-til-iza-tion ex-per-i-ment in the equa-to-rial pa-cific ocean. 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 364--383
+[]\OT1/cmr/m/n/10 Cwiertny, D. M., Bal-tru-saitis, J., Hunter, G. J., Laskin, A., Scherer, M. M., & Gras- 
+ []
+
+
+Underfull \hbox (badness 7888) in paragraph at lines 364--383
+\OT1/cmr/m/n/10 sian, V. H.  (2008).  Char-ac-ter-i-za-tion and acid-mobilization study of iron- 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 364--383
+\OT1/cmr/m/n/10 containing min-eral dust source ma-te-ri-als.  \OT1/cmr/m/it/10 Jour-nal of Geo-phys-i-cal Re-search: 
+ []
+
+
+Underfull \hbox (badness 1348) in paragraph at lines 397--412
+[]\OT1/cmr/m/n/10 Ducklow, H. W., Oliver, J. L., & Smith, W.  (2003).  The role of iron as a lim-it-ing 
+ []
+
+
+Underfull \hbox (badness 1092) in paragraph at lines 397--412
+\OT1/cmr/m/n/10 nu-tri-ent for ma-rine plank-ton pro-cesses.  \OT1/cmr/m/it/10 SCOPE-SCIENTIFIC COM-MIT-TEE 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 397--412
+\OT1/cmr/m/it/10 ON PROB-LEMS OF THE EN-VI-RON-MENT IN-TER-NA-TIONAL COUN-CIL 
+ []
+
+[12]
+Underfull \hbox (badness 1540) in paragraph at lines 426--440
+[]\OT1/cmr/m/n/10 Falkowski, P. G., Bar-ber, R. T., & Smetacek, V.  (1998).  Bio-geo-chem-i-cal con-trols 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 452--475
+[]\OT1/cmr/m/n/10 Flato, G., Marotzke, J., Abio-dun, B., Bra-con-not, P., Chou, S. C., Collins, W., ... 
+ []
+
+
+Underfull \hbox (badness 1337) in paragraph at lines 452--475
+\OT1/cmr/m/n/10 oth-ers  (2014).  Eval-u-a-tion of cli-mate mod-els.  In \OT1/cmr/m/it/10 Cli-mate change 2013: the 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 452--475
+\OT1/cmr/m/it/10 phys-i-cal sci-ence ba-sis. con-tri-bu-tion of work-ing group i to the fifth as-sess-ment 
+ []
+
+
+Underfull \hbox (badness 1852) in paragraph at lines 452--475
+\OT1/cmr/m/it/10 re-port of the in-ter-gov-ern-men-tal panel on cli-mate change \OT1/cmr/m/n/10 (pp.[] 741--866).  Cam- 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 491--508
+[]\OT1/cmr/m/n/10 Fu, H., Cwiertny, D. M., Carmichael, G. R., Scherer, M. M., & Gras-sian, V. H. 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 491--508
+\OT1/cmr/m/n/10 (2010).  Pho-tore-duc-tive dis-so-lu-tion of fe-containing min-eral dust par-ti-cles in 
+ []
+
+
+Underfull \hbox (badness 3758) in paragraph at lines 522--539
+[]\OT1/cmr/m/n/10 Gao, Y., Fan, S.-M., & Sarmiento, J. L.  (2003).  Ae-o-lian iron in-put to the ocean 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 522--539
+\OT1/cmr/m/n/10 through pre-cip-i-ta-tion scav-eng-ing: A mod-el-ing per-spec-tive and its im-pli-ca-tion 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 522--539
+\OT1/cmr/m/n/10 for nat-u-ral iron fer-til-iza-tion in the ocean.  \OT1/cmr/m/it/10 Jour-nal of Geo-phys-i-cal Re-search: 
+ []
+
+
+Underfull \hbox (badness 1377) in paragraph at lines 551--564
+\OT1/cmr/m/n/10 sea.  \OT1/cmr/m/it/10 Con-seil Perm. In-ter-nat. pour I'Explor. de la Mer. Rapp. et Proces-Verb.\OT1/cmr/m/n/10 , 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 580--597
+\OT1/cmr/m/n/10 u-ble iron from ob-ser-va-tions and a global min-eral aerosol model.  In \OT1/cmr/m/it/10 Agu fall 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 609--627
+[]\OT1/cmr/m/n/10 Jaccard, S. L., Hayes, C. T., Martinez-Garcia, A., Hodell, D. A., An-der-son, R. F., 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 639--657
+[]\OT1/cmr/m/n/10 Jickells, T., An, Z., An-der-sen, K. K., Baker, A., Berga-metti, G., Brooks, N., ... 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 785--803
+[]\OT1/cmr/m/n/10 Kustka, A., Sa~nudo-Wilhelmy, S., Car-pen-ter, E. J., Capone, D. G., & Raven, 
+ []
+
+
+Underfull \hbox (badness 7944) in paragraph at lines 785--803
+\OT1/cmr/m/n/10 J. A.  (2003).  A re-vised es-ti-mate of the iron use ef-fi-ciency of ni-tro-gen fix- 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 785--803
+\OT1/cmr/m/n/10 a-tion, with spe-cial ref-er-ence to the ma-rine cyanobac-terium tri-chodesmium 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 815--833
+[]\OT1/cmr/m/n/10 Lambert, F., Del-monte, B., Pe-tit, J.-R., Bigler, M., Kauf-mann, P. R., Hut-terli, 
+ []
+
+
+Underfull \hbox (badness 3189) in paragraph at lines 815--833
+\OT1/cmr/m/n/10 M. A., ... Maggi, V.  (2008).  Dust-climate cou-plings over the past 800,000 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 845--864
+[]\OT1/cmr/m/n/10 Lambert, F., Opazo, N., Ridg-well, A., Winck-ler, G., Lamy, F., Shaf-fer, G., ... Abe- 
+ []
+
+
+Underfull \hbox (badness 4832) in paragraph at lines 845--864
+\OT1/cmr/m/n/10 Ouchi, A.  (2021).  Re-gional pat-terns and tem-po-ral evo-lu-tion of ocean iron 
+ []
+
+
+Underfull \hbox (badness 1721) in paragraph at lines 845--864
+\OT1/cmr/m/n/10 fer-til-iza-tion and co2 draw-down dur-ing the last glacial ter-mi-na-tion.  \OT1/cmr/m/it/10 Earth and 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 876--894
+[]\OT1/cmr/m/n/10 Lambert, F., Tagli-abue, A., Shaf-fer, G., Lamy, F., Winck-ler, G., Farias, L., ... 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 906--925
+[]\OT1/cmr/m/n/10 Luo, C., Ma-howald, N., Meskhidze, N., Chen, Y., Siefert, R., Baker, A., & Jo-hansen, 
+ []
+
+
+Underfull \hbox (badness 3815) in paragraph at lines 906--925
+\OT1/cmr/m/n/10 A. M.  (2005).  Es-ti-ma-tion of iron sol-u-bil-ity from ob-ser-va-tions and a global 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 937--955
+[]\OT1/cmr/m/n/10 L^^?uthi, D., Le Floch, M., Bere-iter, B., Blu-nier, T., Barnola, J.-M., Siegen-thaler, 
+ []
+
+
+Underfull \hbox (badness 3482) in paragraph at lines 937--955
+\OT1/cmr/m/n/10 U., ... oth-ers  (2008).  High-resolution car-bon diox-ide con-cen-tra-tion record 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 967--984
+[]\OT1/cmr/m/n/10 Mahowald, N. M., Baker, A. R., Berga-metti, G., Brooks, N., Duce, R. A., Jick-ells, 
+ []
+
+
+Underfull \hbox (badness 1308) in paragraph at lines 999--1014
+\OT1/cmr/m/n/10 and iron sol-u-bil-ity: Ef-fects of com-po-si-tion, par-ti-cle size, and sur-face area.  \OT1/cmr/m/it/10 At- 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1049--1067
+[]\OT1/cmr/m/n/10 Mart^^S^^Pnez-Garc^^S^^Pa, A., Sig-man, D. M., Ren, H., An-der-son, R. F., Straub, M., Hodell, 
+ []
+
+
+Underfull \hbox (badness 4467) in paragraph at lines 1049--1067
+\OT1/cmr/m/n/10 D. A., ... Haug, G. H.  (2014).  Iron fer-til-iza-tion of the sub-antarc-tic ocean 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1105--1124
+[]\OT1/cmr/m/n/10 Nakabayashi, S., Kuma, K., Sasaoka, K., Saitoh, S., Mochizuki, M., Shiga, N., & 
+ []
+
+
+Underfull \hbox (badness 3302) in paragraph at lines 1105--1124
+\OT1/cmr/m/n/10 in the north-west-ern north pa-cific ocean.  \OT1/cmr/m/it/10 Lim-nol-ogy and oceanog-ra-phy\OT1/cmr/m/n/10 , \OT1/cmr/m/it/10 47\OT1/cmr/m/n/10 (3), 
+ []
+
+[13]
+Underfull \hbox (badness 10000) in paragraph at lines 1136--1155
+[]\OT1/cmr/m/n/10 Ohgaito, R., Abe-Ouchi, A., O'ishi, R., Take-mura, T., Ito, A., Ha-jima, T., ... 
+ []
+
+
+Underfull \hbox (badness 4316) in paragraph at lines 1136--1155
+\OT1/cmr/m/n/10 Kawamiya, M.  (2018).  Ef-fect of high dust amount on sur-face tem-per-a-ture 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1224--1241
+[]\OT1/cmr/m/n/10 Petit, J.-R., Mourner, L., Jouzel, J., Ko-rotke-vich, Y. S., Kotlyakov, V., & Lo-rius, C. 
+ []
+
+
+Underfull \hbox (badness 1107) in paragraph at lines 1224--1241
+\OT1/cmr/m/n/10 (1990).  Palaeo-cli-ma-to-log-i-cal and chrono-log-i-cal im-pli-ca-tions of the vos-tok core 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1257--1276
+\OT1/cmr/m/n/10 ron-men-tal char-ac-ter-i-za-tion of global sources of at-mo-spheric soil dust iden-ti-fied 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1257--1276
+\OT1/cmr/m/n/10 with the nim-bus 7 to-tal ozone map-ping spec-trom-e-ter (toms) ab-sorb-ing aerosol 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1315--1334
+[]\OT1/cmr/m/n/10 Ridgwell, A., Har-g-reaves, J., Ed-wards, N. R., An-nan, J., Lenton, T. M., Marsh, R., 
+ []
+
+
+Underfull \hbox (badness 1521) in paragraph at lines 1315--1334
+\OT1/cmr/m/n/10 ... Wat-son, A.  (2007).  Ma-rine geo-chem-i-cal data as-sim-i-la-tion in an ef-fi-cient 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1315--1334
+\OT1/cmr/m/n/10 earth sys-tem model of global bio-geo-chem-i-cal cy-cling.  \OT1/cmr/m/it/10 Bio-geo-sciences\OT1/cmr/m/n/10 , \OT1/cmr/m/it/10 4\OT1/cmr/m/n/10 (1), 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1350--1366
+[]\OT1/cmr/m/n/10 Sholkovitz, E. R., Sed-wick, P. N., Church, T. M., Baker, A. R., & Pow-ell, C. F. 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1350--1366
+\OT1/cmr/m/n/10 (2012).  Frac-tional sol-u-bil-ity of aerosol iron: Syn-the-sis of a global-scale data 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1378--1396
+[]\OT1/cmr/m/n/10 Siegenthaler, U., Stocker, T. F., Mon-nin, E., Luthi, D., Schwan-der, J., Stauf-fer, B., 
+ []
+
+
+Underfull \hbox (badness 4072) in paragraph at lines 1378--1396
+\OT1/cmr/m/n/10 ... oth-ers  (2005).  Sta-ble car-bon cy-cle cli-mate re-la-tion-ship dur-ing the late 
+ []
+
+
+Underfull \hbox (badness 1609) in paragraph at lines 1408--1423
+[]\OT1/cmr/m/n/10 Steffensen, J. P.  (1997).  The size dis-tri-bu-tion of mi-cropar-ti-cles from se-lected seg- 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1408--1423
+\OT1/cmr/m/n/10 ments of the green-land ice core project ice core rep-re-sent-ing dif-fer-ent cli-matic 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1435--1453
+[]\OT1/cmr/m/n/10 Sueyoshi, T., Ohgaito, R., Ya-mamoto, A., Chikamoto, M., Ha-jima, T., Oka-jima, H., 
+ []
+
+
+Underfull \hbox (badness 1527) in paragraph at lines 1435--1453
+\OT1/cmr/m/n/10 ... oth-ers  (2013).  Set-up of the pmip3 pa-le-o-cli-mate ex-per-i-ments con-ducted 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1435--1453
+\OT1/cmr/m/n/10 us-ing an earth sys-tem model, miroc-esm.  \OT1/cmr/m/it/10 Geo-sci-en-tific Model De-vel-op-ment\OT1/cmr/m/n/10 , 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1465--1483
+[]\OT1/cmr/m/n/10 Tagliabue, A., Au-mont, O., DeAth, R., Dunne, J. P., Dutkiewicz, S., Gal-braith, E., 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1495--1511
+[]\OT1/cmr/m/n/10 Tagliabue, A., Bowie, A. R., Boyd, P. W., Buck, K. N., John-son, K. S., & Saito, 
+ []
+
+
+Underfull \hbox (badness 1715) in paragraph at lines 1495--1511
+\OT1/cmr/m/n/10 M. A.  (2017).  The in-te-gral role of iron in ocean bio-geo-chem-istry.  \OT1/cmr/m/it/10 Na-ture\OT1/cmr/m/n/10 , 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1523--1541
+[]\OT1/cmr/m/n/10 Takemura, T., Egashira, M., Mat-suzawa, K., Ichijo, H., O'ishi, R., & Abe-Ouchi, 
+ []
+
+
+Underfull \hbox (badness 5064) in paragraph at lines 1523--1541
+\OT1/cmr/m/n/10 A.  (2009).  A sim-u-la-tion of the global dis-tri-bu-tion and ra-dia-tive forc-ing of 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1523--1541
+\OT1/cmr/m/n/10 soil dust aerosols at the last glacial max-i-mum.  \OT1/cmr/m/it/10 At-mo-spheric Chem-istry and 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1553--1574
+[]\OT1/cmr/m/n/10 Tani, H., Nish-ioka, J., Kuma, K., Takata, H., Ya-mashita, Y., Tanoue, E., & Mi- 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1553--1574
+\OT1/cmr/m/n/10 or-ganic mat-ter in the deep wa-ter col-umn of the okhotsk sea and the north-west- 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1553--1574
+\OT1/cmr/m/n/10 ern north pa-cific ocean.  \OT1/cmr/m/it/10 Deep Sea Re-search Part I: Oceano-graphic Re-search 
+ []
+
+
+Underfull \hbox (badness 2142) in paragraph at lines 1588--1602
+[]\OT1/cmr/m/n/10 Wells, M. L., Price, N. M., & Bru-land, K. W.  (1995).  Iron chem-istry in sea-wa-ter 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1614--1634
+[]\OT1/cmr/m/n/10 Yukimoto, S., Adachi, Y., Hosaka, M., Sakami, T., Yoshimura, H., Hirabara, M., 
+ []
+
+) [14] (./journaltemplate.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.45pt have occurred.
 
  ) 
 Here is how much of TeX's memory you used:
- 3988 strings out of 478287
- 66351 string characters out of 5849289
- 391791 words of memory out of 5000000
- 22104 multiletter control sequences out of 15000+600000
- 475803 words of font info for 50 fonts, out of 8000000 for 9000
+ 4162 strings out of 478287
+ 69991 string characters out of 5849289
+ 397508 words of memory out of 5000000
+ 22274 multiletter control sequences out of 15000+600000
+ 476149 words of font info for 51 fonts, out of 8000000 for 9000
  1147 hyphenation exceptions out of 8191
  70i,10n,76p,2429b,349s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on journaltemplate.pdf (12 pages, 1000830 bytes).
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb>
+Output written on journaltemplate.pdf (14 pages, 1034896 bytes).
 PDF statistics:
- 245 PDF objects out of 1000 (max. 8388607)
- 151 compressed objects within 2 object streams
+ 257 PDF objects out of 1000 (max. 8388607)
+ 159 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  31 words of extra memory for PDF output out of 10000 (max. 10000000)
 
